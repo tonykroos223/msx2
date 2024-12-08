@@ -415,6 +415,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-08 23:16:03 +0000",
       "minecraft:spider": "2024-12-08 23:05:10 +0000",
       "minecraft:creeper": "2024-12-08 23:04:18 +0000",
       "minecraft:enderman": "2024-12-08 23:04:42 +0000",
@@ -534,6 +535,12 @@
   "spartanweaponry:recipes/wooden_javelin": {
     "criteria": {
       "has_wood": "2024-12-08 22:15:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2024-12-08 23:14:52 +0000"
     },
     "done": true
   },

@@ -2158,15 +2158,105 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2024-12-08 23:17:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_redstone_block": "2024-12-08 23:10:15 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-08 23:20:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2024-12-08 23:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-08 23:17:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2024-12-08 23:20:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2024-12-08 23:20:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 23:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-08 23:20:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2024-12-08 23:20:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-12-08 23:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-08 23:20:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2024-12-08 23:20:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2024-12-08 23:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-08 23:20:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2024-12-08 23:20:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-08 23:20:43 +0000"
     },
     "done": true
   },
