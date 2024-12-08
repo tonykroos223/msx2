@@ -4840,3 +4840,52 @@ java.lang.NullPointerException: null
 [08Dec2024 22:57:39.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-726, y=-13, z=-787}
 [08Dec2024 22:57:41.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Spectator Mode]
 [08Dec2024 22:57:42.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[08Dec2024 22:58:15.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[08Dec2024 22:58:19.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE was kicked for floating too long!
+[08Dec2024 22:58:19.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE lost connection: Flying is not enabled on this server
+[08Dec2024 22:58:19.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE left the game
+[08Dec2024 22:58:28.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRECETRECETRECE[/127.202.206.192:40117] logged in with entity id 31976 at (-545.9899617439702, 95.3450235764436, -711.3247886717185)
+[08Dec2024 22:58:28.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE joined the game
+[08Dec2024 22:58:28.228] [Server thread/INFO] [Jade/]: Syncing config to TRECETRECETRECE (723c0b61-1d01-371c-be4b-0b6817ec3f00)
+[08Dec2024 22:58:38.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE lost connection: Disconnected
+[08Dec2024 22:58:38.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE left the game
+[08Dec2024 23:00:32.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRECETRECETRECE[/127.202.206.192:46267] logged in with entity id 33407 at (-545.9899617439702, 61.0, -711.3247886717185)
+[08Dec2024 23:00:32.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE joined the game
+[08Dec2024 23:00:32.506] [Server thread/INFO] [Jade/]: Syncing config to TRECETRECETRECE (723c0b61-1d01-371c-be4b-0b6817ec3f00)
+[08Dec2024 23:00:51.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE drowned
+[08Dec2024 23:00:58.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to GralMarcosPerez]
+[08Dec2024 23:01:04.035] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-439, y=2, z=-1066}
+[08Dec2024 23:01:11.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[08Dec2024 23:01:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[08Dec2024 23:01:42.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[08Dec2024 23:01:58.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Applied effect Saturation to GralMarcosPerez]
+[08Dec2024 23:02:23.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported GralMarcosPerez to TRECETRECETRECE]
+[08Dec2024 23:02:44.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Applied enchantment Knockback II to TRECETRECETRECE's item]
+[08Dec2024 23:03:22.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[08Dec2024 23:03:32.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by TRECETRECETRECE
+[08Dec2024 23:03:37.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported ezekillah to TRECETRECETRECE]
+[08Dec2024 23:03:56.389] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:04:04.748] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:04:04.942] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:04:18.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Monster Hunter]
+[08Dec2024 23:04:45.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [They Have a Cave Troll!]
+[08Dec2024 23:05:15.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Creative Mode]
+[08Dec2024 23:05:30.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set ezekillah's game mode to Survival Mode]
+[08Dec2024 23:05:34.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah was kicked for floating too long!
+[08Dec2024 23:05:34.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Flying is not enabled on this server
+[08Dec2024 23:05:34.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
+[08Dec2024 23:05:41.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ezekillah[/127.165.32.75:58541] logged in with entity id 38196 at (-687.5517921194703, 120.35550978579946, -673.5725297707047)
+[08Dec2024 23:05:41.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah joined the game
+[08Dec2024 23:05:41.953] [Server thread/INFO] [Jade/]: Syncing config to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[08Dec2024 23:05:52.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Disconnected
+[08Dec2024 23:05:52.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
+[08Dec2024 23:06:47.613] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[08Dec2024 23:06:59.140] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-932, y=16, z=-771} but found not block entity block Block{minecraft:water}[level=8] at location
+[08Dec2024 23:06:59.141] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-932, y=16, z=-771}
+[08Dec2024 23:07:30.478] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1065, y=-32, z=-821}
+[08Dec2024 23:07:30.480] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1064, y=-19, z=-828}
+[08Dec2024 23:07:30.480] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1070, y=-19, z=-828}
+[08Dec2024 23:07:30.480] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1064, y=-19, z=-823}
+[08Dec2024 23:07:30.480] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1070, y=-19, z=-823}
+[08Dec2024 23:07:40.447] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1096, y=-8, z=-732}
+[08Dec2024 23:08:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to GralMarcosPerez]
