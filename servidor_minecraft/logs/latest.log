@@ -5158,3 +5158,22 @@ java.lang.NullPointerException: null
 [08Dec2024 23:35:04.844] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
 [08Dec2024 23:38:41.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE lost connection: Disconnected
 [08Dec2024 23:38:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE left the game
+[08Dec2024 23:39:14.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez moved wrongly!
+[08Dec2024 23:39:23.887] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:39:55.285] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:39:56.109] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:42:38.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez lost connection: Timed out
+[08Dec2024 23:42:38.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez left the game
+[08Dec2024 23:42:52.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GralMarcosPerez[/127.212.248.26:45017] logged in with entity id 55133 at (-644.0621169193931, 64.0, -582.4296853949886)
+[08Dec2024 23:42:52.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez joined the game
+[08Dec2024 23:42:52.487] [Server thread/INFO] [Jade/]: Syncing config to GralMarcosPerez (1b978ca6-6067-3143-9f84-9a4e505b6253)
+[08Dec2024 23:43:18.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRECETRECETRECE[/127.202.206.192:39079] logged in with entity id 55170 at (-638.4635371385583, 64.0, -584.461503449168)
+[08Dec2024 23:43:18.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE joined the game
+[08Dec2024 23:43:18.957] [Server thread/INFO] [Jade/]: Syncing config to TRECETRECETRECE (723c0b61-1d01-371c-be4b-0b6817ec3f00)
+[08Dec2024 23:43:38.755] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:43:39.748] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:45:57.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[08Dec2024 23:46:50.305] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:47:16.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE lost connection: Disconnected
+[08Dec2024 23:47:16.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE left the game
+[08Dec2024 23:48:07.594] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
