@@ -4447,3 +4447,96 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [08Dec2024 22:05:22.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregory-E left the game
 [08Dec2024 22:05:22.826] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [08Dec2024 22:07:06.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[08Dec2024 22:08:43.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[08Dec2024 22:09:07.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by TRECETRECETRECE
+[08Dec2024 22:09:32.186] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GralMarcosPerez[/127.212.248.26:41375] logged in with entity id 9112 at (-3.5, 67.0, 10.5)
+[08Dec2024 22:09:32.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez joined the game
+[08Dec2024 22:09:32.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Souls like universe]
+[08Dec2024 22:09:32.274] [Server thread/INFO] [Jade/]: Syncing config to GralMarcosPerez (1b978ca6-6067-3143-9f84-9a4e505b6253)
+[08Dec2024 22:09:32.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Orcz Challenges]
+[08Dec2024 22:09:32.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Ice and Fire]
+[08Dec2024 22:09:33.182] [Netty Epoll Server IO #2/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 85
+java.lang.NullPointerException: null
+[08Dec2024 22:09:33.182] [Netty Epoll Server IO #3/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 85
+java.lang.NullPointerException: null
+[08Dec2024 22:09:33.182] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSetEquipmentPacket caused an error above, printing name & data
+[08Dec2024 22:09:33.182] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSetEquipmentPacket caused an error above, printing name & data
+[08Dec2024 22:09:33.193] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133198_": 9112,
+  "f_133199_": [
+    "(MAINHAND, 1 the_bossdexium)"
+  ]
+}
+[08Dec2024 22:09:33.195] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133198_": 9112,
+  "f_133199_": [
+    "(MAINHAND, 1 the_bossdexium)"
+  ]
+}
+[08Dec2024 22:09:33.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException
+[08Dec2024 22:09:33.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE left the game
+[08Dec2024 22:09:33.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException
+[08Dec2024 22:09:33.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
+[08Dec2024 22:09:42.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRECETRECETRECE[/127.202.206.192:33491] logged in with entity id 9223 at (22.604898107964562, 66.0, 32.17904067839061)
+[08Dec2024 22:09:42.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE joined the game
+[08Dec2024 22:09:42.475] [Server thread/INFO] [Jade/]: Syncing config to TRECETRECETRECE (723c0b61-1d01-371c-be4b-0b6817ec3f00)
+[08Dec2024 22:09:45.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ezekillah[/127.165.32.75:46085] logged in with entity id 9300 at (24.472095998928665, 66.0, 28.887930691461335)
+[08Dec2024 22:09:45.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah joined the game
+[08Dec2024 22:09:45.115] [Server thread/INFO] [Jade/]: Syncing config to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[08Dec2024 22:10:06.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by TRECETRECETRECE
+[08Dec2024 22:10:53.813] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:10:56.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Straightening the Scythes]
+[08Dec2024 22:10:56.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=68, z=12}
+[08Dec2024 22:10:57.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=66, z=10}
+[08Dec2024 22:10:57.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=66, z=9}
+[08Dec2024 22:10:58.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=66, z=10}
+[08Dec2024 22:10:58.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=66, z=8}
+[08Dec2024 22:10:58.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=66, z=8}
+[08Dec2024 22:10:58.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=66, z=8}
+[08Dec2024 22:10:59.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=66, z=10}
+[08Dec2024 22:10:59.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=66, z=10}
+[08Dec2024 22:10:59.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=67, z=12}
+[08Dec2024 22:11:00.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=67, z=7}
+[08Dec2024 22:11:05.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez was slain by TRECETRECETRECE
+[08Dec2024 22:11:09.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by TRECETRECETRECE
+[08Dec2024 22:11:16.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=67, z=13}
+[08Dec2024 22:11:21.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set the time to 1000]
+[08Dec2024 22:11:27.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=66, z=14}
+[08Dec2024 22:11:41.585] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:11:41.763] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:11:46.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[08Dec2024 22:11:53.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Suit Up]
+[08Dec2024 22:11:59.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Suit Up]
+[08Dec2024 22:12:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Barrel Booty]
+[08Dec2024 22:12:14.490] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:12:15.431] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:12:18.635] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:12:19.184] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:12:20.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Suit Up]
+[08Dec2024 22:12:23.332] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:12:26.835] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:12:38.787] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:12:39.438] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:12:45.986] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:12:49.843] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:12:51.541] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:12:55.584] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:12:59.168] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:13:01.138] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:13:08.933] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:13:10.633] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:13:14.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Best Friends Forever]
+[08Dec2024 22:14:10.137] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:14:10.345] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:14:10.542] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:15:19.543] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:15:27.034] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:15:32.750] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:15:34.881] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:15:35.932] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:15:52.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Stone Age]
+[08Dec2024 22:16:07.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Getting an Upgrade]
+[08Dec2024 22:16:30.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Stone Age]
+[08Dec2024 22:17:12.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
