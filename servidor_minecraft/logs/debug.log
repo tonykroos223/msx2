@@ -19783,3 +19783,240 @@ java.lang.NullPointerException: null
 [08Dec2024 22:47:32.085] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/church is being run through DFU (hash 9a7a833f4d75bff0034b2f26d7345cb97ad46f7e4b7c0a567c07df3021fac4d0), this will cause launch time delays
 [08Dec2024 22:47:32.155] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/2/top is being run through DFU (hash d9c00df651a9b021aa6ac1d31f47829c424db9b97513acab75bb8ea4afa18f29), this will cause launch time delays
 [08Dec2024 22:47:32.250] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:entities/vindicator is being run through DFU (hash 5dd6855f36d88b29c351f5e2b8fa10a2f2de7bf2038af87e3447547776df5d69), this will cause launch time delays
+[08Dec2024 22:47:44.374] [Worker-Main-10/DEBUG] [ModernFix/]: Structure philipsruins:pumpkin_ruin_two is being run through DFU (hash 925fab2ff602f66ad80fa47e1345aa7ce7186c04f84bea129091f8d0d0e421c7), this will cause launch time delays
+[08Dec2024 22:47:45.303] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-420, y=63, z=-485} at Barrel with:minecraft:chests/village/village_armorer
+[08Dec2024 22:47:45.668] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_23 is being run through DFU (hash 1a6c53f36beab942f4138a52be1e391bc930d5549107d31beb40c5109002bd09), this will cause launch time delays
+[08Dec2024 22:47:59.476] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_13 is being run through DFU (hash 095d46cb310c2816937d32c79500d98da0f89d4e3099785017a96fe3067cf5b8), this will cause launch time delays
+[08Dec2024 22:48:00.333] [Worker-Main-10/DEBUG] [ModernFix/]: Structure philipsruins:desert_ruin3 is being run through DFU (hash 647d29465c5de801ddcb58d1aa2e7b1c8cda286913b918093fe6bd73afdb2eec), this will cause launch time delays
+[08Dec2024 22:48:08.578] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:mushroom_grave/mushroom_grave_01 is being run through DFU (hash 7e8b1a464799973dd5d61614e5d1a23a359defe09d4677fefeac6665c016c4d0), this will cause launch time delays
+[08Dec2024 22:48:09.744] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_07 is being run through DFU (hash 76596ca855b63c58a4b7722ab1e9cd651c3f9dd0016cdaba414c774cf7e7fd47), this will cause launch time delays
+[08Dec2024 22:48:14.523] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/ruin1 is being run through DFU (hash 5eb7ef901fb8182100bdfa30f4bb3ad62cf6f9b1c38ee9f0333ce73ec43f41b7), this will cause launch time delays
+[08Dec2024 22:48:14.799] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[08Dec2024 22:48:22.648] [Worker-Main-10/DEBUG] [ModernFix/]: Structure hopo:portal2 is being run through DFU (hash 541696daab11ea3b4463c134b0879de1efb58c37142d8ba764b1ab2c96699980), this will cause launch time delays
+[08Dec2024 22:48:22.868] [Worker-Main-10/DEBUG] [ModernFix/]: Structure mvs:other_decoration/fire_camp is being run through DFU (hash ef1de8b73ff6362aaa4a2322c2abb04097cafb4bead88c26b4c4b6077de706de), this will cause launch time delays
+[08Dec2024 22:48:27.184] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[08Dec2024 22:48:33.102] [Worker-Main-3/DEBUG] [ModernFix/]: Structure philipsruins:ocean_ruin1 is being run through DFU (hash 3f0493b9f8c6278bce08ae6252d8e691638050d68020cb93dec1a7cb3f91a6e2), this will cause launch time delays
+[08Dec2024 22:48:33.705] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_11b is being run through DFU (hash a1096bcb85c1dc7d2ef9390b0bbaf1fae71e4114cf5c55d7a4d09382e44152c2), this will cause launch time delays
+[08Dec2024 22:49:22.889] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[08Dec2024 22:49:23.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 22:49:23.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 22:49:26.983] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_9 is being run through DFU (hash 878d7c37e32272da39aab9c132fee2dac88e6683d32857bfbfb7b51ad53e3e2b), this will cause launch time delays
+[08Dec2024 22:49:31.290] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[08Dec2024 22:49:31.303] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[08Dec2024 22:49:31.360] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/snowy_taiga_drakkar_1 is being run through DFU (hash 307387d57d93312ecda10ad14c93782c3ec28ba0a7bad810015aa992cf772f1a), this will cause launch time delays
+[08Dec2024 22:49:31.361] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_04 is being run through DFU (hash 8c3966b7e5e3955561cab40974c8f2c4d97bbc05f5ce7af8b40a188a5ee37189), this will cause launch time delays
+[08Dec2024 22:49:31.362] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_armorer_1 is being run through DFU (hash 1b466cd6a3ad4bbe84ebec133badb20c15a7720a8a7de53e03415b46d2783e15), this will cause launch time delays
+[08Dec2024 22:49:31.368] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_butcher_1 is being run through DFU (hash 2d0b9c7df4ee55bd8de6ff510c505623b8377d3570663a2e76d805777f2786f4), this will cause launch time delays
+[08Dec2024 22:49:31.370] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_cartographer_1 is being run through DFU (hash 1317f96d7b2b576c7f0947c7eee664439e0e899a1546ff7a2c5914a969e703ac), this will cause launch time delays
+[08Dec2024 22:49:31.372] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fisher_1 is being run through DFU (hash 36154f4e515332e6e985b3b7b813111b11e8062652da59fb59b1870f06f0aed0), this will cause launch time delays
+[08Dec2024 22:49:31.374] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fletcher_1 is being run through DFU (hash 61f64acd7952d00aa635c4b21613de5b8bea7b0f96528e29cd95cdd1ac99c402), this will cause launch time delays
+[08Dec2024 22:49:31.376] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_leatherworker_1 is being run through DFU (hash 067a44ad5af8d7b9e47ee76e8c028ec2143b62c309a9a55da8aab41c458207d2), this will cause launch time delays
+[08Dec2024 22:49:31.379] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_library_1 is being run through DFU (hash 9c7196387df135312351ab40c1bd625292be1a7e32dcf95c548efd5838b7660e), this will cause launch time delays
+[08Dec2024 22:49:31.382] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_mason_1 is being run through DFU (hash 80e087ad7a4eacc999231d3291a07b313573c1008ed0685b71978f418c12319e), this will cause launch time delays
+[08Dec2024 22:49:31.383] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_shepherd_1 is being run through DFU (hash 66f5853848c1f88c170ff9089d8fbc97587d6920958e8407967467175ac20b98), this will cause launch time delays
+[08Dec2024 22:49:31.385] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_farm_1 is being run through DFU (hash 85312ec4b71d58929c48579685510ecf332eaa3b1daac75043897b688d5378cb), this will cause launch time delays
+[08Dec2024 22:49:31.386] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_toolsmith_and_weaponsmith_1 is being run through DFU (hash b038e57362547d85e0dff96bd5526014ab5bad3685427c7fc332c99e984ae077), this will cause launch time delays
+[08Dec2024 22:49:31.389] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_temple_1 is being run through DFU (hash d31d7af3442e0e6cae51e1767261040bbca5edcdd6cb4da54c6a1bbddd3dfdb1), this will cause launch time delays
+[08Dec2024 22:49:31.391] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_1 is being run through DFU (hash 9a11f9cf46f65aea84d724d38b49a7de5d98dcf7522c1e0b39edd0c08aa366e4), this will cause launch time delays
+[08Dec2024 22:49:31.393] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_2 is being run through DFU (hash 09f138ea948059be3f656ecb95ac553d3062c6e793ed0df4fc75e34bbd4549a9), this will cause launch time delays
+[08Dec2024 22:49:31.395] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_3 is being run through DFU (hash ad61237a0d6afd4b648102bce4deed74837a38218b30a45dc7994765701daac2), this will cause launch time delays
+[08Dec2024 22:49:31.397] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_4 is being run through DFU (hash 65498281eb2ba2bb19f2a9a7b8c4417ea837e812b8417192e76a872addffe55b), this will cause launch time delays
+[08Dec2024 22:49:31.401] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_5 is being run through DFU (hash cb7de76925864c8fe9055df486b83224d8f59227dec72db108425d32a5d31fd1), this will cause launch time delays
+[08Dec2024 22:49:31.403] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/terminators/terminator_01 is being run through DFU (hash ab221a2e009769dfafec9654f8438547f93e8a59ca3220b73c4cf1cefa76df29), this will cause launch time delays
+[08Dec2024 22:49:31.404] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/terminators/terminator_02 is being run through DFU (hash 66e890eb9d1d9ee10ef622a600576ddef845198639b9c3f636f8e9f097781ad8), this will cause launch time delays
+[08Dec2024 22:49:31.404] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/terminators/terminator_03 is being run through DFU (hash 71e4434ac13c4a6b43de4c7136c5143457e030cbc28de95c8dbe7ad45ba4361e), this will cause launch time delays
+[08Dec2024 22:49:31.405] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/terminators/terminator_04 is being run through DFU (hash 6a8ea3251241d45615752e2904d9b4e3592c576cf7e266fb2342f3fb5415c558), this will cause launch time delays
+[08Dec2024 22:49:31.422] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_01 is being run through DFU (hash 74a7999dfbe8bfc9c9e14a2dc10420af3ce7514353c415ec12e8d5ec4d13a062), this will cause launch time delays
+[08Dec2024 22:49:31.425] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/snowy_taiga_wood_pile_1 is being run through DFU (hash e49eb8ba4e772efd2fffe7e5ff4322a036becc392a6b43569791178bbde9533c), this will cause launch time delays
+[08Dec2024 22:49:31.438] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_06 is being run through DFU (hash 75e7611a8b3fc773591ba49555ad4ef65c1bd18b39f44eaa45124b0013b46605), this will cause launch time delays
+[08Dec2024 22:49:31.452] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_02 is being run through DFU (hash 174ad1a14bf48e4815307313386cab69243ee3cb988e819ed6fedd3ab5b542ca), this will cause launch time delays
+[08Dec2024 22:49:31.478] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_03 is being run through DFU (hash 75fdaa68698ae16660ee7e23655f5b5fa49d7be9bef2f39473c6de9ca76c2419), this will cause launch time delays
+[08Dec2024 22:49:31.480] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_01 is being run through DFU (hash baf170cff6138788562bba5230459bd7768aca184e5a6dafb2746696afc78980), this will cause launch time delays
+[08Dec2024 22:49:31.482] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_03 is being run through DFU (hash b6f818b5e60e084c7981ddac011769b9288b67b0d908f92fb7224377fcc8d307), this will cause launch time delays
+[08Dec2024 22:49:31.484] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_05 is being run through DFU (hash d9dff8acd9597fac6a52a70cc042fece0869215a56b42fb6e8b3b3d64a1497a5), this will cause launch time delays
+[08Dec2024 22:49:31.485] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/corner_02 is being run through DFU (hash fb2ef20fa6006051661ebd5d65f9d08cce41d9501ab22190cb214ef7a299cef6), this will cause launch time delays
+[08Dec2024 22:49:31.486] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/turn_01 is being run through DFU (hash ff9263e8cb5b99d8b2933a964867944a24bddaaf18aae0730ef39be667c4bbeb), this will cause launch time delays
+[08Dec2024 22:49:31.488] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_06 is being run through DFU (hash 3d0e481b81ff0560c6fe4b737c665ed5f107e3ea803f9ee52070d9c0e01561db), this will cause launch time delays
+[08Dec2024 22:49:31.492] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_05 is being run through DFU (hash e7e5af3a634d1265d908dc5f86485e83d44d4a02bcdfacdc2cde49f4447543e9), this will cause launch time delays
+[08Dec2024 22:49:31.494] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_04 is being run through DFU (hash 44c9a3788ec85f41af34bf14a1032cf0e08129235993409cac59bfa3f63f6f74), this will cause launch time delays
+[08Dec2024 22:49:31.495] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/corner_01 is being run through DFU (hash c7325a40c7fa7df5cfeff31d6e0aa73b633a4ce5fbf3d79c1849daaf97a0a9c3), this will cause launch time delays
+[08Dec2024 22:49:31.497] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/corner_03 is being run through DFU (hash 987d799aa447cfdd81bc4beb12904cad47b1cdd274972e2f14cf34bfa05f7ab9), this will cause launch time delays
+[08Dec2024 22:49:31.498] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_02 is being run through DFU (hash 617124a88c57068d361b78c58d85b60432b71baf1cb322266a9b92ca5bc40c02), this will cause launch time delays
+[08Dec2024 22:49:34.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4904ms or 98 ticks behind
+[08Dec2024 22:50:06.799] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/town_centers/taiga_market
+[08Dec2024 22:50:06.814] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_market
+[08Dec2024 22:50:06.856] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_mason is being run through DFU (hash 1d6e1400a6179aa5f247b72204d1bbf04e2cf2a57b015e13cf0c26b9f3941a9f), this will cause launch time delays
+[08Dec2024 22:50:06.859] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/streets/savanna_straight2 is being run through DFU (hash 3f461781892c859db6b2464ee626bf88d25f2c30025319938d22c406159b0878), this will cause launch time delays
+[08Dec2024 22:50:06.883] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_farm2 is being run through DFU (hash 4287ce4620d171404f37be401efc738f002608455cb61408a14449378b77cd0c), this will cause launch time delays
+[08Dec2024 22:50:06.888] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_big_house is being run through DFU (hash f46dbfc9157d1a6c8ad4bacc47a5e90229c9bb3af4a26f3f44320d35ffb1c6f2), this will cause launch time delays
+[08Dec2024 22:50:06.917] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/streets/savanna_circle1 is being run through DFU (hash a3124c828b190301a03dfc95a74c9851cf4228a7b2dff370d4c82bfb7927c9ea), this will cause launch time delays
+[08Dec2024 22:50:06.932] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/streets/savanna_straight1 is being run through DFU (hash e6c243dee3e6ba961a5fb806855470411f6c12c38fcb487bcb39a44383f34229), this will cause launch time delays
+[08Dec2024 22:50:06.937] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/streets/savanna_straight4 is being run through DFU (hash 96af21bef72b6c7914965f732fb91db85192e81ed9eba09b63472ee4d66a6534), this will cause launch time delays
+[08Dec2024 22:50:06.940] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/streets/savanna_curve1 is being run through DFU (hash a31a015ef4cd3a6a2f3e85a657a5d4a048bb9c68520c35052430227c67b6e127), this will cause launch time delays
+[08Dec2024 22:50:06.942] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/streets/savanna_straight3 is being run through DFU (hash 3ecda9e29a5fa5c93b967d039c5c8224da7a7bea631a093e3387ba672043007e), this will cause launch time delays
+[08Dec2024 22:50:06.947] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/streets/savanna_curve2 is being run through DFU (hash 816b2b347d40b1a157daf53052621aa1934b149b01139f436eb44c8fd4b396d9), this will cause launch time delays
+[08Dec2024 22:50:06.949] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/streets/savanna_circle2 is being run through DFU (hash 7e37747059a4e8ac81f7b4d0a2bd297b468e555298fbc7ea7b6adcaa485fbd53), this will cause launch time delays
+[08Dec2024 22:50:06.956] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/terminators/terminator_02 is being run through DFU (hash 277471ea07ea0c5e3fc6bc5c81d91a7d65a6b80ce10bb81ba62d7feab46b51c2), this will cause launch time delays
+[08Dec2024 22:50:06.956] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/terminators/terminator_03 is being run through DFU (hash e69f3cd4ff858971644b69dfe5eb45df924ebc68dacd8c4b0d7eac07bf20839b), this will cause launch time delays
+[08Dec2024 22:50:06.957] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/terminators/terminator_01 is being run through DFU (hash aea4a10f9a1d1ce75b1e389c79c9fb967528197caa33a3845223b93cd33673c0), this will cause launch time delays
+[08Dec2024 22:50:06.957] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/terminators/terminator_04 is being run through DFU (hash b2c988756589545a5fbbb56e02ca0f48cd47db62d41335e4eec940223f5ed29a), this will cause launch time delays
+[08Dec2024 22:50:06.959] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_medium_house2 is being run through DFU (hash b141670b9af404863ad6ab5234204e97789fd717ea7e23c5e2b80dc74d9b4003), this will cause launch time delays
+[08Dec2024 22:50:06.982] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_weaponsmith is being run through DFU (hash 344cb29fe48a15264916fe1440e7456699bdf02061c211a3a085d833a387cb09), this will cause launch time delays
+[08Dec2024 22:50:06.997] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_toolsmith is being run through DFU (hash 182b43a22f2d6c77c8ae5e91944d65e0d31aa8976c52e31741692adef0ce5f79), this will cause launch time delays
+[08Dec2024 22:50:07.013] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_armorer is being run through DFU (hash b2c7a32232348705914dc9dab9fef99f65ecb40ae113213033565d3d64392a99), this will cause launch time delays
+[08Dec2024 22:50:07.033] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_teepee2 is being run through DFU (hash 06515cc904718e4808dad60ec1340ce26be6e169b493043e4094a6cc09242bfa), this will cause launch time delays
+[08Dec2024 22:50:07.037] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_teepee1 is being run through DFU (hash 0de47c3164369ff52a9e4f0c2e6a6ba755dab323b5d98421d12c7122a16a49c8), this will cause launch time delays
+[08Dec2024 22:50:07.043] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_shepherd is being run through DFU (hash bf853b57779b56897dd9619d999bb4ad6a2053de4cd84f44673c207cb72ee59f), this will cause launch time delays
+[08Dec2024 22:50:07.047] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_butcher is being run through DFU (hash e1f8307f5334c6b96fa5f0fd8a0aa500c521a7b87f692b627d8610b0fcef9c1e), this will cause launch time delays
+[08Dec2024 22:50:07.049] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_farm1 is being run through DFU (hash 27b6119ee96939ba46915e90fbbf9188ab0a19bd7c3b2a29c118ea5c620178ca), this will cause launch time delays
+[08Dec2024 22:50:07.053] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_teepee3 is being run through DFU (hash e141ecbff133447acff7aeabc69dcebdb04ba262ff506a5ee70705de0d978d4a), this will cause launch time delays
+[08Dec2024 22:50:07.057] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_tannery is being run through DFU (hash d75acf813e7a87ff19cdaac20c2dc851813d65fa34a2a932397f24d0a57661b9), this will cause launch time delays
+[08Dec2024 22:50:07.059] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_cartographer is being run through DFU (hash 82c0716e18103aa67a84db95db9bd81872e8f9dc4a3316ce7b17ea3dadca8d92), this will cause launch time delays
+[08Dec2024 22:50:07.062] [Worker-Main-3/DEBUG] [ModernFix/]: Structure iceandfire:village/savanna_scriber_1 is being run through DFU (hash 1aee738221b30ef94e77a84658532db39be9ef691660fd235b3a721f5414a198), this will cause launch time delays
+[08Dec2024 22:50:07.087] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/houses/savanna_temple is being run through DFU (hash 2c1e4c1554f1d5edf04e7291621365ee8aa3c0b022d9da0d11c1200640f907c6), this will cause launch time delays
+[08Dec2024 22:52:25.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Killed TRECETRECETRECE]
+[08Dec2024 22:52:25.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE moved too quickly! -133.76684357532008,0.6625000238418579,-86.04977768533792
+[08Dec2024 22:52:33.826] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[08Dec2024 22:52:38.840] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/tower3 is being run through DFU (hash cea3810c99c68ca7074464b61cc214cea902ab2593eb9bd4304f5059a7584790), this will cause launch time delays
+[08Dec2024 22:52:38.858] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/mound_watchtower is being run through DFU (hash 136bd9aaf578f2f4d40e05662df8161de17a81ffc41cb41183cf3806ed368940), this will cause launch time delays
+[08Dec2024 22:52:42.034] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[08Dec2024 22:52:42.055] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[08Dec2024 22:52:55.753] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:52:55.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:52:56.109] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:52:56.243] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:52:56.402] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:52:56.490] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:52:56.643] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:52:56.819] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:52:56.956] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:52:57.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:52:57.206] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:53:45.330] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:mangrove_witch_hut/mangrove_witch_hut_1 is being run through DFU (hash cadd627a5236f5cbea8fb46544db537f1301b4a8cf05db15c46d084cf70444a1), this will cause launch time delays
+[08Dec2024 22:53:45.818] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[08Dec2024 22:53:52.758] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=-689, y=-32, z=-406} at Barrel with:graveyard:chests/great_crypt_loot
+[08Dec2024 22:54:02.483] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vindicatorboss at BlockPos{x=-597, y=-44, z=-713} at Chest with:minecraft:chests/simple_dungeon
+[08Dec2024 22:54:07.191] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:07.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:07.448] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:07.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:07.812] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:07.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:08.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:08.202] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:08.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:09.093] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:09.239] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:09.395] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:09.547] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:09.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:09.850] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:09.997] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:10.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:10.301] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:10.434] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:10.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:10.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:10.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:10.991] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:12.045] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:12.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:12.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:12.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:12.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:12.835] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:12.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:12.958] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:13.136] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:13.249] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:13.415] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:13.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:13.559] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:14.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:15.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:15.281] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:15.996] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:16.736] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:16.741] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/26727, l='ServerLevel[world]', x=-427.90, y=48.00, z=-491.57] died: Brog the Bulwark was slain by TRECETRECETRECE
+[08Dec2024 22:54:16.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Acquire Hardware]
+[08Dec2024 22:54:21.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Barrel Booty]
+[08Dec2024 22:54:22.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Acquire Hardware]
+[08Dec2024 22:54:27.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 22:54:27.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 22:54:28.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Ice Bucket Challenge]
+[08Dec2024 22:54:29.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Going Clubbing]
+[08Dec2024 22:54:29.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Isn't It Iron Pick]
+[08Dec2024 22:54:31.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Draconic Evolution]
+[08Dec2024 22:54:31.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Reaping What You Sow]
+[08Dec2024 22:54:56.382] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:59.528] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:54:59.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:55:00.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:55:01.027] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:55:10.046] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:55:10.251] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:55:10.445] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:55:10.653] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:55:10.860] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:55:36.426] [Server thread/DEBUG] [ModernFix/]: Structure seadwellers:center is being run through DFU (hash 3d42be9fce85811a6576fe5a9c19446f0ebb2a8c079b0097f636eb34bc7f5428), this will cause launch time delays
+[08Dec2024 22:55:38.426] [Server thread/DEBUG] [ModernFix/]: Structure seadwellers:crypt is being run through DFU (hash 42fdd999f4958dab40be55e7a1d55126befca2392016b583efae7480e8863403), this will cause launch time delays
+[08Dec2024 22:55:38.927] [Server thread/DEBUG] [ModernFix/]: Structure seadwellers:pillars is being run through DFU (hash e5db61bbe9f3786d387e7ed3029137234af53e3bdaf70c40ac2893376f71cf22), this will cause launch time delays
+[08Dec2024 22:56:39.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:56:44.505] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_city_start
+[08Dec2024 22:56:45.976] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[08Dec2024 22:56:52.012] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-726, y=-22, z=-720} at Sarcophagus with:graveyard:chests/crypt_loot
+[08Dec2024 22:56:53.470] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_6_main is being run through DFU (hash 95b2db72dc9e5f8b3ebefc1ca0e863a6b019689f1b27f3df017b2feb67f146bf), this will cause launch time delays
+[08Dec2024 22:56:55.974] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[08Dec2024 22:56:56.476] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_0 is being run through DFU (hash 743b98ed67dc8d4fa6895ef863e2fd15aeefec076f98784628a49a6f1b57d6eb), this will cause launch time delays
+[08Dec2024 22:56:56.671] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[08Dec2024 22:56:56.695] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_layout_part_1_middle is being run through DFU (hash e4b60f0c9f9a13df5b86ff0f89d3c3d837c06fb6f865b22ecf738864b7d042df), this will cause launch time delays
+[08Dec2024 22:56:56.741] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_2 is being run through DFU (hash 5356c0191c8d9d3ae03d544870c6204cca9701b0538d300cd23d377dda1cf3ca), this will cause launch time delays
+[08Dec2024 22:56:57.034] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_0 is being run through DFU (hash 2c9ffcc34c925591d473c7457a436981055cb31f755343e045c50f9d8d013e75), this will cause launch time delays
+[08Dec2024 22:56:57.063] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_pillager_0 is being run through DFU (hash 5b954e6c9a153dc96aee542ae8e2813d5466cd4bdc9d7627224d581e8e589b37), this will cause launch time delays
+[08Dec2024 22:56:57.158] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_1 is being run through DFU (hash 3d16c532accd418b367cbe09e51d1891de4babcf4850540b09236f593188cfab), this will cause launch time delays
+[08Dec2024 22:56:57.161] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0 is being run through DFU (hash 1bdbb5904e08c005d77c14cf57dae04bc3b5c0b8f46bdaf5c0a9ae4bb5d4f0a6), this will cause launch time delays
+[08Dec2024 22:56:58.142] [Worker-Main-1/DEBUG] [ModernFix/]: Structure philipsruins:level_ruin_three8 is being run through DFU (hash c1126fc1b757fdda5bccf0441a524cfe530057ea4825af858bda8e55b307c22c), this will cause launch time delays
+[08Dec2024 22:57:07.821] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:outcast_villager/farm_ruin/main is being run through DFU (hash 2a433cc8a35dbceb71d6d48e240e5debe839da132cb57e62083f63825e0ed678), this will cause launch time delays
+[08Dec2024 22:57:07.883] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:outcast_villager/desert/rock_house1 is being run through DFU (hash c5b6416286c8d10df6dc3ef5cbeb7fb485aa9d51870f3b46337d0ee685b0faee), this will cause launch time delays
+[08Dec2024 22:57:07.925] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[08Dec2024 22:57:07.941] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/2/bottom is being run through DFU (hash 97b1362524df31daf2c9d4d3d217e7450138ef51b084f315d0da48e9e923770f), this will cause launch time delays
+[08Dec2024 22:57:09.324] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_fortress_main
+[08Dec2024 22:57:09.349] [Worker-Main-10/DEBUG] [ModernFix/]: Structure philipsruins:ocean_fortress_part1 is being run through DFU (hash 4929103abf3ae8ea39b88772c1e0d07a14151dfd775d54625fcba710a9aa415a), this will cause launch time delays
+[08Dec2024 22:57:09.362] [Worker-Main-10/DEBUG] [ModernFix/]: Structure philipsruins:ocean_fortress_part2 is being run through DFU (hash 9e6d1902402a8bc453d564fabae4a3423561bafd3cae8d86f7c322ef364f96ec), this will cause launch time delays
+[08Dec2024 22:57:09.368] [Worker-Main-10/DEBUG] [ModernFix/]: Structure philipsruins:ocean_fortress_part3 is being run through DFU (hash d64266cd2b16c44c7f754e4ada02819949b81fb5607f8cd8805b49bd16014a78), this will cause launch time delays
+[08Dec2024 22:57:10.088] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[08Dec2024 22:57:10.188] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-692, y=-12, z=-792}
+[08Dec2024 22:57:10.189] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-692, y=-12, z=-798}
+[08Dec2024 22:57:10.207] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-706, y=-12, z=-789}
+[08Dec2024 22:57:11.015] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-748, y=-23, z=-758}
+[08Dec2024 22:57:12.930] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[08Dec2024 22:57:16.353] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-753, y=-23, z=-758}
+[08Dec2024 22:57:16.388] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iter_rpg:vase_room_big
+[08Dec2024 22:57:17.555] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:witch_hut/witch_hut_2
+[08Dec2024 22:57:18.371] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_1 is being run through DFU (hash e05cb017ec39f3d64bd0895da26c95f7becd230d1d88380757e2bc6aa62009b5), this will cause launch time delays
+[08Dec2024 22:57:18.424] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots is being run through DFU (hash 1fcf0be77235eb2856b015f542c7567c1ee719faf21946285911305a59f6ef65), this will cause launch time delays
+[08Dec2024 22:57:18.651] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-676, y=-10, z=-816} at Coffin with:graveyard:chests/crypt_loot
+[08Dec2024 22:57:19.111] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[08Dec2024 22:57:19.133] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[08Dec2024 22:57:19.156] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[08Dec2024 22:57:19.178] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[08Dec2024 22:57:19.199] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[08Dec2024 22:57:19.220] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[08Dec2024 22:57:20.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Cobweb Entanglement]
+[08Dec2024 22:57:21.180] [Worker-Main-1/DEBUG] [ModernFix/]: Structure philipsruins:field_stone_ruins19 is being run through DFU (hash 63a66f72e67a0684bec983e6ba1d9ac8cffd3c9415b78278d4abb49288665543), this will cause launch time delays
+[08Dec2024 22:57:24.920] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor2/spider_spawner is being run through DFU (hash b92522f1e265863b831d821c74aa42a8978335abe5a6152060e1b11d98559cdd), this will cause launch time delays
+[08Dec2024 22:57:27.484] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_2
+[08Dec2024 22:57:30.255] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_5 is being run through DFU (hash 9cd4bda67dc02016e5967762c45c49cc3d6394c29b4e12457c7e1a493c44a983), this will cause launch time delays
+[08Dec2024 22:57:30.807] [Worker-Main-10/DEBUG] [ModernFix/]: Structure philipsruins:ancient_ruin_19 is being run through DFU (hash 1f3c384a9579c9c32218684ece91ef591bbe96ee88ec83d6635186fa5263655e), this will cause launch time delays
+[08Dec2024 22:57:30.820] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_tower_2
+[08Dec2024 22:57:32.570] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:ancient_city/city_center/city_center_2 is being run through DFU (hash b7989d5b5691005323bcfad903a696064d315e7b34d4fe1260e0c9ae4fca1c18), this will cause launch time delays
+[08Dec2024 22:57:34.960] [Server thread/DEBUG] [ModernFix/]: Structure seadwellers:library is being run through DFU (hash a4026a8fd13a1c8c487488ca3f7661874df2b2b8cfb23c0a848fc67259ec8804), this will cause launch time delays
+[08Dec2024 22:57:36.938] [Server thread/DEBUG] [ModernFix/]: Structure seadwellers:saloon is being run through DFU (hash 7f9611d65d1fdb4cb3c7705d58cf44eb58b38e4a6bf4242c9116fba6a5ed4f39), this will cause launch time delays
+[08Dec2024 22:57:37.216] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_8 is being run through DFU (hash aa2afa2d5de66cead416df85ea4a32fc04854c642105d5d8b3e50e03ba56d1a1), this will cause launch time delays
+[08Dec2024 22:57:39.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-726, y=-13, z=-787} but found not block entity block Block{minecraft:water}[level=1] at location
+[08Dec2024 22:57:39.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-726, y=-13, z=-787}
+[08Dec2024 22:57:41.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Spectator Mode]
+[08Dec2024 22:57:42.754] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[08Dec2024 22:57:42.755] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[08Dec2024 22:57:42.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[08Dec2024 22:57:49.457] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:illager_hideout/illager_hideout_heart is being run through DFU (hash b04f32bb60cce0bc70edf81fa71bcd56cdc37547c731deef30fce877bf3d57f6), this will cause launch time delays
