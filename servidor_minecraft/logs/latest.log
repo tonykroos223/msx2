@@ -4540,3 +4540,75 @@ java.lang.NullPointerException: null
 [08Dec2024 22:16:07.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Getting an Upgrade]
 [08Dec2024 22:16:30.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Stone Age]
 [08Dec2024 22:17:12.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[08Dec2024 22:18:04.932] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:18:05.132] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:18:05.332] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:18:21.282] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/808, l='ServerLevel[world]', x=56.82, y=64.00, z=107.77] died, message: 'Farmer was slain by ezekillah'
+[08Dec2024 22:18:30.188] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:18:30.380] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:18:30.539] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:18:30.754] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:18:43.035] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:20:58.991] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:20:59.182] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:20:59.388] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:20:59.585] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:20:59.782] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:20:59.992] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:21:08.199] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:21:08.398] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:21:08.585] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:21:12.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [A not-so-pointy Stick!]
+[08Dec2024 22:21:12.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has reached the goal [Upgrade Me with Debris]
+[08Dec2024 22:21:13.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Reaping What You Sow]
+[08Dec2024 22:21:16.879] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:22:04.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by TRECETRECETRECE
+[08Dec2024 22:22:09.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported ezekillah to TRECETRECETRECE]
+[08Dec2024 22:22:13.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set the time to 1000]
+[08Dec2024 22:22:46.034] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/talhanation/smallships/client/model/sail/SailModel$Color
+[08Dec2024 22:22:46.036] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[08Dec2024 22:22:50.749] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:23:08.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.40277990104119965
+[08Dec2024 22:23:08.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.7148919261402114
+[08Dec2024 22:23:08.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0230881944021064
+[08Dec2024 22:23:08.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.3275528931150689
+[08Dec2024 22:23:08.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.6284661594317669
+[08Dec2024 22:23:10.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.304633382833444
+[08Dec2024 22:23:10.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6000000238418579
+[08Dec2024 22:23:10.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6000000238418579
+[08Dec2024 22:23:35.502] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:23:36.640] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:23:43.291] [IO-Worker-42/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$ValueResult
+[08Dec2024 22:23:43.292] [IO-Worker-42/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$EntryResult
+[08Dec2024 22:24:17.154] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:24:18.732] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:24:20.155] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:24:38.748] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:24:39.203] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:24:39.543] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:24:39.905] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:24:40.299] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:24:40.744] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:24:41.164] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:24:58.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez was slain by Esdras the Eager
+[08Dec2024 22:25:05.652] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:25:05.848] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:25:06.804] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:25:11.183] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:25:48.415] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[08Dec2024 22:25:55.926] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[08Dec2024 22:26:02.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement ['X' Marks the Spot]
+[08Dec2024 22:26:02.485] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[08Dec2024 22:26:03.642] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[08Dec2024 22:26:13.559] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:26:13.760] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:26:13.960] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:26:24.102] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:26:25.494] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:26:38.568] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:26:45.581] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:27:00.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of GralMarcosPerez) moved wrongly! 0.6112501549867773
+[08Dec2024 22:27:00.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of GralMarcosPerez) moved wrongly! 0.2902970864112717
+[08Dec2024 22:27:27.213] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:27:27.385] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:27:27.596] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
