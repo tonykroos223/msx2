@@ -5177,3 +5177,49 @@ java.lang.NullPointerException: null
 [08Dec2024 23:47:16.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE lost connection: Disconnected
 [08Dec2024 23:47:16.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE left the game
 [08Dec2024 23:48:07.594] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:49:04.406] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:49:21.566] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:49:34.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRECETRECETRECE[/127.202.206.192:57297] logged in with entity id 57732 at (-637.8500140082466, 64.0, -585.319681851639)
+[08Dec2024 23:49:34.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE joined the game
+[08Dec2024 23:49:34.462] [Server thread/INFO] [Jade/]: Syncing config to TRECETRECETRECE (723c0b61-1d01-371c-be4b-0b6817ec3f00)
+[08Dec2024 23:50:23.131] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:50:31.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by TRECETRECETRECE
+[08Dec2024 23:50:36.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported ezekillah to TRECETRECETRECE]
+[08Dec2024 23:51:26.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[08Dec2024 23:51:46.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[08Dec2024 23:51:49.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by TRECETRECETRECE
+[08Dec2024 23:52:00.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported ezekillah to TRECETRECETRECE]
+[08Dec2024 23:52:33.082] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:53:08.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BlackSirius9304[/127.112.47.10:39665] logged in with entity id 60293 at (-7.5, 68.0, 3.5)
+[08Dec2024 23:53:08.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 joined the game
+[08Dec2024 23:53:08.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Souls like universe]
+[08Dec2024 23:53:08.754] [Server thread/INFO] [Jade/]: Syncing config to BlackSirius9304 (2debe0cf-24cd-38d6-be36-2cdc2c79530d)
+[08Dec2024 23:53:08.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Orcz Challenges]
+[08Dec2024 23:53:08.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Ice and Fire]
+[08Dec2024 23:53:40.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE lost connection: Disconnected
+[08Dec2024 23:53:40.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE left the game
+[08Dec2024 23:54:20.734] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:55:14.065] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[08Dec2024 23:55:14.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlackSirius9304> Hola
+[08Dec2024 23:55:19.886] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:55:26.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRECETRECETRECE[/127.202.206.192:41063] logged in with entity id 62456 at (-645.1716641739572, 63.0, -587.3836208785995)
+[08Dec2024 23:55:26.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE joined the game
+[08Dec2024 23:55:26.473] [Server thread/INFO] [Jade/]: Syncing config to TRECETRECETRECE (723c0b61-1d01-371c-be4b-0b6817ec3f00)
+[08Dec2024 23:56:33.600] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:56:34.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Alex's Mobs]
+[08Dec2024 23:56:35.313] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:56:36.990] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:56:46.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by TRECETRECETRECE
+[08Dec2024 23:56:52.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported ezekillah to TRECETRECETRECE]
+[08Dec2024 23:57:18.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set the time to 1000]
+[08Dec2024 23:57:18.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlackSirius9304> tp
+[08Dec2024 23:57:21.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlackSirius9304> tp
+[08Dec2024 23:58:07.550] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[08Dec2024 23:58:07.552] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[08Dec2024 23:58:07.552] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[08Dec2024 23:58:08.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[08Dec2024 23:58:17.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Creative Mode]
+[08Dec2024 23:58:28.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez was slain by TRECETRECETRECE
+[08Dec2024 23:58:31.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set the time to 1000]
+[08Dec2024 23:58:52.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GralMarcosPerez> tp
+[08Dec2024 23:58:58.156] [Server thread/INFO] [cuffed/]: BlackSirius9304 is interacting!
