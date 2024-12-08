@@ -4889,3 +4889,88 @@ java.lang.NullPointerException: null
 [08Dec2024 23:07:30.480] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1070, y=-19, z=-823}
 [08Dec2024 23:07:40.447] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1096, y=-8, z=-732}
 [08Dec2024 23:08:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to GralMarcosPerez]
+[08Dec2024 23:08:22.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ezekillah[/127.165.32.75:39131] logged in with entity id 41722 at (-687.5517921194703, 49.248560969954355, -673.5725297707047)
+[08Dec2024 23:08:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah joined the game
+[08Dec2024 23:08:22.725] [Server thread/INFO] [Jade/]: Syncing config to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[08Dec2024 23:08:52.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[08Dec2024 23:09:14.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[08Dec2024 23:09:22.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has completed the challenge [Dragon slayer armour hunter]
+[08Dec2024 23:09:24.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by TRECETRECETRECE
+[08Dec2024 23:09:32.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[08Dec2024 23:10:10.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[08Dec2024 23:10:34.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Amateur Archaeologist]
+[08Dec2024 23:10:55.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Amateur Archaeologist]
+[08Dec2024 23:11:00.311] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:11:49.343] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:13:06.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[08Dec2024 23:13:06.080] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[08Dec2024 23:13:06.085] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[08Dec2024 23:13:32.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Dragonslayer]
+[08Dec2024 23:13:42.640] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:13:43.084] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:13:43.641] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:13:43.714] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:13:44.291] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:13:44.612] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:13:44.866] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:13:45.008] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:13:45.617] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:13:45.855] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:13:46.985] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:13:47.217] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:13:47.407] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:13:47.617] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:13:48.136] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:14:28.335] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:14:50.837] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:14:51.034] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:14:52.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Dragonslayer]
+[08Dec2024 23:15:02.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah was kicked for floating too long!
+[08Dec2024 23:15:02.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Flying is not enabled on this server
+[08Dec2024 23:15:02.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
+[08Dec2024 23:15:08.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ezekillah[/127.165.32.75:57687] logged in with entity id 45688 at (-617.4697039000804, 70.15930419009959, -648.3642560229255)
+[08Dec2024 23:15:08.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah joined the game
+[08Dec2024 23:15:09.039] [Server thread/INFO] [Jade/]: Syncing config to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[08Dec2024 23:15:19.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Disconnected
+[08Dec2024 23:15:19.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
+[08Dec2024 23:15:28.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ezekillah[/127.165.32.75:49655] logged in with entity id 46086 at (-617.4988573518448, 56.42585196477707, -648.1874785085531)
+[08Dec2024 23:15:28.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah joined the game
+[08Dec2024 23:15:28.938] [Server thread/INFO] [Jade/]: Syncing config to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[08Dec2024 23:15:41.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[08Dec2024 23:16:16.933] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:16:18.382] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:16:24.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah was kicked for floating too long!
+[08Dec2024 23:16:24.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Flying is not enabled on this server
+[08Dec2024 23:16:24.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
+[08Dec2024 23:16:31.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ezekillah[/127.165.32.75:41301] logged in with entity id 46467 at (-614.8748729714787, 87.40026144771247, -646.5108612215637)
+[08Dec2024 23:16:31.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah joined the game
+[08Dec2024 23:16:31.700] [Server thread/INFO] [Jade/]: Syncing config to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[08Dec2024 23:16:32.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported GralMarcosPerez to TRECETRECETRECE]
+[08Dec2024 23:16:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported ezekillah to TRECETRECETRECE]
+[08Dec2024 23:16:38.634] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:16:58.235] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:17:04.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[08Dec2024 23:17:10.460] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:17:16.481] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:17:20.505] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:17:25.196] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:17:25.942] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:17:34.001] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:17:35.331] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 23:17:40.537] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 23:17:45.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah was kicked for floating a vehicle too long!
+[08Dec2024 23:17:45.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Flying is not enabled on this server
+[08Dec2024 23:17:45.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
+[08Dec2024 23:17:45.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of GralMarcosPerez) moved too quickly! 5.721848961002252E-4,25.966268464475263,-0.004696678457435155
+[08Dec2024 23:17:45.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of GralMarcosPerez) moved too quickly! 5.721848961002252E-4,25.886268466263402,-0.004696678457435155
+[08Dec2024 23:17:45.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of GralMarcosPerez) moved too quickly! 5.721848961002252E-4,25.76626846894561,-0.004696678457435155
+[08Dec2024 23:17:45.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of GralMarcosPerez) moved too quickly! 5.721848961002252E-4,25.60626847252189,-0.004696678457435155
+[08Dec2024 23:17:45.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of GralMarcosPerez) moved too quickly! 5.721848961002252E-4,25.40626847699224,-0.004696678457435155
+[08Dec2024 23:17:45.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of GralMarcosPerez) moved too quickly! 5.721848961002252E-4,25.166268482356656,-0.004696678457435155
+[08Dec2024 23:17:55.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ezekillah[/127.165.32.75:49879] logged in with entity id 46797 at (-615.1618314310622, 123.46357421941536, -635.0239639196355)
+[08Dec2024 23:17:55.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah joined the game
+[08Dec2024 23:17:55.348] [Server thread/INFO] [Jade/]: Syncing config to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[08Dec2024 23:17:57.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported ezekillah to TRECETRECETRECE]
+[08Dec2024 23:18:04.951] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 23:18:05.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Disconnected
+[08Dec2024 23:18:05.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
