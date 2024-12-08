@@ -19187,3 +19187,278 @@ java.lang.NullPointerException: null
 [08Dec2024 22:27:27.213] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
 [08Dec2024 22:27:27.385] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
 [08Dec2024 22:27:27.596] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:27:31.586] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:27:41.503] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:27:41.526] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Dec2024 22:27:42.693] [Worker-Main-10/DEBUG] [ModernFix/]: Structure mvs:other_decoration/bee_dome is being run through DFU (hash e8d8119aa8f44225032b6eb9e45f42a840f6e6c361f54e1cdbf0ea56ae57a72d), this will cause launch time delays
+[08Dec2024 22:27:46.707] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=398, y=-42, z=343} at Coffin with:graveyard:chests/crypt_loot
+[08Dec2024 22:28:04.333] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:28:10.882] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:28:11.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:28:12.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:28:12.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:28:13.479] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:28:13.879] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:28:14.479] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:28:15.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:28:17.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:28:19.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:28:19.479] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:28:25.342] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:28:27.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Barrel Booty]
+[08Dec2024 22:28:30.392] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:28:34.015] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[08Dec2024 22:28:37.610] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=192, y=71, z=152} as the loot table 'kaisyn:village/village_birch_forest_house' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[08Dec2024 22:28:38.905] [Worker-Main-10/DEBUG] [ModernFix/]: Structure mvs:other_decoration/desert_pump is being run through DFU (hash 943845a5d263f0e680fa2fba472a7eaad839b43453ee8b12a7f9fc04b01f3bde), this will cause launch time delays
+[08Dec2024 22:29:20.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 22:29:20.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 22:29:24.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:29:24.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:29:25.486] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:29:25.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:29:49.337] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:29:49.880] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:29:50.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:29:51.386] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:29:51.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Monster Hunter]
+[08Dec2024 22:30:14.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:30:15.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:30:15.982] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:30:16.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:30:16.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:30:16.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Shieldman'/8453, l='ServerLevel[world]', x=163.01, y=67.75, z=85.30] died: Shieldman was slain by TRECETRECETRECE
+[08Dec2024 22:30:42.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by Zombie
+[08Dec2024 22:31:07.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez fell from a high place
+[08Dec2024 22:31:46.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to ezekillah]
+[08Dec2024 22:32:01.783] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:03.032] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:03.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:03.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:03.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:03.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:03.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:04.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:04.237] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:04.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:05.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:06.133] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:08.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Sweet Dreams]
+[08Dec2024 22:32:09.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[08Dec2024 22:32:11.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:12.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:12.880] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:12.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Monster Hunter]
+[08Dec2024 22:32:12.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:32:12.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by TRECETRECETRECE
+[08Dec2024 22:32:55.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [The Bender of the 15th Century]
+[08Dec2024 22:32:59.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set the time to 1000]
+[08Dec2024 22:33:02.931] [Worker-Main-3/DEBUG] [ModernFix/]: Structure philipsruins:ancient_ruin_9 is being run through DFU (hash fff67557ac33185fa5d4a33eb16f18a2ba4c26b6b6856e384a358146d44ec709), this will cause launch time delays
+[08Dec2024 22:33:02.980] [Worker-Main-3/DEBUG] [ModernFix/]: Structure philipsruins:ancient_tower_2 is being run through DFU (hash c2fe57fc646ec4c726633aa96978104549d21a77c634349462f205de3a09b636), this will cause launch time delays
+[08Dec2024 22:33:07.916] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-36, y=5, z=-233} at Chest with:minecraft:chests/simple_dungeon
+[08Dec2024 22:33:08.051] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:witch_villa/backyard/witch_villa_backyard_1 is being run through DFU (hash a5a45882526950e4fb9299797fd3c117121612796262e39ef5b0e33d1e09452d), this will cause launch time delays
+[08Dec2024 22:33:08.388] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[08Dec2024 22:33:09.252] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[08Dec2024 22:33:09.980] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[08Dec2024 22:33:15.779] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Dec2024 22:33:27.016] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=443, y=-14, z=-10} at Coffin with:graveyard:chests/crypt_loot
+[08Dec2024 22:33:27.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[08Dec2024 22:33:29.015] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / abridged:canyon_bridge], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow]] from pos BlockPos{x=405, y=83, z=-171}
+[08Dec2024 22:33:29.049] [pool-7-thread-1/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/town_centers/savanna_totem is being run through DFU (hash 1645a4dff3a396f3786482e2fa69b053d2eda80905605da4f3279fb50ca6d5a9), this will cause launch time delays
+[08Dec2024 22:33:29.487] [pool-7-thread-1/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/town_centers/savanna_market is being run through DFU (hash b2f0cd38979b2eac22587025fb1cac335656958b012db6357d88b7084339f827), this will cause launch time delays
+[08Dec2024 22:33:29.583] [pool-7-thread-1/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/town_centers/savanna_tree_crossing is being run through DFU (hash c8e623dbe01bcd4a7505dfbd5e06723e4069ca1cf10408247bc76b5167f2ad36), this will cause launch time delays
+[08Dec2024 22:33:29.804] [pool-7-thread-1/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/base_plate is being run through DFU (hash 0f79c597cd698f620e1aa221757014730fe867fed381df9c0ea0afc82a4d720e), this will cause launch time delays
+[08Dec2024 22:33:30.579] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/villagers/unemployed_savanna is being run through DFU (hash c1bc13b66c4c99a12acbd8d2967ca192348f6e5b05fe321adc2754e0dd9c5eb8), this will cause launch time delays
+[08Dec2024 22:33:30.655] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/med_lamp_1 is being run through DFU (hash c86cc2162bb8f74fda36a6194512e3f2aa8fa5cd5f3c3bd492c2554bba569fac), this will cause launch time delays
+[08Dec2024 22:33:30.690] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_01 is being run through DFU (hash 3e8a23da79f5faf950d48a9872e2e1ed22d8ba311ff417f5e65014e07c102460), this will cause launch time delays
+[08Dec2024 22:33:30.692] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/med_planter_1 is being run through DFU (hash d515b39599dc9a777b3e7378641a00ff49721921095f3969562bcecd2f0bfc06), this will cause launch time delays
+[08Dec2024 22:33:30.712] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_1 is being run through DFU (hash 3e5f7b4e4dc12d2c75364ee6c908822af1943910bf047f6b89f21120551ce7b1), this will cause launch time delays
+[08Dec2024 22:33:30.736] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_5 is being run through DFU (hash c2c151e7b69be4faf6a2cda5e1a3149a1d08b509476472a0ff540b18b8cfb092), this will cause launch time delays
+[08Dec2024 22:33:30.737] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/houses/corner/med_small_house_1 is being run through DFU (hash 55cbd321c7902be272c1b6722aca52ccdd180f2e167fcdbd4114b2c580d12ed9), this will cause launch time delays
+[08Dec2024 22:33:30.738] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/houses/corner/med_small_house_2 is being run through DFU (hash 49dd3a5275571b6bd3d6a9f5db3569121416f6a7118424c4e377dd9ddb7b0f07), this will cause launch time delays
+[08Dec2024 22:33:30.739] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_2 is being run through DFU (hash 9ed3ee3352a11fa69d08229f8d17f684468df2d6db0fd40f56fafd0686f5b9cc), this will cause launch time delays
+[08Dec2024 22:33:30.741] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_3 is being run through DFU (hash 96e6540219efc695cf2191fe1fbd19f1452d1cdaedd1c7f402b22ef973822adf), this will cause launch time delays
+[08Dec2024 22:33:30.743] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/houses/regular/med_small_house_4 is being run through DFU (hash 76159970b0d50c760a49753d603dcde33fd6382ef823d8a13813b36f96036427), this will cause launch time delays
+[08Dec2024 22:33:30.745] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_03 is being run through DFU (hash a1e6dd122c9d2426db54330c92d2d697b5e4a9ee0492b4a5bd8eb4c6f65d80bb), this will cause launch time delays
+[08Dec2024 22:33:30.775] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[08Dec2024 22:33:30.776] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/houses/regular/med_fisher_1 is being run through DFU (hash d33f07905e98ff91a63c557e4e78321dae056ed26022a1804e096862978ece83), this will cause launch time delays
+[08Dec2024 22:33:30.835] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_02 is being run through DFU (hash e3b1958a44c507d981e687a82ba8815bb43fc6db94c72256350a19908d5c0315), this will cause launch time delays
+[08Dec2024 22:33:30.837] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/streets/promenade/promenade_03 is being run through DFU (hash 758ae8b259e455cf0bcb6e9ca37ed4f837366daa88a0a851bdb060666bb70004), this will cause launch time delays
+[08Dec2024 22:33:30.839] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/terminators/promenade/promenade_end_01 is being run through DFU (hash 547ffc5294ed0bb873186b8600cc608d76547fb1312eb0dd3143d31d7c3c29a0), this will cause launch time delays
+[08Dec2024 22:33:30.840] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/terminators/promenade/promenade_end_02 is being run through DFU (hash aa2656e4d23c9bd35b08748bbea94d6f15e9b3c34a93266a845520d3c61762c4), this will cause launch time delays
+[08Dec2024 22:33:30.931] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_04 is being run through DFU (hash a064985c322c86a53ca74141b87effca91821ea6f1e10a0b34bfdfe90c6cfded), this will cause launch time delays
+[08Dec2024 22:33:30.997] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_01 is being run through DFU (hash 2225dc4803b87ef7dd7a73144b7b87f20ee69f1b26dd7e996323ac36f213da22), this will cause launch time delays
+[08Dec2024 22:33:30.999] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_02 is being run through DFU (hash a98d9f2e7b1f318d5866bf4d6cd2ac1dfad0ae56f26c9d5ff9cd27509c1085dd), this will cause launch time delays
+[08Dec2024 22:33:31.000] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/terminators/avenue/avenue_end_01 is being run through DFU (hash 3e5bf5e7c8fa7afd0ed0013af19f4db22f74d42071c0b235202efefab3601357), this will cause launch time delays
+[08Dec2024 22:33:31.000] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/terminators/avenue/avenue_end_02 is being run through DFU (hash eb775123fb0f252c3c8b63673a7044b1f8923f7f1616fda35221d9315a4cebf5), this will cause launch time delays
+[08Dec2024 22:33:31.125] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/houses/regular/med_farmer_and_mason_1 is being run through DFU (hash 13ac21d5351f136f25e936ff15378f0aefa8b6cb242890059f715823bf7585c7), this will cause launch time delays
+[08Dec2024 22:33:31.390] [Worker-Main-3/DEBUG] [ModernFix/]: Structure kaisyn:village/exclusives/mediterranean/streets/avenue/avenue_05 is being run through DFU (hash 885168975d6a95f5e3a36d630c7ca5acde9dd16655c70d4df5ed8bd49806d666), this will cause launch time delays
+[08Dec2024 22:33:32.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
+[08Dec2024 22:33:32.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE moved too quickly! 3.8750694765554385,2.368098871498802,-9.402134073346403
+[08Dec2024 22:33:33.757] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_0_main is being run through DFU (hash fdaaae3527bd087ae85b0ae4174af4bc8e5fb752d703b2cfbedea3cec78e2eaa), this will cause launch time delays
+[08Dec2024 22:33:33.795] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_0 is being run through DFU (hash 509ef07905d3e6f1a301170bbd81f8df42bd9e5436df2a211855d1fa711e53d7), this will cause launch time delays
+[08Dec2024 22:33:45.877] [Worker-Main-3/DEBUG] [ModernFix/]: Structure philipsruins:deep_ruin3 is being run through DFU (hash a5c4dcabd78c9663ae14b0273a7a51cb69250defe227f912ab23bf0fd6729aa1), this will cause launch time delays
+[08Dec2024 22:33:52.190] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[08Dec2024 22:33:53.096] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_desert_graveyard/small_desert_graveyard_01 is being run through DFU (hash aabbd74d855cc66d4a3611a477fb9bb23d22e976a152baf6dfdf17e693f96678), this will cause launch time delays
+[08Dec2024 22:33:54.289] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/doorway is being run through DFU (hash b587f912b1f01d58543cbc5aa04fae58240cf81aadc10f72d0934dd705d1da4e), this will cause launch time delays
+[08Dec2024 22:33:54.341] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_underground/main_piece is being run through DFU (hash 81506d7ca4b91ad53d2358806580cf6b1288c08be6d5ea82b62a67760e35dcac), this will cause launch time delays
+[08Dec2024 22:33:54.384] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/ruin2 is being run through DFU (hash 12b31365ec9be38387155c9a31846fc9cffeaa35f51bfa9f3ff91fc3ebe81cb7), this will cause launch time delays
+[08Dec2024 22:33:57.718] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=459, y=-17, z=-327} at Sarcophagus with:graveyard:chests/crypt_loot
+[08Dec2024 22:33:59.005] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:well/wells/desert_well is being run through DFU (hash d39e563ca611de5211860985cdbb0802afff96af7d15aaf60798af2c660aed5d), this will cause launch time delays
+[08Dec2024 22:33:59.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported ezekillah to TRECETRECETRECE]
+[08Dec2024 22:34:03.978] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:village/plains/town_centers/plains_meeting_point_1 is being run through DFU (hash 0021ec983fc37b2152bc01bd0615f71c96c8ce8c4f3a5148962ee3e49f4fda29), this will cause launch time delays
+[08Dec2024 22:34:05.324] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:34:05.462] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08Dec2024 22:34:05.469] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 11.0 Damage not ignoring armor: 11.0 Reduced Damage: 11.0 Result Damage: 22.0
+[08Dec2024 22:34:08.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Made ezekillah a server operator]
+[08Dec2024 22:34:12.066] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_enterance_1 is being run through DFU (hash cc49619c6ddb56b523a4444322a58e8764016caeec5391d2369fdee2703c9ce1), this will cause launch time delays
+[08Dec2024 22:34:13.637] [Worker-Main-1/DEBUG] [ModernFix/]: Structure philipsruins:deep_ruin8 is being run through DFU (hash 08a43356266cbfc01d274300984bb5d485b6f29f86ee130c2b0961af0ca2ac96), this will cause launch time delays
+[08Dec2024 22:34:18.752] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pond2 is being run through DFU (hash 7ad3070ec908e24021e557480211df2dcb3abfd9de261559fbe88c5e9856e347), this will cause launch time delays
+[08Dec2024 22:34:18.967] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2 is being run through DFU (hash 6aeb6d407b12f28ad78704a13491ac57da3f91fb2b61d28a9fbc028c3c626c1c), this will cause launch time delays
+[08Dec2024 22:34:19.002] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1 is being run through DFU (hash 4ddbe58f4300394f2ef8c6f526ed1930c9fe9b32262ad7e9c3e1db3f91689b76), this will cause launch time delays
+[08Dec2024 22:34:19.039] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3 is being run through DFU (hash 59a9a0d79ad86ad99a3e7ebba5f11a9d6d1909779d13188a935a9a0d8534be30), this will cause launch time delays
+[08Dec2024 22:34:19.178] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1 is being run through DFU (hash 0991d1e84c1cf8d57d26063470bdb1a18c51ce82cd603eb3a1a8e002bf48bf6d), this will cause launch time delays
+[08Dec2024 22:34:19.602] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_3
+[08Dec2024 22:34:21.366] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/pigs_1
+[08Dec2024 22:34:23.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 22:34:23.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 22:34:23.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Creative Mode]
+[08Dec2024 22:34:23.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Made GralMarcosPerez a server operator]
+[08Dec2024 22:34:27.120] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_jungle is being run through DFU (hash 8a061e8290b125c47b638267fd25e882a82ddf02265ce2d267d80122e4d6c0f1), this will cause launch time delays
+[08Dec2024 22:34:27.139] [Worker-Main-3/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_birch is being run through DFU (hash faf49dca989697854006539fd758f66768eed6a63446e4f112ee4d604886fd0c), this will cause launch time delays
+[08Dec2024 22:34:27.353] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:harvest/manor2/graveyard_large is being run through DFU (hash 92ba7a2ed2018cc5582221d545d60179cbff2907518b264f62c1241e3288022c), this will cause launch time delays
+[08Dec2024 22:34:29.133] [Worker-Main-10/DEBUG] [ModernFix/]: Structure mvs:carts/large_cart_2 is being run through DFU (hash 39331a0fadf7488ba015d632785430b8c56cd11dc7f829abfa2ff95694470792), this will cause launch time delays
+[08Dec2024 22:34:29.315] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=360, y=1, z=-370} at Sarcophagus with:graveyard:chests/crypt_loot
+[08Dec2024 22:34:30.484] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:giant_mushroom/giant_red_mushroom_stem_01 is being run through DFU (hash 4ac9200a4f7a173b0db6bd2d0064522ed1034854f8f089a7357fdf6f2536884c), this will cause launch time delays
+[08Dec2024 22:34:37.572] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_03 is being run through DFU (hash 9c672064577c8faaa52d9dcc7b4a0dc2c4c4b3b63c415c1bf325003143735632), this will cause launch time delays
+[08Dec2024 22:34:41.908] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1 is being run through DFU (hash 005119925e1887e9c2c04f781c51502193d36d6dee555df4703e7333056eac58), this will cause launch time delays
+[08Dec2024 22:34:41.942] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/pieces/small_ship/small_ship_1 is being run through DFU (hash 48edaddad1b0f9de8639d608e57ada8a8a296612efe559dbd70f80cefb7d6730), this will cause launch time delays
+[08Dec2024 22:34:41.947] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/pieces/escort/escort_2 is being run through DFU (hash 6162e1d1f20eda2dc1dfc2faaa4566fa429056019e127e60d6c5bf7f93f58f4b), this will cause launch time delays
+[08Dec2024 22:34:41.968] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/pieces/small_ship/small_ship_4 is being run through DFU (hash 759d55e217acefe0acfa0f67cae9fc89140340c94843ba90e573345313651ee6), this will cause launch time delays
+[08Dec2024 22:34:41.977] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/pieces/small_ship/small_ship_3 is being run through DFU (hash 6692c575a2b9ba2c92bbff5bc7369eec926a40a07964fc66a51356cdc8b45a9f), this will cause launch time delays
+[08Dec2024 22:34:41.990] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/pieces/mothership/mothership_1 is being run through DFU (hash 323b1d612c3502197f834a4cb0a18d4ceebbfc9f9d50b6576ef766d386e1aaa3), this will cause launch time delays
+[08Dec2024 22:34:42.070] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:ships/village_ocean/pieces/escort/escort_1 is being run through DFU (hash e833aa073fa08421c28fc67cad2869ae6d2680cf7c8edd559e27f1c37dfee497), this will cause launch time delays
+[08Dec2024 22:34:42.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah moved too quickly! -0.6904066710998791,-0.19683130382138359,-10.537718184685275
+[08Dec2024 22:34:42.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE moved too quickly! -5.180751000500948,0.0,-9.322431488683264
+[08Dec2024 22:34:42.566] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:medium_graveyard/medium_graveyard_01 is being run through DFU (hash aae954b46b33c18292a82912817d49d1d3280d65b48008cb8aaf2a26e70c9477), this will cause launch time delays
+[08Dec2024 22:34:43.734] [Worker-Main-10/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_06 is being run through DFU (hash 1f580368cac5999df0a7c333976a7c447630e45aeb8c134c8c3f34cc1b3842b6), this will cause launch time delays
+[08Dec2024 22:34:47.980] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (596 | 28 | -588).
+[08Dec2024 22:34:47.982] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[08Dec2024 22:34:47.983] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[08Dec2024 22:34:47.984] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[08Dec2024 22:34:47.984] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[08Dec2024 22:34:47.985] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[08Dec2024 22:34:47.985] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[08Dec2024 22:34:47.985] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(0) Nodes and 5(0) Rooms
+[08Dec2024 22:34:47.985] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[08Dec2024 22:34:47.985] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(0) Nodes and 4(0) Rooms
+[08Dec2024 22:34:47.985] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[08Dec2024 22:34:47.985] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 4(0) Rooms
+[08Dec2024 22:34:59.218] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:portal13 is being run through DFU (hash 26374f6b4c81591e3d6d765c06bdfb203f2a7f6828389e6863de217c0c012313), this will cause launch time delays
+[08Dec2024 22:35:03.075] [Worker-Main-10/DEBUG] [ModernFix/]: Structure mvs:well/wells/snowy_well is being run through DFU (hash d7a565ea69dfb5ac27f790d04f48da59fb59818a9ae72d7f9b4f9d7965a29496), this will cause launch time delays
+[08Dec2024 22:35:03.098] [Worker-Main-10/DEBUG] [ModernFix/]: Structure mvs:well/wells/acacia_well is being run through DFU (hash 0316cf0def4b66bb62591b03199d3abae4256d40efa44660335a7b855172848c), this will cause launch time delays
+[08Dec2024 22:35:03.132] [Worker-Main-10/DEBUG] [ModernFix/]: Structure mvs:well/well_upper is being run through DFU (hash 4b663be16656fcae8cf6c1056bef8923e8052b3c25b83b4b57ae4114254b71ad), this will cause launch time delays
+[08Dec2024 22:35:03.150] [Worker-Main-10/DEBUG] [ModernFix/]: Structure mvs:well/well_lower_no_chest is being run through DFU (hash 2931c3154bc804d79a5e482ef1cce7105cf3b606d5defb22adc472c7642282fa), this will cause launch time delays
+[08Dec2024 22:35:05.905] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_3b is being run through DFU (hash 03aecb277235d6af8e2e116f1a999dfaf2bc283da61fa36995ff103307a3c105), this will cause launch time delays
+[08Dec2024 22:35:06.577] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[08Dec2024 22:35:07.093] [Worker-Main-3/DEBUG] [ModernFix/]: Structure philipsruins:ancient_ruin_14 is being run through DFU (hash 6726a4563ab9eceb258e65a62fc31cd78e742bb9521606ed2dc0e9cdf7a4a376), this will cause launch time delays
+[08Dec2024 22:35:07.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Spectator Mode]
+[08Dec2024 22:35:08.790] [Worker-Main-10/DEBUG] [ModernFix/]: Structure philipsruins:field_stone_ruins_rock1 is being run through DFU (hash 22dc7cf404b5ac42776a4a2da85b77c08c8e033915718dfab68ad673be9adca9), this will cause launch time delays
+[08Dec2024 22:35:09.409] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/CrabEntity$CrabSize
+[08Dec2024 22:35:09.424] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/animation/Transformation$Type
+[08Dec2024 22:35:09.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to ezekillah]
+[08Dec2024 22:35:11.366] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=596, y=-50, z=-404} at Chest with:minecraft:chests/simple_dungeon
+[08Dec2024 22:35:12.305] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_06 is being run through DFU (hash f1d53644703d518b5268e140eebe3bef6d450610d126983900dce702abf35b53), this will cause launch time delays
+[08Dec2024 22:35:12.451] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[08Dec2024 22:35:17.278] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:35:17.505] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:35:17.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:35:17.746] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (607 | -8 | -448)
+[08Dec2024 22:35:17.750] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation COUNTERCLOCKWISE_90 at (607 | -8 | -448)
+[08Dec2024 22:35:17.750] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (602 | -8 | -447)
+[08Dec2024 22:35:17.753] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_90 at (602 | -8 | -447)
+[08Dec2024 22:35:18.880] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:35:21.355] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:35:21.489] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08Dec2024 22:35:21.489] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 10.0 Damage not ignoring armor: 10.0 Reduced Damage: 10.0 Result Damage: 20.0
+[08Dec2024 22:35:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has completed the challenge [It Spreads]
+[08Dec2024 22:35:27.239] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=374, y=11, z=-479} at Chest with:minecraft:chests/simple_dungeon
+[08Dec2024 22:35:28.687] [Worker-Main-3/DEBUG] [ModernFix/]: Structure philipsruins:field_stone_ruins_rock3 is being run through DFU (hash a984ab6d7a4f6e18b36c5ee865a365365cf0f198d102dee2d056d1f8ee05dc9c), this will cause launch time delays
+[08Dec2024 22:35:29.383] [Worker-Main-1/DEBUG] [ModernFix/]: Structure philipsruins:pumpkin_ruin_ten is being run through DFU (hash 1ade4b9a54ff2c4426803b8ffd09fdf588af8be3fdcb02058009b5d1659c98ef), this will cause launch time delays
+[08Dec2024 22:35:31.354] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:35:32.211] [Worker-Main-1/DEBUG] [ModernFix/]: Structure philipsruins:pumpkin_ruin_one is being run through DFU (hash 95827e3606da62bf94023fc5564f2edb4b23c48946619953bf7dd4ded0381fd4), this will cause launch time delays
+[08Dec2024 22:35:32.459] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:well/wells/jungle_well is being run through DFU (hash df91cc6bb2ef36c54a18ad3165a2447e22a8631368a508a8e443fb6f7df09085), this will cause launch time delays
+[08Dec2024 22:35:32.471] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:well/wells/birch_well is being run through DFU (hash cf74e1b434f010f6ab879c54a4d8d64b4498ca18851159db380881308bffbad8), this will cause launch time delays
+[08Dec2024 22:35:32.508] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:well/wells/spruce_well is being run through DFU (hash 2396e4d11bf3c99e57d4e2a51bd02eae1626ad753beb9e247aba9f917245884d), this will cause launch time delays
+[08Dec2024 22:35:32.521] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:well/wells/oak_well is being run through DFU (hash a850a1548279960fb5daf2e413f4701bb4e4e42616e0dfa5a5fa6706e5301707), this will cause launch time delays
+[08Dec2024 22:35:32.546] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:well/small_copper_well is being run through DFU (hash b0aeda90656941d7b13a41b80d1de5d100a3464ea3388128569bbc63b6b35ec7), this will cause launch time delays
+[08Dec2024 22:35:32.583] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:well/wells/rocky_well is being run through DFU (hash 60e75509d0b6a198711f74bbd9ceca19b6b2f968c0ee9e34b528680d1b7e2c2c), this will cause launch time delays
+[08Dec2024 22:35:34.344] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_dungeon_13
+[08Dec2024 22:35:35.265] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:35:36.206] [Worker-Main-10/DEBUG] [ModernFix/]: Structure philipsruins:pumpkin_ruin_six is being run through DFU (hash 941067b4392be04ef3aa3f2135af76c732b4740b79e240b8a390483ea6f3bfe2), this will cause launch time delays
+[08Dec2024 22:35:36.290] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08Dec2024 22:35:36.291] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 24.0 Armor value: 4.0 Damage ignoring armor (50.0% damage): 12.0 Damage not ignoring armor: 12.0 Reduced Damage: 11.616 Result Damage: 23.616001
+[08Dec2024 22:35:36.609] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:35:39.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to GralMarcosPerez]
+[08Dec2024 22:35:47.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[08Dec2024 22:35:50.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[08Dec2024 22:35:53.439] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:35:53.543] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:35:53.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:35:53.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:35:54.347] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:35:58.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[08Dec2024 22:36:07.462] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:36:08.332] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:08.434] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:08.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:08.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:08.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:08.986] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:09.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:09.240] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:09.390] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:09.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:09.644] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:09.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:09.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:10.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:10.181] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:10.335] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:10.438] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:10.588] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:36:14.228] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08Dec2024 22:36:14.228] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 31.0 Armor value: 5.0 Damage ignoring armor (50.0% damage): 15.5 Damage not ignoring armor: 15.5 Reduced Damage: 14.88 Result Damage: 30.380001
+[08Dec2024 22:36:38.394] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:36:39.456] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:36:41.615] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:36:41.778] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[08Dec2024 22:36:41.778] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 27.0 Armor value: 0.0 Damage ignoring armor (50.0% damage): 13.5 Damage not ignoring armor: 13.5 Reduced Damage: 13.5 Result Damage: 27.0
+[08Dec2024 22:36:49.380] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:36:49.580] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:36:49.743] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:37:10.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:16.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:16.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Dec2024 22:37:21.635] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:21.739] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:21.908] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:22.035] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:23.751] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:23.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:23.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:24.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:24.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:24.952] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:25.138] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:25.281] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:25.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:26.641] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:26.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:26.934] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:28.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:28.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:29.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:29.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:30.945] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:31.190] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:31.382] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

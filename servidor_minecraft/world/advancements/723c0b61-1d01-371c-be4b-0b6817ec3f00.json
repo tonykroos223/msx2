@@ -193,6 +193,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-08 22:28:27 +0000",
       "opened_chest": "2024-12-08 21:52:21 +0000"
     },
     "done": false
@@ -224,7 +225,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2024-12-08 21:55:33 +0000",
-      "minecraft:river": "2024-12-08 21:55:30 +0000"
+      "minecraft:river": "2024-12-08 21:55:30 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-08 22:33:36 +0000"
     },
     "done": false
   },
@@ -732,6 +734,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 22:27:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2024-12-08 22:15:12 +0000"
@@ -786,6 +794,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 22:27:54 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/spruce_desk_drawer": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 22:15:12 +0000"
@@ -815,6 +829,12 @@
       "has_spruce_planks": "2024-12-08 22:15:12 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-08 22:32:12 +0000"
+    },
+    "done": false
   },
   "valhelsia_furniture:recipes/decorations/brown_spruce_chair": {
     "criteria": {
@@ -981,6 +1001,12 @@
   "spartanweaponry:recipes/wooden_rapier": {
     "criteria": {
       "has_wood": "2024-12-08 22:15:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-08 22:28:27 +0000"
     },
     "done": true
   },
@@ -1224,6 +1250,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 22:27:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2024-12-08 22:15:12 +0000"
@@ -1326,6 +1358,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 22:27:54 +0000"
+    },
+    "done": true
+  },
   "sawmill:recipes/sawmill": {
     "criteria": {
       "has_sticks": "2024-12-08 22:15:12 +0000"
@@ -1398,6 +1436,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 22:27:54 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 22:15:12 +0000"
@@ -1422,6 +1466,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-08 22:28:54 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 22:15:12 +0000"
@@ -1437,6 +1487,12 @@
   "valhelsia_furniture:recipes/decorations/white_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 22:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-08 22:27:54 +0000"
     },
     "done": true
   },
@@ -1494,6 +1550,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-08 22:32:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_tomahawk": {
     "criteria": {
       "has_wood": "2024-12-08 22:15:12 +0000"
@@ -1520,7 +1582,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-08 22:12:39 +0000"
+      "bread": "2024-12-08 22:12:39 +0000",
+      "golden_apple": "2024-12-08 22:32:39 +0000"
     },
     "done": false
   },
@@ -1539,6 +1602,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-08 22:15:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 22:27:54 +0000"
     },
     "done": true
   },

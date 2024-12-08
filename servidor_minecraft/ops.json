@@ -4,5 +4,17 @@
     "name": "TRECETRECETRECE",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "04a81c27-b1fc-3cf1-b221-2891c342bbf1",
+    "name": "ezekillah",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1b978ca6-6067-3143-9f84-9a4e505b6253",
+    "name": "GralMarcosPerez",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

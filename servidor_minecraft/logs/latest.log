@@ -4612,3 +4612,60 @@ java.lang.NullPointerException: null
 [08Dec2024 22:27:27.213] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
 [08Dec2024 22:27:27.385] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
 [08Dec2024 22:27:27.596] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:27:31.586] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:27:41.503] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:27:41.526] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Dec2024 22:28:04.333] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:28:10.882] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:28:25.342] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:28:27.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Barrel Booty]
+[08Dec2024 22:28:30.392] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:28:34.015] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[08Dec2024 22:28:37.610] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=192, y=71, z=152} as the loot table 'kaisyn:village/village_birch_forest_house' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[08Dec2024 22:29:51.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Monster Hunter]
+[08Dec2024 22:30:16.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Shieldman'/8453, l='ServerLevel[world]', x=163.01, y=67.75, z=85.30] died: Shieldman was slain by TRECETRECETRECE
+[08Dec2024 22:30:42.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by Zombie
+[08Dec2024 22:31:07.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez fell from a high place
+[08Dec2024 22:31:46.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to ezekillah]
+[08Dec2024 22:32:08.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Sweet Dreams]
+[08Dec2024 22:32:09.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[08Dec2024 22:32:12.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Monster Hunter]
+[08Dec2024 22:32:12.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by TRECETRECETRECE
+[08Dec2024 22:32:55.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [The Bender of the 15th Century]
+[08Dec2024 22:32:59.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set the time to 1000]
+[08Dec2024 22:33:09.252] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[08Dec2024 22:33:15.779] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Dec2024 22:33:27.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[08Dec2024 22:33:29.015] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / abridged:canyon_bridge], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow]] from pos BlockPos{x=405, y=83, z=-171}
+[08Dec2024 22:33:30.775] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[08Dec2024 22:33:32.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
+[08Dec2024 22:33:32.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE moved too quickly! 3.8750694765554385,2.368098871498802,-9.402134073346403
+[08Dec2024 22:33:59.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported ezekillah to TRECETRECETRECE]
+[08Dec2024 22:34:05.324] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:34:08.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Made ezekillah a server operator]
+[08Dec2024 22:34:23.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Creative Mode]
+[08Dec2024 22:34:23.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Made GralMarcosPerez a server operator]
+[08Dec2024 22:34:42.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah moved too quickly! -0.6904066710998791,-0.19683130382138359,-10.537718184685275
+[08Dec2024 22:34:42.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE moved too quickly! -5.180751000500948,0.0,-9.322431488683264
+[08Dec2024 22:34:47.983] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[08Dec2024 22:35:07.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Spectator Mode]
+[08Dec2024 22:35:09.409] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/CrabEntity$CrabSize
+[08Dec2024 22:35:09.424] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/animation/Transformation$Type
+[08Dec2024 22:35:09.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to ezekillah]
+[08Dec2024 22:35:18.880] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:35:21.355] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:35:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has completed the challenge [It Spreads]
+[08Dec2024 22:35:31.354] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:35:35.265] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:35:36.609] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:35:39.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to GralMarcosPerez]
+[08Dec2024 22:35:47.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[08Dec2024 22:35:50.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[08Dec2024 22:35:58.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[08Dec2024 22:36:07.462] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:36:38.394] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:36:39.456] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:36:41.615] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:36:49.380] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:36:49.580] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:36:49.743] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
