@@ -19462,3 +19462,324 @@ java.lang.NullPointerException: null
 [08Dec2024 22:37:30.945] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [08Dec2024 22:37:31.190] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [08Dec2024 22:37:31.382] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:35.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Survival Mode]
+[08Dec2024 22:37:38.836] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:38.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[08Dec2024 22:37:39.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:40.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:40.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:40.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:41.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:42.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:51.880] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:52.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:53.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:56.491] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:37:56.700] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:37:57.183] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:37:57.217] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:37:57.405] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:38:03.879] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:04.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:04.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:05.082] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:05.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:05.191] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:05.334] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:08.111] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:38:12.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:13.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:13.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:15.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:15.983] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:16.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:16.484] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:16.595] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:16.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:16.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:16.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:17.133] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:17.291] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:17.433] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:17.638] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:17.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:17.898] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:17.982] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:17.988] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:18.479] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:18.485] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:18.552] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:18.636] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:18.741] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:18.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:19.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:19.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:31.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:31.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:35.478] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:35.628] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:39.210] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:38:40.998] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:38:41.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:41.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:43.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:43.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:43.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:44.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:44.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:45.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:45.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:47.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:47.953] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:48.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:48.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:48.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:49.279] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:49.878] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:50.332] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:50.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:50.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:51.212] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:51.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:54.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:55.633] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:55.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:55.882] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:56.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:56.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:56.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:56.814] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:57.001] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:57.085] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:57.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:57.339] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:58.190] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:58.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:58.931] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:38:59.493] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:39:04.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:39:04.992] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:39:05.110] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:39:05.540] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:39:05.692] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:39:23.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 22:39:23.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 22:41:03.994] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08Dec2024 22:41:03.995] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=807, z=1073200}"
+}
+[08Dec2024 22:41:03.996] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 126 extra bytes: 
+[08Dec2024 22:41:03.998] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3du{sjh r/WNeNkN<~&+/,0/524.ip.gl.p"
+]
+[08Dec2024 22:41:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[08Dec2024 22:41:06.695] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08Dec2024 22:41:06.696] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=972, z=1073200}"
+}
+[08Dec2024 22:41:06.696] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[08Dec2024 22:41:06.697] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[12, -90, 96, -52, 83, -44, -3, 46, 83, 76, -88]"
+]
+[08Dec2024 22:41:06.875] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08Dec2024 22:41:06.876] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1023, z=1073200}"
+}
+[08Dec2024 22:41:06.876] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 77 extra bytes: 
+[08Dec2024 22:41:06.876] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "UWBW$0|%``+>M xseU!QtlHZ&+/,0"
+]
+[08Dec2024 22:41:07.049] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08Dec2024 22:41:07.050] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1012, z=1073200}"
+}
+[08Dec2024 22:41:07.050] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[08Dec2024 22:41:07.051] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-46, 103, 117, -49, -72, -91, 36, 75, -15, -3, -1]"
+]
+[08Dec2024 22:41:09.372] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08Dec2024 22:41:09.374] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1004, z=1073200}"
+}
+[08Dec2024 22:41:09.374] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 97 extra bytes: 
+[08Dec2024 22:41:09.374] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">JMf-k9hoz=*5 L\\'sw)f0NR+,}&+/,0/5"
+]
+[08Dec2024 22:41:09.375] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChangeDifficultyPacket  id 2 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08Dec2024 22:41:09.376] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133814_": "NORMAL"
+}
+[08Dec2024 22:41:09.376] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 2 data of 169 extra bytes: 
+[08Dec2024 22:41:09.376] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Mf-k9hoz=*5 L\\'sw)f0NR+,}&+/,0/52.ip.gl.ply.gg"
+]
+[08Dec2024 22:41:09.377] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08Dec2024 22:41:09.378] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": -369701300
+}
+[08Dec2024 22:41:09.378] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 151 extra bytes: 
+[08Dec2024 22:41:09.378] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "\\'sw)f0NR+,}&+/,0/52.ip.gl.ply.gg"
+]
+[08Dec2024 22:41:29.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[08Dec2024 22:41:33.085] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08Dec2024 22:41:33.085] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=919, z=1122352}"
+}
+[08Dec2024 22:41:33.086] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[08Dec2024 22:41:33.086] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-37, -31, 102, -46, 95, 20, 123, -27, 78, 116, 85]"
+]
+[08Dec2024 22:41:33.284] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08Dec2024 22:41:33.286] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=917, z=905264}"
+}
+[08Dec2024 22:41:33.287] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 36 extra bytes: 
+[08Dec2024 22:41:33.288] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "iQc@So&\"Zh9"
+]
+[08Dec2024 22:41:33.290] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChatAckPacket  id 3 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08Dec2024 22:41:33.293] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ServerboundChatAckPacket[offset=10487]"
+[08Dec2024 22:41:33.293] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 3 data of 31 extra bytes: 
+[08Dec2024 22:41:33.293] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "c@So&\"Zh9"
+]
+[08Dec2024 22:41:33.768] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[08Dec2024 22:41:33.769] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=869, z=856112}"
+}
+[08Dec2024 22:41:33.769] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 21 extra bytes: 
+[08Dec2024 22:41:33.769] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "AZJ,FL4/Ps"
+]
+[08Dec2024 22:41:42.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:43.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:45.734] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:46.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:46.330] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:46.880] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:47.181] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:47.628] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:48.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:48.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:48.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:49.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:49.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:49.428] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:49.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:50.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:50.478] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:50.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:50.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:51.931] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:52.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:52.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:56.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:56.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:57.230] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:57.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:58.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:41:58.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:42:42.500] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[08Dec2024 22:43:26.383] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:43:28.784] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:43:31.232] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:43:47.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 22:43:54.442] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:44:23.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 22:44:23.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 22:44:25.581] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:44:27.981] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:44:33.584] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:44:35.085] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:44:44.430] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[08Dec2024 22:44:44.683] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[08Dec2024 22:44:46.083] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[08Dec2024 22:45:10.728] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundSetPlayerTeamPacket$Action
+[08Dec2024 22:45:10.730] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-1, y=-11, z=425} at Sarcophagus with:graveyard:chests/crypt_loot
+[08Dec2024 22:45:23.504] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=333, y=-19, z=441} at Chest with:minecraft:chests/simple_dungeon
+[08Dec2024 22:45:43.901] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:witch_hut/witch_hut_1 is being run through DFU (hash c05f680ded80e7ce9262512caa540d281fe1035535586b6acca53ec1c76cd283), this will cause launch time delays
+[08Dec2024 22:46:07.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2
+[08Dec2024 22:46:08.386] [Worker-Main-3/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:08.386] [Worker-Main-3/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:08.387] [Worker-Main-3/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:08.387] [Worker-Main-3/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:08.387] [Worker-Main-3/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:08.387] [Worker-Main-3/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:08.387] [Worker-Main-3/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:08.387] [Worker-Main-3/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:08.389] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=-287, y=-27, z=192} at Chest with:minecraft:chests/simple_dungeon
+[08Dec2024 22:46:11.203] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:harvest/camp/scarecrow is being run through DFU (hash 091653853e37d1ce7d322f39f1ec95de2346967b1d481effb64451203375d9f0), this will cause launch time delays
+[08Dec2024 22:46:15.790] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:15.790] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:15.790] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:15.790] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:15.790] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:15.790] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:15.790] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:15.790] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[08Dec2024 22:46:16.671] [Worker-Main-10/DEBUG] [ModernFix/]: Structure philipsruins:field_stone_ruins_rock6 is being run through DFU (hash 97ce81a4b24b8841200f5adc05594182f7687c263cdd72aeaa9e8cf059e96981), this will cause launch time delays
+[08Dec2024 22:46:16.794] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[08Dec2024 22:46:17.295] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:decoration/jungle_well is being run through DFU (hash 89dfa852deb42193187e09b5f3c589323d8a61902a3e6007be9c721bfa22d2d5), this will cause launch time delays
+[08Dec2024 22:46:21.751] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/ruin3 is being run through DFU (hash d6237c3d3db00412c6dcca541269a0b557879a8a75be8c90883fceb208241510), this will cause launch time delays
+[08Dec2024 22:46:24.213] [Worker-Main-1/DEBUG] [ModernFix/]: Structure swampier_swamps:village/swamp/town_centers/meeting_point_3 is being run through DFU (hash 40d5357ea28d43a9d7c10ba6da2a75565523c1b05c8d71faf7f8522a8d4dd18a), this will cause launch time delays
+[08Dec2024 22:46:24.333] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:temple/temple_ruin is being run through DFU (hash 50c4d5c96013857d5845ce5c1b389a591e190334a0692bd9c7b1a28ef630be44), this will cause launch time delays
+[08Dec2024 22:46:26.815] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/desert/town_centers/desert_market is being run through DFU (hash ec4f1d3e67b5888f4d4f18a71915c7f19870202d8e8caca6a98d111c9a2dc664), this will cause launch time delays
+[08Dec2024 22:46:29.724] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of iter_rpg:vase_room_medium
+[08Dec2024 22:46:29.794] [Worker-Main-10/DEBUG] [ModernFix/]: Structure minecraft:witch_hut/witch_hut_2 is being run through DFU (hash f264f433d5cb831d636dcf3fd174fc58648f4911b1eecaa18548e6d356c6e53c), this will cause launch time delays
+[08Dec2024 22:46:29.956] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_tower_1
+[08Dec2024 22:46:30.981] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / abridged:canyon_bridge], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp]] from pos BlockPos{x=-283, y=75, z=-213}
+[08Dec2024 22:46:39.315] [pool-7-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_2
+[08Dec2024 22:46:48.227] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-317, y=-21, z=-325} at Coffin with:graveyard:chests/crypt_loot
+[08Dec2024 22:46:53.906] [pool-7-thread-2/DEBUG] [ModernFix/]: Structure kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2 is being run through DFU (hash 99a73071c936cce13d0fe411dd0abd4ba4c9b01f141b34049391fc7eaa3b9ab9), this will cause launch time delays
+[08Dec2024 22:46:57.272] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[08Dec2024 22:46:57.355] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[08Dec2024 22:46:57.381] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[08Dec2024 22:46:57.393] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_3 is being run through DFU (hash 87585b478e3870e6dfdc4175f0be09d3a47f732ee6eb6f8298cb860380951b38), this will cause launch time delays
+[08Dec2024 22:46:57.477] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[08Dec2024 22:46:57.490] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[08Dec2024 22:46:57.503] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[08Dec2024 22:46:57.505] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[08Dec2024 22:46:57.520] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[08Dec2024 22:46:57.537] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[08Dec2024 22:46:57.556] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[08Dec2024 22:47:03.535] [Worker-Main-1/DEBUG] [ModernFix/]: Structure philipsruins:deepslate_city1 is being run through DFU (hash 10ea8acbcac5b739857b125eb994782115a3e1de4d7d8d92d80b6a5ba53658bd), this will cause launch time delays
+[08Dec2024 22:47:13.272] [Worker-Main-1/DEBUG] [ModernFix/]: Structure philipsruins:field_stone_ruins_rock4 is being run through DFU (hash 209527824ac1e4adf021935f789cb42d8a3618af1fb36c6431fe6bdb95d58c21), this will cause launch time delays
+[08Dec2024 22:47:18.266] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-362, y=-32, z=-415} at Chest with:graveyard:chests/crypt_loot
+[08Dec2024 22:47:30.184] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[08Dec2024 22:47:32.085] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/church is being run through DFU (hash 9a7a833f4d75bff0034b2f26d7345cb97ad46f7e4b7c0a567c07df3021fac4d0), this will cause launch time delays
+[08Dec2024 22:47:32.155] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/2/top is being run through DFU (hash d9c00df651a9b021aa6ac1d31f47829c424db9b97513acab75bb8ea4afa18f29), this will cause launch time delays
+[08Dec2024 22:47:32.250] [Worker-Main-10/DEBUG] [ModernFix/]: Structure structory:entities/vindicator is being run through DFU (hash 5dd6855f36d88b29c351f5e2b8fa10a2f2de7bf2038af87e3447547776df5d69), this will cause launch time delays

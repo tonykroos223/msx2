@@ -1095,7 +1095,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2024-12-08 22:14:01 +0000",
-      "minecraft:river": "2024-12-08 21:59:57 +0000"
+      "minecraft:river": "2024-12-08 21:59:57 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-08 22:34:36 +0000"
     },
     "done": false
   },
@@ -2160,6 +2161,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-08 22:35:21 +0000",
       "minecraft:zombie": "2024-12-08 22:29:51 +0000"
     },
     "done": false
@@ -2251,6 +2253,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 22:14:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-08 22:41:37 +0000"
     },
     "done": true
   },
@@ -2539,6 +2547,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-08 22:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 22:43:32 +0000"
     },
     "done": true
   },
@@ -2884,6 +2898,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 22:43:32 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 22:14:45 +0000"
@@ -2989,6 +3009,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_gray_wool": "2024-12-08 22:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-08 22:35:21 +0000"
     },
     "done": true
   },
@@ -3199,6 +3225,12 @@
   "valhelsia_furniture:recipes/decorations/gray_jungle_chair": {
     "criteria": {
       "has_gray_wool": "2024-12-08 22:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 22:43:32 +0000"
     },
     "done": true
   },
