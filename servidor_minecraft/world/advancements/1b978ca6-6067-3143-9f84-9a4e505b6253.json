@@ -523,6 +523,7 @@
       "golden_apple": "2024-12-08 22:20:04 +0000",
       "rotten_flesh": "2024-12-08 23:37:23 +0000",
       "salmon": "2024-12-08 22:53:15 +0000",
+      "golden_carrot": "2024-12-09 00:10:11 +0000",
       "carrot": "2024-12-08 23:37:18 +0000"
     },
     "done": false
@@ -2918,6 +2919,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-08 23:54:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-09 00:05:28 +0000"
     },
     "done": true
   },

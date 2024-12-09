@@ -29,3 +29,59 @@
 [09Dec2024 00:07:55.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Amateur Archaeologist]
 [09Dec2024 00:08:22.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Sweet Dreams]
 [09Dec2024 00:09:06.629] [Server thread/INFO] [cuffed/]: BlackSirius9304 is interacting!
+[09Dec2024 00:09:14.784] [Server thread/INFO] [cuffed/]: BlackSirius9304 is interacting!
+[09Dec2024 00:09:24.083] [Server thread/INFO] [cuffed/]: BlackSirius9304 is interacting!
+[09Dec2024 00:09:27.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Gamerule playersSleepingPercentage is now set to: -1]
+[09Dec2024 00:10:15.734] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[09Dec2024 00:10:16.281] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[09Dec2024 00:10:35.219] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[09Dec2024 00:10:35.431] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[09Dec2024 00:10:35.658] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[09Dec2024 00:10:41.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _GROZNY_[/127.232.202.116:59985] logged in with entity id 72241 at (4.5, 68.0, 1.5)
+[09Dec2024 00:10:41.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ joined the game
+[09Dec2024 00:10:41.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ has made the advancement [Souls like universe]
+[09Dec2024 00:10:41.263] [Server thread/INFO] [Jade/]: Syncing config to _GROZNY_ (1feeb64e-4adf-36f3-a82f-adf19e39c8b3)
+[09Dec2024 00:10:41.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ has made the advancement [Orcz Challenges]
+[09Dec2024 00:10:41.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ has made the advancement [Ice and Fire]
+[09Dec2024 00:11:03.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah burned to death
+[09Dec2024 00:11:09.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to TRECETRECETRECE]
+[09Dec2024 00:11:11.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Stone Age]
+[09Dec2024 00:11:11.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Suit Up]
+[09Dec2024 00:11:11.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [The Bender of the 15th Century]
+[09Dec2024 00:11:11.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has completed the challenge [Dragon slayer armour hunter]
+[09Dec2024 00:11:40.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Creative Mode]
+[09Dec2024 00:12:07.392] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER
+[09Dec2024 00:12:07.393] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[09Dec2024 00:12:23.236] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[09Dec2024 00:12:56.442] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[09Dec2024 00:13:08.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to _GROZNY_]
+[09Dec2024 00:14:56.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to ezekillah]
+[09Dec2024 00:15:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GralMarcosPerez: Set own game mode to Creative Mode]
+[09Dec2024 00:16:20.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Made _GROZNY_ a server operator]
+[09Dec2024 00:16:42.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_GROZNY_: Teleported _GROZNY_ to TRECETRECETRECE]
+[09Dec2024 00:16:55.756] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:16:55.758] [Server thread/INFO] [cuffed/]: attempting to put restraints on _GROZNY_
+[09Dec2024 00:17:04.958] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[09Dec2024 00:17:05.111] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[09Dec2024 00:17:05.139] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:17:05.309] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[09Dec2024 00:17:05.489] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[09Dec2024 00:17:05.642] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[09Dec2024 00:17:06.209] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[09Dec2024 00:17:07.510] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[09Dec2024 00:17:07.753] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:17:07.913] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:17:11.638] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:17:12.038] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:17:12.199] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:17:12.344] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:17:12.492] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:17:12.748] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:17:12.897] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:17:13.097] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:17:44.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ drowned
+[09Dec2024 00:17:56.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_GROZNY_: Set own game mode to Creative Mode]
+[09Dec2024 00:17:57.207] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[09Dec2024 00:18:16.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Stone Age]
+[09Dec2024 00:18:16.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [The Bender of the 15th Century]
+[09Dec2024 00:18:56.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_GROZNY_: Teleported _GROZNY_ to TRECETRECETRECE]

@@ -2554,5 +2554,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-09 00:08:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-09 00:05:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
