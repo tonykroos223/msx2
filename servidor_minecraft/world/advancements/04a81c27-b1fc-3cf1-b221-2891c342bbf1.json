@@ -1094,12 +1094,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-09 00:41:47 +0000",
       "minecraft:birch_forest": "2024-12-08 22:14:01 +0000",
       "minecraft:beach": "2024-12-08 22:46:53 +0000",
       "minecraft:river": "2024-12-08 21:59:57 +0000",
       "minecraft:cold_ocean": "2024-12-08 22:52:25 +0000",
       "minecraft:forest": "2024-12-08 23:03:15 +0000",
       "minecraft:deep_cold_ocean": "2024-12-08 23:04:45 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-09 00:49:08 +0000",
       "minecraft:ocean": "2024-12-08 22:47:03 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-08 22:34:36 +0000"
     },
@@ -2936,7 +2938,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-09 00:48:13 +0000",
       "minecraft:skeleton": "2024-12-08 22:35:21 +0000",
+      "minecraft:vindicator": "2024-12-09 00:40:30 +0000",
       "minecraft:creeper": "2024-12-08 23:04:20 +0000",
       "minecraft:stray": "2024-12-08 23:04:58 +0000",
       "minecraft:zombie": "2024-12-08 22:29:51 +0000"
@@ -3519,6 +3523,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-08 23:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-08 23:54:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2024-12-08 23:55:55 +0000"
@@ -3528,6 +3544,30 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-08 23:55:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 23:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-08 23:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-08 23:55:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-09 00:05:07 +0000"
     },
     "done": true
   },
@@ -3543,27 +3583,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/horse_feed": {
+  "alexsmobs:alexsmobs/rainbow_jelly": {
     "criteria": {
-      "has_golden_carrot": "2024-12-09 00:05:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-08 23:55:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-12-08 23:54:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-08 23:55:55 +0000"
+      "gustmaker": "2024-12-09 00:28:16 +0000"
     },
     "done": true
   },
@@ -3573,27 +3595,51 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rainbow_jelly": {
-    "criteria": {
-      "gustmaker": "2024-12-09 00:28:16 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2024-12-09 00:37:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_salmon": "2024-12-08 23:55:55 +0000"
+      "has_emerald": "2024-12-09 00:40:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "has_sand": "2024-12-08 23:54:52 +0000"
+      "has_glowstone": "2024-12-09 00:40:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-09 00:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-09 00:40:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2024-12-09 00:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-09 00:41:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2024-12-09 00:42:28 +0000"
     },
     "done": true
   },

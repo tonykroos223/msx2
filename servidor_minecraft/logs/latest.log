@@ -266,3 +266,53 @@
 [09Dec2024 00:39:36.447] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/ExperienceCommand$Type
 [09Dec2024 00:39:36.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Gave 99 experience levels to BlackSirius9304]
 [09Dec2024 00:39:49.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Set own game mode to Survival Mode]
+[09Dec2024 00:40:00.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlackSirius9304> subir habilidades
+[09Dec2024 00:40:11.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Survival Mode]
+[09Dec2024 00:40:31.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah moved wrongly!
+[09Dec2024 00:40:40.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah moved wrongly!
+[09Dec2024 00:40:57.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Isn't It Iron Pick]
+[09Dec2024 00:41:13.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Monster Hunter]
+[09Dec2024 00:42:33.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Disconnected
+[09Dec2024 00:42:33.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
+[09Dec2024 00:42:43.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Enchanted blossom]
+[09Dec2024 00:43:02.687] [Server thread/INFO] [cuffed/]: BlackSirius9304 is interacting!
+[09Dec2024 00:43:57.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.3097780417130025
+[09Dec2024 00:43:58.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.7393510506722123
+[09Dec2024 00:43:58.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 1.032404778593954
+[09Dec2024 00:44:09.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.5935072186675825
+[09Dec2024 00:44:09.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 1.0699755664695658
+[09Dec2024 00:44:09.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.6025437415319175
+[09Dec2024 00:44:09.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 1.082809453468144
+[09Dec2024 00:44:14.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.26641270441712095
+[09Dec2024 00:44:14.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.6921716122582211
+[09Dec2024 00:44:14.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 1.1128414577817693
+[09Dec2024 00:44:14.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 1.5326253965132537
+[09Dec2024 00:44:14.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.26753346542432155
+[09Dec2024 00:44:14.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.6792013885789174
+[09Dec2024 00:44:14.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.27388051055856977
+[09Dec2024 00:44:14.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.26888280427772315
+[09Dec2024 00:44:14.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.2609352850666937
+[09Dec2024 00:44:14.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.27223612872137437
+[09Dec2024 00:44:14.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.27145126074026393
+[09Dec2024 00:44:16.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.328282132657705
+[09Dec2024 00:44:16.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.7490224129880971
+[09Dec2024 00:44:16.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 1.0
+[09Dec2024 00:44:16.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.3311195878552553
+[09Dec2024 00:44:16.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.32693813140019756
+[09Dec2024 00:44:16.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.3381384726857277
+[09Dec2024 00:44:16.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.7533533221255766
+[09Dec2024 00:44:16.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.3297755865976342
+[09Dec2024 00:44:16.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of BlackSirius9304) moved wrongly! 0.7520093208679555
+[09Dec2024 00:46:18.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Gave 231354 experience points to BlackSirius9304]
+[09Dec2024 00:47:13.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ezekillah[/127.165.32.75:57229] logged in with entity id 97930 at (-319.9759030674135, 64.0, -684.2630796839104)
+[09Dec2024 00:47:13.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah joined the game
+[09Dec2024 00:47:13.674] [Server thread/INFO] [Jade/]: Syncing config to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[09Dec2024 00:48:24.011] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-9, y=-26, z=-726}
+[09Dec2024 00:48:24.198] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-11, y=-27, z=-780}
+[09Dec2024 00:48:24.198] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-5, y=-27, z=-780}
+[09Dec2024 00:48:24.290] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-5, y=-27, z=-785}
+[09Dec2024 00:48:24.291] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8, y=-27, z=-797}
+[09Dec2024 00:49:07.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to BlackSirius9304]
+[09Dec2024 00:49:29.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Creative Mode]
+[09Dec2024 00:49:55.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has reached the goal [Upgrade Me with Debris]
+[09Dec2024 00:49:55.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Reaping What You Sow]
