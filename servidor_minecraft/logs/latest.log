@@ -128,3 +128,141 @@
 [09Dec2024 00:28:58.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Taste the Rainbow]
 [09Dec2024 00:29:02.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez moved too quickly! 8.667418433105922E-5,-17.516555391526822,9.116060269889203E-4
 [09Dec2024 00:29:29.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez moved too quickly! 2.908599612534772,-31.118136442333764,6.712907593549744
+[09Dec2024 00:29:51.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez moved too quickly! 1.3942921937667734,-74.11813811126382,9.018230887294067
+[09Dec2024 00:30:15.637] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[09Dec2024 00:30:15.639] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=809, z=1073200}"
+}
+[09Dec2024 00:30:15.639] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[09Dec2024 00:30:15.640] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-35, -53, -9, -3, -44, 46, 77, 31, -124, 10, -116]"
+]
+[09Dec2024 00:30:16.386] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[09Dec2024 00:30:16.387] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1018, z=1073200}"
+}
+[09Dec2024 00:30:16.387] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 127 extra bytes: 
+[09Dec2024 00:30:16.387] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "K ?`pI,?\\Ht +jV%G=^D_lq&+/,0/524.ip.gl.pl"
+]
+[09Dec2024 00:30:16.698] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[09Dec2024 00:30:16.698] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=963, z=1073200}"
+}
+[09Dec2024 00:30:16.698] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[09Dec2024 00:30:16.698] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[55, 98, -115, 53, 7, -47, -5, -72, -92, -2, 88]"
+]
+[09Dec2024 00:30:18.683] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[09Dec2024 00:30:18.684] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1011, z=1073200}"
+}
+[09Dec2024 00:30:18.684] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[09Dec2024 00:30:18.684] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-2, 103, 7, -81, 33, -113, -15, -126, 35, -69, -11]"
+]
+[09Dec2024 00:30:19.133] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[09Dec2024 00:30:19.133] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=917, z=1073200}"
+}
+[09Dec2024 00:30:19.133] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[09Dec2024 00:30:19.134] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-125, -104, -76, -32, -41, -99, 13, 7, 93, -21, 124]"
+]
+[09Dec2024 00:30:26.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _GROZNY_ lost connection: Timed out
+[09Dec2024 00:30:26.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ left the game
+[09Dec2024 00:30:40.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Mariachi?]
+[09Dec2024 00:30:46.053] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:30:46.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has completed the challenge [Mariachi!]
+[09Dec2024 00:30:49.143] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:30:49.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Mariachi?]
+[09Dec2024 00:30:53.892] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[09Dec2024 00:30:53.893] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=1011, z=1122352}"
+}
+[09Dec2024 00:30:53.893] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[09Dec2024 00:30:53.893] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[34, 52, 99, -118, 44, -39, 34, -2, 39, 123, 30]"
+]
+[09Dec2024 00:30:54.194] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[09Dec2024 00:30:54.195] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=979, z=905264}"
+}
+[09Dec2024 00:30:54.195] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 78 extra bytes: 
+[09Dec2024 00:30:54.195] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "A\"&kyT?Q+^h9j=#<k(@/"
+]
+[09Dec2024 00:31:12.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Creative Mode]
+[09Dec2024 00:31:23.418] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:31:35.353] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:31:36.835] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:31:56.565] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[09Dec2024 00:31:56.764] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[09Dec2024 00:31:56.964] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[09Dec2024 00:35:04.441] [Server thread/INFO] [cuffed/]: BlackSirius9304 is interacting!
+[09Dec2024 00:35:42.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BlackSirius9304> 5 dragones
+[09Dec2024 00:35:48.211] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:35:48.212] [Server thread/INFO] [cuffed/]: attempting to put restraints on BlackSirius9304
+[09Dec2024 00:35:49.498] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:35:51.548] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:35:51.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to TRECETRECETRECE]
+[09Dec2024 00:35:54.264] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:35:54.265] [Server thread/INFO] [cuffed/]: attempting to put restraints on BlackSirius9304
+[09Dec2024 00:35:55.816] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:35:55.816] [Server thread/INFO] [cuffed/]: attempting to put restraints on BlackSirius9304
+[09Dec2024 00:36:01.262] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:36:01.262] [Server thread/INFO] [cuffed/]: attempting to put restraints on ezekillah
+[09Dec2024 00:36:18.257] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:36:20.292] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:36:20.511] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:36:20.901] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:36:28.407] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:36:30.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez lost connection: Disconnected
+[09Dec2024 00:36:30.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez left the game
+[09Dec2024 00:36:33.150] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:36:33.150] [Server thread/INFO] [cuffed/]: attempting to put restraints on ezekillah
+[09Dec2024 00:36:44.582] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:36:45.235] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:36:45.766] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[09Dec2024 00:37:04.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE moved too quickly! 0.7044767902517606,0.33182694156556636,10.454841840854442
+[09Dec2024 00:37:04.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlackSirius9304 moved too quickly! -1.2024092960594999,-10.333726967260162,0.2906988605252536
+[09Dec2024 00:37:29.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [They Have a Cave Troll!]
+[09Dec2024 00:37:38.233] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/Display$BillboardConstraints
+[09Dec2024 00:37:39.827] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/89900, l='ServerLevel[world]', x=-647.00, y=87.00, z=-357.00, removed=DISCARDED]
+[09Dec2024 00:38:03.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlackSirius9304 moved too quickly! -4.785021074447968,0.0,8.883420757163776
+[09Dec2024 00:38:03.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[09Dec2024 00:38:20.491] [Server thread/INFO] [cuffed/]: BlackSirius9304 is interacting!
+[09Dec2024 00:38:22.103] [Server thread/INFO] [cuffed/]: BlackSirius9304 is interacting!
+[09Dec2024 00:38:22.748] [Server thread/INFO] [cuffed/]: BlackSirius9304 is interacting!
+[09Dec2024 00:38:23.591] [Server thread/INFO] [cuffed/]: BlackSirius9304 is interacting!
+[09Dec2024 00:38:29.097] [Server thread/INFO] [cuffed/]: BlackSirius9304 is interacting!
+[09Dec2024 00:39:06.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditnaturalEntity['Bandit'/89737, l='ServerLevel[world]', x=-631.80, y=62.00, z=-590.24] died: Bandit hit the ground too hard whilst trying to escape ezekillah
+[09Dec2024 00:39:36.447] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/ExperienceCommand$Type
+[09Dec2024 00:39:36.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Gave 99 experience levels to BlackSirius9304]
+[09Dec2024 00:39:49.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Set own game mode to Survival Mode]

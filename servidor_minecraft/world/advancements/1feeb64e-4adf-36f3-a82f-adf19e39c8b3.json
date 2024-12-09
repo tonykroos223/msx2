@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:29:28 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/transportation/spruce_cog": {
     "criteria": {
       "in_water": "2024-12-09 00:14:27 +0000"
@@ -82,6 +88,12 @@
       "in_water": "2024-12-09 00:14:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:29:28 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
@@ -185,6 +197,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:29:28 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
       "in_water": "2024-12-09 00:14:27 +0000"
@@ -263,6 +281,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:29:28 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2024-12-09 00:27:53 +0000"
@@ -329,11 +353,23 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:29:28 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2024-12-09 00:27:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:29:28 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
@@ -413,6 +449,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:29:28 +0000"
+    },
+    "done": false
+  },
   "infinity_cave:technical/hit_match/entity_hurt_player": {
     "criteria": {
       "requirement": "2024-12-09 00:17:07 +0000"
@@ -443,6 +485,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:29:28 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-12-09 00:14:27 +0000"
@@ -466,6 +514,12 @@
       "always_true": "2024-12-09 00:10:41 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:29:28 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
@@ -503,6 +557,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:29:28 +0000"
+    },
+    "done": false
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-12-09 00:10:41 +0000"
@@ -526,6 +586,12 @@
       "in_water": "2024-12-09 00:14:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:29:28 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
@@ -580,6 +646,12 @@
       "has_stick": "2024-12-09 00:27:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 00:29:28 +0000"
+    },
+    "done": false
   },
   "astikorcarts:recipes/animal_cart": {
     "criteria": {

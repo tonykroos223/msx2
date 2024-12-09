@@ -3567,9 +3567,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2024-12-09 00:30:49 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rainbow_jelly": {
     "criteria": {
       "gustmaker": "2024-12-09 00:28:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-09 00:37:29 +0000"
     },
     "done": true
   },

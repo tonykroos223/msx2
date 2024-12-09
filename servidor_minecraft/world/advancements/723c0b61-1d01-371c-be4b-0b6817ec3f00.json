@@ -232,7 +232,8 @@
       "minecraft:deep_cold_ocean": "2024-12-08 22:57:49 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-08 23:06:48 +0000",
       "minecraft:ocean": "2024-12-08 22:47:03 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-08 22:33:36 +0000"
+      "minecraft:old_growth_birch_forest": "2024-12-08 22:33:36 +0000",
+      "minecraft:plains": "2024-12-09 00:37:42 +0000"
     },
     "done": false
   },
@@ -2632,6 +2633,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2024-12-09 00:30:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-09 00:18:16 +0000"
@@ -2746,9 +2753,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2024-12-09 00:30:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-09 00:18:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-12-09 00:31:05 +0000"
     },
     "done": true
   },
