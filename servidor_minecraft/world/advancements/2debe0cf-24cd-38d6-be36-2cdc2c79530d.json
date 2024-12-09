@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "netherdungeons:recipes/crafting/light_sensor": {
+    "criteria": {
+      "has_items": "2024-12-09 00:17:45 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2024-12-08 23:54:15 +0000"
@@ -431,6 +437,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2024-12-09 00:17:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_saber": {
     "criteria": {
       "has_wood": "2024-12-08 23:58:21 +0000"
@@ -536,6 +548,12 @@
   "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 23:58:21 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2024-12-09 00:20:28 +0000"
     },
     "done": true
   },
@@ -884,6 +902,12 @@
   "spartanweaponry:recipes/wooden_throwing_knife": {
     "criteria": {
       "has_wood": "2024-12-08 23:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-09 00:20:28 +0000"
     },
     "done": true
   },
@@ -1796,6 +1820,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-08 23:54:15 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/luminophore_lantern": {
+    "criteria": {
+      "has_items": "2024-12-09 00:17:45 +0000"
     },
     "done": true
   },

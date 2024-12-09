@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:technical/armor/leggings": {
     "criteria": {
       "empty": "2024-12-09 00:10:41 +0000"
@@ -35,6 +41,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_orange": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_magenta": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:mechanics/weapons/sonic_bow/tick": {
     "criteria": {
       "requirement": "2024-12-09 00:10:41 +0000"
@@ -44,6 +68,12 @@
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2024-12-09 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
     },
     "done": true
   },
@@ -62,6 +92,18 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-09 00:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-09 00:25:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
     },
     "done": true
   },
@@ -131,6 +173,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2024-12-09 00:10:41 +0000"
@@ -161,9 +209,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "astikorcarts:recipes/plow": {
     "criteria": {
       "has_wheel": "2024-12-09 00:10:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
     },
     "done": true
   },
@@ -179,15 +239,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:technical/armor/helmet": {
     "criteria": {
       "empty": "2024-12-09 00:10:41 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:technical/armor/boots": {
     "criteria": {
       "empty": "2024-12-09 00:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
     },
     "done": true
   },
@@ -209,15 +305,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:mechanics/altar/tick": {
     "criteria": {
       "requirement": "2024-12-09 00:10:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-12-09 00:10:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_green": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
     },
     "done": true
   },
@@ -245,6 +359,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_purple": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/spruce_drakkar": {
     "criteria": {
       "in_water": "2024-12-09 00:14:27 +0000"
@@ -257,9 +377,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-09 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-09 00:27:53 +0000"
     },
     "done": true
   },
@@ -287,9 +419,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_gray": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-12-09 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
     },
     "done": true
   },
@@ -314,6 +476,12 @@
   "infinity_cave:mechanics/weapons/torpedo_harpoon/tick": {
     "criteria": {
       "requirement": "2024-12-09 00:10:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
     },
     "done": true
   },
@@ -365,6 +533,12 @@
     },
     "done": true
   },
+  "sawmill:recipes/sawmill": {
+    "criteria": {
+      "has_sticks": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_drakkar": {
     "criteria": {
       "in_water": "2024-12-09 00:14:27 +0000"
@@ -377,11 +551,35 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_blue": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2024-12-09 00:10:42 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/daub_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
   },
   "astikorcarts:recipes/animal_cart": {
     "criteria": {
@@ -419,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-09 00:10:41 +0000"
@@ -431,9 +635,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "soulslikeuniverse:soulslikeuniverse": {
     "criteria": {
       "soulslikeuniverse": "2024-12-09 00:10:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
     },
     "done": true
   },
@@ -446,6 +662,12 @@
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2024-12-09 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_gray": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
     },
     "done": true
   },
@@ -467,19 +689,50 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/pole_from_string": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2024-12-09 00:15:41 +0000",
       "minecraft:beach": "2024-12-09 00:16:43 +0000",
       "minecraft:river": "2024-12-09 00:15:43 +0000",
       "minecraft:cold_ocean": "2024-12-09 00:17:21 +0000",
-      "minecraft:forest": "2024-12-09 00:16:48 +0000"
+      "minecraft:forest": "2024-12-09 00:16:48 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-09 00:26:59 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:recipes/combat/simple_handle": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
+    },
+    "done": true
   },
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2024-12-09 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-09 00:23:36 +0000"
     },
     "done": true
   },
@@ -492,6 +745,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-09 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_lime": {
+    "criteria": {
+      "has_stick": "2024-12-09 00:27:53 +0000"
     },
     "done": true
   },
