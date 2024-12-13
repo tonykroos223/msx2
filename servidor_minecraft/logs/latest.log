@@ -4305,3 +4305,488 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 02:00:17.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Alex's Mobs]
 [13Dec2024 02:00:18.407] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
 [13Dec2024 02:00:32.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to GralMarcosPerez]
+[13Dec2024 02:00:45.654] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:00:45.874] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:01:40.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Killed TRECETRECETRECE]
+[13Dec2024 02:01:52.900] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:01:53.058] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:01:53.276] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:01:58.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Killed TRECETRECETRECE]
+[13Dec2024 02:02:55.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez moved too quickly! 2.220617232069344E-4,-102.9779702775786,9.080231487672563E-4
+[13Dec2024 02:03:02.339] [Netty Epoll Server IO #2/WARN] [AutoModpack/]: BlackSirius9304 has not installed AutoModpack.
+[13Dec2024 02:03:02.341] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79cfe1a9[id=<null>,name=BlackSirius9304,properties={},legacy=false] (/127.100.181.15:33211) lost connection: AutoModpack mod for forge modloader is required to play on this server!
+[13Dec2024 02:03:09.109] [Netty Epoll Server IO #4/WARN] [AutoModpack/]: BlackSirius9304 has not installed AutoModpack.
+[13Dec2024 02:03:09.139] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78bab7a4[id=<null>,name=BlackSirius9304,properties={},legacy=false] (/127.100.181.15:37299) lost connection: AutoModpack mod for forge modloader is required to play on this server!
+[13Dec2024 02:04:01.217] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:04:01.614] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:04:02.391] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:04:02.914] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:04:06.341] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:04:06.761] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:04:07.021] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:04:07.220] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:04:12.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez moved too quickly! 4.4379142195793975E-5,-28.20469600109891,-9.427214028363551E-4
+[13Dec2024 02:04:30.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez moved too quickly! -2.1845376352302992E-4,-34.17314857996344,-9.121261332438735E-4
+[13Dec2024 02:04:40.685] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[13Dec2024 02:04:54.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to GralMarcosPerez]
+[13Dec2024 02:05:10.527] [Server thread/INFO] [AutoModpack/]: _GROZNY_ has installed AutoModpack.
+[13Dec2024 02:05:16.183] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[13Dec2024 02:05:18.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [You Are A Pirate]
+[13Dec2024 02:05:21.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[13Dec2024 02:05:24.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[13Dec2024 02:05:34.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[13Dec2024 02:05:44.913] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[13Dec2024 02:05:44.914] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[13Dec2024 02:05:51.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to GralMarcosPerez]
+[13Dec2024 02:06:08.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement ['X' Marks the Spot]
+[13Dec2024 02:06:10.541] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a8db7ed[id=<null>,name=_GROZNY_,properties={},legacy=false] (/127.232.202.116:35469) lost connection: Timed out
+[13Dec2024 02:06:33.825] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/talhanation/smallships/client/model/sail/SailModel$Color
+[13Dec2024 02:06:33.830] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[13Dec2024 02:06:35.685] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:06:50.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has completed the challenge [Free Willy]
+[13Dec2024 02:06:53.504] [Server thread/INFO] [cuffed/]: GralMarcosPerez is interacting!
+[13Dec2024 02:06:56.828] [Server thread/INFO] [AutoModpack/]: _GROZNY_ has installed AutoModpack.
+[13Dec2024 02:07:11.282] [Netty Epoll Server IO #3/WARN] [AutoModpack/]: BlackSirius9304 has not installed AutoModpack.
+[13Dec2024 02:07:11.290] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f3e9863[id=<null>,name=BlackSirius9304,properties={},legacy=false] (/127.100.181.15:45617) lost connection: AutoModpack mod for forge modloader is required to play on this server!
+[13Dec2024 02:07:27.260] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[13Dec2024 02:07:35.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Survival Mode]
+[13Dec2024 02:07:46.939] [Netty Epoll Server IO #0/INFO] [AutoModpack/]: _GROZNY_ has installed whole modpack
+[13Dec2024 02:07:49.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GralMarcosPerez: Set the time to 1000]
+[13Dec2024 02:07:57.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _GROZNY_[/127.232.202.116:50387] logged in with entity id 27436 at (9.5, 92.0, -0.5)
+[13Dec2024 02:07:57.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ joined the game
+[13Dec2024 02:07:57.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ has made the advancement [Souls like universe]
+[13Dec2024 02:07:57.327] [Server thread/INFO] [Jade/]: Syncing config to _GROZNY_ (1feeb64e-4adf-36f3-a82f-adf19e39c8b3)
+[13Dec2024 02:07:57.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ has made the advancement [Ice and Fire]
+[13Dec2024 02:07:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ has made the advancement [Orcz Challenges]
+[13Dec2024 02:07:59.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ has made the advancement [My first penny!]
+[13Dec2024 02:07:59.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ has made the advancement [A Christmas Shopping Spree!]
+[13Dec2024 02:09:18.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Stone Age]
+[13Dec2024 02:09:32.757] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to _GROZNY_ (1feeb64e-4adf-36f3-a82f-adf19e39c8b3)
+[13Dec2024 02:10:24.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[13Dec2024 02:10:26.151] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:11:00.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.37670543267154244
+[13Dec2024 02:11:01.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.2558540759919765
+[13Dec2024 02:11:01.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6356049465310321
+[13Dec2024 02:11:01.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0
+[13Dec2024 02:11:01.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0
+[13Dec2024 02:11:01.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0
+[13Dec2024 02:11:01.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6230019440782826
+[13Dec2024 02:11:01.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.2652482277088666
+[13Dec2024 02:11:02.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6340991375419662
+[13Dec2024 02:11:02.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.27325277068206333
+[13Dec2024 02:11:02.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.26371539894162765
+[13Dec2024 02:11:02.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.2732791199080111
+[13Dec2024 02:11:02.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6407674407755337
+[13Dec2024 02:11:02.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0
+[13Dec2024 02:11:02.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.2765149904220152
+[13Dec2024 02:11:02.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6472391818035703
+[13Dec2024 02:11:04.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.37741727945382403
+[13Dec2024 02:11:04.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.8476655641924865
+[13Dec2024 02:11:04.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.3801856512213291
+[13Dec2024 02:11:04.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4303943000132904
+[13Dec2024 02:11:04.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.8784953378043099
+[13Dec2024 02:11:04.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.3212144160611388
+[13Dec2024 02:11:04.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.41517332752087555
+[13Dec2024 02:11:05.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.8646894719285569
+[13Dec2024 02:11:05.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.3090474871384572
+[13Dec2024 02:11:05.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.41751816822375076
+[13Dec2024 02:11:05.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4124621507204438
+[13Dec2024 02:11:05.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.41954326842778755
+[13Dec2024 02:11:05.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.752524895237068
+[13Dec2024 02:11:05.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.205891766372253
+[13Dec2024 02:11:05.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.45005186630476146
+[13Dec2024 02:11:06.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5159164833203528
+[13Dec2024 02:11:06.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.8581727354693894
+[13Dec2024 02:11:06.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.114700123442717
+[13Dec2024 02:11:06.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.2178406260407015
+[13Dec2024 02:11:07.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5246552056828477
+[13Dec2024 02:11:07.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9018217947266294
+[13Dec2024 02:11:07.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0
+[13Dec2024 02:11:07.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5682715977359294
+[13Dec2024 02:11:07.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5650988127762275
+[13Dec2024 02:11:19.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5642961928108307
+[13Dec2024 02:11:19.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9730946790652889
+[13Dec2024 02:11:19.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.34153215567130246
+[13Dec2024 02:11:19.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.8075283550938082
+[13Dec2024 02:11:20.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.3488800670729404
+[13Dec2024 02:11:20.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.8056685114121507
+[13Dec2024 02:11:20.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.33750803759286896
+[13Dec2024 02:11:20.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.3501989628548188
+[13Dec2024 02:11:20.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5271270770325174
+[13Dec2024 02:11:20.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9773608156466792
+[13Dec2024 02:11:20.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.046414171485184
+[13Dec2024 02:11:20.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.1249750895328932
+[13Dec2024 02:11:20.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.23269876487191
+[13Dec2024 02:11:20.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.3618631214791717
+[13Dec2024 02:11:21.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4183204852986364
+[13Dec2024 02:11:21.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.7035339140088301
+[13Dec2024 02:11:21.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.1202774949981062
+[13Dec2024 02:11:21.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.5663105720117223
+[13Dec2024 02:11:21.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.0187722815313096
+[13Dec2024 02:11:21.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.4712568094945158
+[13Dec2024 02:11:21.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.616720057783308
+[13Dec2024 02:11:23.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5177932737855286
+[13Dec2024 02:11:23.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.865541609709993
+[13Dec2024 02:11:23.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4346017527021786
+[13Dec2024 02:11:23.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6919888438869329
+[13Dec2024 02:11:23.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.44969668819612707
+[13Dec2024 02:11:25.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.3160752699487688
+[13Dec2024 02:11:25.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6371760477708222
+[13Dec2024 02:11:25.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9739002635373026
+[13Dec2024 02:11:25.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.3105891277898962
+[13Dec2024 02:11:25.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.31562208392561786
+[13Dec2024 02:11:25.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.33100085077018093
+[13Dec2024 02:11:25.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.3309282433740748
+[13Dec2024 02:11:26.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.43436426164403485
+[13Dec2024 02:11:26.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.7748807185257576
+[13Dec2024 02:11:26.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4200169918930001
+[13Dec2024 02:11:26.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.26527889827148954
+[13Dec2024 02:11:26.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5438167752473504
+[13Dec2024 02:11:26.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5054098766933492
+[13Dec2024 02:11:27.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.36700960054636766
+[13Dec2024 02:11:28.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4198180256331625
+[13Dec2024 02:11:28.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.43087272297304935
+[13Dec2024 02:11:28.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.36749406544363517
+[13Dec2024 02:11:28.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.8638385245815491
+[13Dec2024 02:11:29.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.1941517426756754
+[13Dec2024 02:11:29.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.35289071706453423
+[13Dec2024 02:11:29.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.8522080633241462
+[13Dec2024 02:11:29.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.3610564542448417
+[13Dec2024 02:11:29.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.2749999761581421
+[13Dec2024 02:11:29.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.2749999761581421
+[13Dec2024 02:11:29.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.2749999761581421
+[13Dec2024 02:11:29.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.2749999761581421
+[13Dec2024 02:11:29.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.2749999761581421
+[13Dec2024 02:11:29.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.2749999761581421
+[13Dec2024 02:11:30.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.34517979369695695
+[13Dec2024 02:11:30.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6103068405303702
+[13Dec2024 02:11:30.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.34343389025116267
+[13Dec2024 02:11:31.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5099432108146402
+[13Dec2024 02:11:31.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.7788532987865437
+[13Dec2024 02:11:31.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0
+[13Dec2024 02:11:32.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.2630351924091201
+[13Dec2024 02:11:32.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4642578363418579
+[13Dec2024 02:11:32.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4642578363418579
+[13Dec2024 02:11:32.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4642578363418579
+[13Dec2024 02:11:32.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4642578363418579
+[13Dec2024 02:11:32.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4642578363418579
+[13Dec2024 02:11:32.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4642578363418579
+[13Dec2024 02:11:32.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4642578363418579
+[13Dec2024 02:11:32.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4642578363418579
+[13Dec2024 02:11:32.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4642578363418579
+[13Dec2024 02:11:32.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4642578363418579
+[13Dec2024 02:11:32.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4642578363418579
+[13Dec2024 02:11:32.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4642578363418579
+[13Dec2024 02:11:32.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6225393252824847
+[13Dec2024 02:11:32.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9605262632949787
+[13Dec2024 02:11:32.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.463892315737303
+[13Dec2024 02:11:32.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.9625745468280844
+[13Dec2024 02:11:32.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.456353987728479
+[13Dec2024 02:11:32.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.9636965111218614
+[13Dec2024 02:11:32.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 3.466039113581939
+[13Dec2024 02:11:32.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 3.652385448059927
+[13Dec2024 02:11:32.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 3.8116320215182187
+[13Dec2024 02:11:33.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.268270751016189
+[13Dec2024 02:11:33.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6906053363428413
+[13Dec2024 02:11:33.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.1086943335985637
+[13Dec2024 02:11:33.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9675409253641192
+[13Dec2024 02:11:34.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6165538965555939
+[13Dec2024 02:11:34.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.044802189339535
+[13Dec2024 02:11:34.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4745619603212021
+[13Dec2024 02:11:34.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.9301878226162148
+[13Dec2024 02:11:34.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6195866165642059
+[13Dec2024 02:11:35.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.7188881186778159
+[13Dec2024 02:11:35.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.2217417904471175
+[13Dec2024 02:11:35.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4142135623730951
+[13Dec2024 02:11:35.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6160772935238086
+[13Dec2024 02:11:35.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0363234996562753
+[13Dec2024 02:11:35.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6021715958311944
+[13Dec2024 02:11:35.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.6058867502614049
+[13Dec2024 02:11:35.995] [Server thread/INFO] [AutoModpack/]: BlackSirius9304 has installed AutoModpack.
+[13Dec2024 02:11:36.792] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5409c0e3[id=<null>,name=BlackSirius9304,properties={},legacy=false] (/127.100.181.15:41731) lost connection: Disconnected
+[13Dec2024 02:11:37.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.50207342569836
+[13Dec2024 02:11:37.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9991068852186478
+[13Dec2024 02:11:37.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4911003565710559
+[13Dec2024 02:11:37.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.9998330711764654
+[13Dec2024 02:11:38.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.5035247446966493
+[13Dec2024 02:11:38.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 3.0021756316859
+[13Dec2024 02:11:38.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 3.4957858846963488
+[13Dec2024 02:11:38.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5071133842057954
+[13Dec2024 02:11:38.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0088348719421165
+[13Dec2024 02:11:38.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5026355987710193
+[13Dec2024 02:11:38.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4972224116397822
+[13Dec2024 02:11:38.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9879751483361084
+[13Dec2024 02:11:38.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4922237389408581
+[13Dec2024 02:11:38.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.9908754692259292
+[13Dec2024 02:11:47.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4455680081524614
+[13Dec2024 02:11:47.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.8839699737921504
+[13Dec2024 02:11:47.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.3153679449681057
+[13Dec2024 02:11:47.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.7399187669426994
+[13Dec2024 02:11:47.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.1772921187459255
+[13Dec2024 02:11:47.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.4130949406849944
+[13Dec2024 02:11:47.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.5057308431038323
+[13Dec2024 02:11:47.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.5961973534719833
+[13Dec2024 02:11:48.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4842377627097818
+[13Dec2024 02:11:48.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9788120937662086
+[13Dec2024 02:11:48.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.466860556818098
+[13Dec2024 02:11:48.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.9631376077562521
+[13Dec2024 02:11:48.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.0
+[13Dec2024 02:11:48.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.0
+[13Dec2024 02:11:48.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.48201372869772996
+[13Dec2024 02:11:51.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.37723956631979405
+[13Dec2024 02:11:51.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.8420745838463404
+[13Dec2024 02:11:51.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0
+[13Dec2024 02:11:51.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0002413892841737
+[13Dec2024 02:11:51.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0145084650633478
+[13Dec2024 02:11:51.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0478205775426073
+[13Dec2024 02:11:51.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0979503707106337
+[13Dec2024 02:11:51.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.1595251385171437
+[13Dec2024 02:11:52.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5598720292725076
+[13Dec2024 02:11:52.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0382674930738585
+[13Dec2024 02:11:52.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.1242539622028407
+[13Dec2024 02:11:52.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.1766670546954232
+[13Dec2024 02:11:52.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.2368073750241042
+[13Dec2024 02:11:52.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.3043454715703997
+[13Dec2024 02:11:52.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.3819587583642745
+[13Dec2024 02:11:52.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4669219993966274
+[13Dec2024 02:11:52.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4674621338986782
+[13Dec2024 02:11:52.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9376935165301733
+[13Dec2024 02:11:52.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4347599056107943
+[13Dec2024 02:11:52.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.9304891158744852
+[13Dec2024 02:11:52.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.129766842161372
+[13Dec2024 02:11:53.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.213508333737523
+[13Dec2024 02:11:53.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.3172915811386856
+[13Dec2024 02:11:53.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.4398377937286027
+[13Dec2024 02:11:53.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.576264946631553
+[13Dec2024 02:11:53.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.729832078368625
+[13Dec2024 02:11:53.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5044610101703851
+[13Dec2024 02:11:53.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0038789054180333
+[13Dec2024 02:11:53.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.498251597607947
+[13Dec2024 02:11:53.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.0061170135035518
+[13Dec2024 02:11:53.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.385217339863856
+[13Dec2024 02:11:53.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.5382052341051096
+[13Dec2024 02:11:53.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.7073191756934487
+[13Dec2024 02:11:53.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.8284271247461903
+[13Dec2024 02:11:53.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.8284271247461903
+[13Dec2024 02:11:53.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.8284271247461903
+[13Dec2024 02:11:53.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.8284271247461903
+[13Dec2024 02:11:54.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5015812751674197
+[13Dec2024 02:11:54.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9963567950233014
+[13Dec2024 02:11:54.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.5017236761071762
+[13Dec2024 02:11:54.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.9980960267265484
+[13Dec2024 02:11:54.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.3986172996839734
+[13Dec2024 02:11:54.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.544287343274797
+[13Dec2024 02:11:54.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.7029406594504546
+[13Dec2024 02:11:54.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.8284271247461903
+[13Dec2024 02:11:54.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.8284271247461903
+[13Dec2024 02:11:54.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 7.0782746141943775,0.0,7.627017214344164
+[13Dec2024 02:11:54.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.967631655133232
+[13Dec2024 02:11:54.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.8232404083479423
+[13Dec2024 02:11:54.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.69500252352816
+[13Dec2024 02:11:54.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.578531945320492
+[13Dec2024 02:11:54.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.474597227170193
+[13Dec2024 02:11:54.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.3872532252702285
+[13Dec2024 02:11:55.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.3161321283081406
+[13Dec2024 02:11:55.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.2608039748373585
+[13Dec2024 02:11:55.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.219358297835356
+[13Dec2024 02:11:55.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.193460172381151
+[13Dec2024 02:11:55.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.1826862545408403
+[13Dec2024 02:11:55.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.1854208222987381
+[13Dec2024 02:11:55.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.1999008261884683
+[13Dec2024 02:11:55.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.224973236972005
+[13Dec2024 02:11:55.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.2595341328852783
+[13Dec2024 02:11:55.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.302553113187514
+[13Dec2024 02:11:55.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.3530534045531795
+[13Dec2024 02:11:55.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.410139051965075
+[13Dec2024 02:11:55.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4728384218803967
+[13Dec2024 02:11:55.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 7.0782746141943775,0.0,7.627017214344164
+[13Dec2024 02:11:55.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 7.0782746141943775,0.0,7.627017214344164
+[13Dec2024 02:11:55.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 7.0782746141943775,0.0,7.627017214344164
+[13Dec2024 02:11:55.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 7.0782746141943775,0.0,7.627017214344164
+[13Dec2024 02:11:55.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 7.0782746141943775,0.0,7.627017214344164
+[13Dec2024 02:11:55.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 7.0782746141943775,0.0,7.627017214344164
+[13Dec2024 02:11:55.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 7.0782746141943775,0.0,7.627017214344164
+[13Dec2024 02:11:55.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5
+[13Dec2024 02:11:55.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5
+[13Dec2024 02:11:55.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5
+[13Dec2024 02:11:55.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5
+[13Dec2024 02:11:55.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5
+[13Dec2024 02:11:55.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5
+[13Dec2024 02:11:55.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5
+[13Dec2024 02:11:55.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5
+[13Dec2024 02:11:55.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5
+[13Dec2024 02:11:55.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5
+[13Dec2024 02:11:55.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.3714633036927353
+[13Dec2024 02:11:57.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5738394257607662
+[13Dec2024 02:11:57.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.066490305291624
+[13Dec2024 02:11:57.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4142135623730951
+[13Dec2024 02:11:57.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4142135623730951
+[13Dec2024 02:11:57.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4142135623730951
+[13Dec2024 02:11:57.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4142135623730951
+[13Dec2024 02:11:57.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4142135623730951
+[13Dec2024 02:11:58.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 9.0,0.0,5.20749261731919
+[13Dec2024 02:11:58.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 9.0,0.0,5.20749261731919
+[13Dec2024 02:11:58.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 9.0,0.0,5.20749261731919
+[13Dec2024 02:11:58.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 9.0,0.0,5.20749261731919
+[13Dec2024 02:11:58.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 9.0,0.0,5.20749261731919
+[13Dec2024 02:11:58.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 9.0,0.0,5.20749261731919
+[13Dec2024 02:11:58.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 9.0,0.0,5.20749261731919
+[13Dec2024 02:11:58.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.33663464555118594
+[13Dec2024 02:11:58.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5799036630682473
+[13Dec2024 02:11:58.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9999999999999964
+[13Dec2024 02:11:59.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.010794039058715
+[13Dec2024 02:11:59.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.0393972967796938
+[13Dec2024 02:11:59.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.076665095159551
+[13Dec2024 02:11:59.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.46526073773011234
+[13Dec2024 02:11:59.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.9338824978435731
+[13Dec2024 02:11:59.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.4068094178886064
+[13Dec2024 02:11:59.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.885052046906896
+[13Dec2024 02:11:59.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 2.0000000000000036
+[13Dec2024 02:12:05.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 14.0,0.0,7.025606510659713
+[13Dec2024 02:12:05.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 14.0,0.0,7.025606510659713
+[13Dec2024 02:12:05.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 14.0,0.0,7.025606510659713
+[13Dec2024 02:12:05.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 14.0,0.0,7.025606510659713
+[13Dec2024 02:12:05.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 13.544004953066377,0.0,6.8503623910684155
+[13Dec2024 02:12:05.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 12.0,0.0,5.019550100580204
+[13Dec2024 02:12:05.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 12.0,0.0,5.019550100580204
+[13Dec2024 02:12:05.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 12.0,0.0,5.019550100580204
+[13Dec2024 02:12:05.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 11.530349505468223,0.0,4.858332123274067
+[13Dec2024 02:12:05.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 11.051653958647677,0.0,4.697438974882061
+[13Dec2024 02:12:05.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 10.576782329830003,0.0,4.541016921278015
+[13Dec2024 02:12:05.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 10.105814709774265,0.0,4.388878355357292
+[13Dec2024 02:12:05.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 10.0,0.0,3.027004281100062
+[13Dec2024 02:12:05.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved too quickly! 10.0,0.0,3.027004281100062
+[13Dec2024 02:12:53.510] [Server thread/INFO] [AutoModpack/]: BlackSirius9304 has installed AutoModpack.
+[13Dec2024 02:12:54.814] [Netty Epoll Server IO #2/INFO] [AutoModpack/]: BlackSirius9304 has installed whole modpack
+[13Dec2024 02:12:57.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BlackSirius9304[/127.100.181.15:45093] logged in with entity id 37455 at (733.6278493446688, 68.94331317411903, 113.93926361330178)
+[13Dec2024 02:12:57.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 joined the game
+[13Dec2024 02:12:57.471] [Server thread/INFO] [Jade/]: Syncing config to BlackSirius9304 (2debe0cf-24cd-38d6-be36-2cdc2c79530d)
+[13Dec2024 02:13:04.193] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to BlackSirius9304 (2debe0cf-24cd-38d6-be36-2cdc2c79530d)
+[13Dec2024 02:13:06.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[13Dec2024 02:13:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Applied effect Saturation to TRECETRECETRECE]
+[13Dec2024 02:13:22.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ has made the advancement [Monster Hunter]
+[13Dec2024 02:13:28.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GralMarcosPerez: Set own game mode to Survival Mode]
+[13Dec2024 02:13:30.966] [Netty Epoll Server IO #5/WARN] [AutoModpack/]: HalloF5 has not installed AutoModpack.
+[13Dec2024 02:13:30.999] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6781bfc4[id=<null>,name=HalloF5,properties={},legacy=false] (/127.24.240.253:38753) lost connection: AutoModpack mod for forge modloader is required to play on this server!
+[13Dec2024 02:13:36.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Teleported BlackSirius9304 to TRECETRECETRECE]
+[13Dec2024 02:14:16.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Getting an Upgrade]
+[13Dec2024 02:15:15.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Stone Age]
+[13Dec2024 02:15:15.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Getting an Upgrade]
+[13Dec2024 02:16:34.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Killed TRECETRECETRECE]
+[13Dec2024 02:16:37.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Getting an Upgrade]
+[13Dec2024 02:17:55.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_GROZNY_: Teleported _GROZNY_ to BlackSirius9304]
+[13Dec2024 02:17:56.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Set own game mode to Survival Mode]
+[13Dec2024 02:17:59.446] [Server thread/INFO] [AutoModpack/]: HalloF5 has installed AutoModpack.
+[13Dec2024 02:18:00.848] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b9fee14[id=<null>,name=HalloF5,properties={},legacy=false] (/127.24.240.253:35321) lost connection: Disconnected
+[13Dec2024 02:18:11.663] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:18:13.342] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:18:15.042] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:20:23.237] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[13Dec2024 02:20:49.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Teleported BlackSirius9304 to TRECETRECETRECE]
+[13Dec2024 02:21:00.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to TRECETRECETRECE]
+[13Dec2024 02:21:01.615] [Server thread/INFO] [AutoModpack/]: HalloF5 has installed AutoModpack.
+[13Dec2024 02:21:06.184] [Netty Epoll Server IO #5/INFO] [AutoModpack/]: HalloF5 has installed whole modpack
+[13Dec2024 02:21:13.808] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HalloF5[/127.24.240.253:53753] logged in with entity id 45385 at (727.6442934106338, 91.23115282422668, 113.57670023960608)
+[13Dec2024 02:21:13.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HalloF5 joined the game
+[13Dec2024 02:21:13.851] [Server thread/INFO] [Jade/]: Syncing config to HalloF5 (12113662-9426-3f89-8fcf-f1c63b7fb32d)
+[13Dec2024 02:21:13.947] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (55 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=55, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[13Dec2024 02:21:25.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GralMarcosPerez: Teleported GralMarcosPerez to TRECETRECETRECE]
+[13Dec2024 02:21:36.854] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to HalloF5 (12113662-9426-3f89-8fcf-f1c63b7fb32d)
+[13Dec2024 02:22:11.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HalloF5 moved too quickly! -10.52880998785804,0.0,0.39471235539753025
+[13Dec2024 02:22:41.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GralMarcosPerez: Teleported GralMarcosPerez to TRECETRECETRECE]
+[13Dec2024 02:22:41.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[13Dec2024 02:22:53.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Teleported BlackSirius9304 to GralMarcosPerez]
+[13Dec2024 02:23:32.852] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axolotl['Crystal'/45306, l='ServerLevel[world]', x=61.64, y=96.19, z=61.00] died: Crystal was slain by GralMarcosPerez
+[13Dec2024 02:23:40.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Getting an Upgrade]
+[13Dec2024 02:24:10.794] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[13Dec2024 02:24:10.795] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[13Dec2024 02:24:10.800] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[13Dec2024 02:24:18.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HalloF5 has made the advancement [Dragonslayer]
+[13Dec2024 02:24:19.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has reached the goal [Flowers of the Savanna]
+[13Dec2024 02:24:25.660] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:24:31.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HalloF5 moved too quickly! -9.263605700257017,3.171741396168727,-2.3291045099615673
+[13Dec2024 02:24:51.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _GROZNY_ was kicked for floating too long!
+[13Dec2024 02:24:51.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _GROZNY_ lost connection: Flying is not enabled on this server
+[13Dec2024 02:24:51.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ left the game
+[13Dec2024 02:24:51.234] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 02:24:56.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Acquire Hardware]
+[13Dec2024 02:25:01.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HalloF5 moved too quickly! 2.6402565154063495,1.1895558461486075,9.64710322665995
+[13Dec2024 02:25:09.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Earth seal has been destroyed!
+[13Dec2024 02:25:09.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Earth elementals have been released into this world
+[13Dec2024 02:25:11.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Pic-A-Nic Basket?]
+[13Dec2024 02:25:27.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[13Dec2024 02:25:27.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GralMarcosPerez> ayudaaaaaaaaaaaaaaaaaaaaaaaaa
+[13Dec2024 02:25:37.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GralMarcosPerez> un oso comunista me mato
+[13Dec2024 02:25:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Spectator Mode]
+[13Dec2024 02:25:56.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[13Dec2024 02:26:05.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[13Dec2024 02:26:07.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Diamonds!]
+[13Dec2024 02:26:10.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Disme A Dozen]
+[13Dec2024 02:26:43.455] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:26:45.568] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:26:46.046] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:26:46.198] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:26:46.398] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:26:46.655] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:26:46.796] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:26:55.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HalloF5 moved too quickly! 0.03369666544392658,-0.2288101013826349,-10.270575776500536
+[13Dec2024 02:27:03.160] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:27:04.264] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:27:04.461] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:27:04.718] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:27:04.918] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:27:05.168] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:27:09.364] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:27:10.173] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:27:10.398] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:27:10.665] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:27:10.965] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:27:11.324] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 02:27:15.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to ezekillah]
+[13Dec2024 02:27:21.973] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:27:22.757] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:27:22.950] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:27:23.457] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:27:23.629] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:27:23.853] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:27:25.348] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:27:25.546] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:27:25.703] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:27:35.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Teleported BlackSirius9304 to GralMarcosPerez]
+[13Dec2024 02:27:38.018] [Server thread/INFO] [AutoModpack/]: _GROZNY_ has installed AutoModpack.
+[13Dec2024 02:27:38.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah died
+[13Dec2024 02:27:43.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[13Dec2024 02:27:50.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to TRECETRECETRECE]
+[13Dec2024 02:28:19.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Teleported BlackSirius9304 to ezekillah]
+[13Dec2024 02:28:27.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HalloF5 has made the advancement [Draconic Evolution]
+[13Dec2024 02:28:31.146] [Netty Epoll Server IO #7/INFO] [AutoModpack/]: _GROZNY_ has installed whole modpack
+[13Dec2024 02:28:41.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _GROZNY_[/127.232.202.116:49969] logged in with entity id 52494 at (-55.43573234370904, 71.92159999847412, -474.6247876536917)
+[13Dec2024 02:28:41.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ joined the game
+[13Dec2024 02:28:41.949] [Server thread/INFO] [Jade/]: Syncing config to _GROZNY_ (1feeb64e-4adf-36f3-a82f-adf19e39c8b3)
+[13Dec2024 02:28:42.051] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (56 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=56, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[13Dec2024 02:28:45.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[13Dec2024 02:29:08.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to ezekillah]
+[13Dec2024 02:29:11.505] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to _GROZNY_ (1feeb64e-4adf-36f3-a82f-adf19e39c8b3)
+[13Dec2024 02:29:12.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _GROZNY_ was kicked for floating too long!
+[13Dec2024 02:29:12.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _GROZNY_ lost connection: Flying is not enabled on this server
+[13Dec2024 02:29:12.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ left the game
+[13Dec2024 02:29:44.844] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:29:45.021] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:29:45.298] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:29:45.496] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:29:52.294] [Server thread/INFO] [AutoModpack/]: _GROZNY_ has installed AutoModpack.
+[13Dec2024 02:29:56.754] [Netty Epoll Server IO #1/INFO] [AutoModpack/]: _GROZNY_ has installed whole modpack
+[13Dec2024 02:29:57.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Teleported BlackSirius9304 to ezekillah]
+[13Dec2024 02:29:59.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _GROZNY_[/127.232.202.116:40367] logged in with entity id 53451 at (-55.43573234370904, 71.92159999847412, -474.6247876536917)
+[13Dec2024 02:29:59.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ joined the game
+[13Dec2024 02:29:59.345] [Server thread/INFO] [Jade/]: Syncing config to _GROZNY_ (1feeb64e-4adf-36f3-a82f-adf19e39c8b3)
+[13Dec2024 02:29:59.564] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (161 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=161, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[13Dec2024 02:30:05.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Isn't It Iron Pick]
+[13Dec2024 02:30:17.666] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to _GROZNY_ (1feeb64e-4adf-36f3-a82f-adf19e39c8b3)
+[13Dec2024 02:30:30.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Killed ezekillah]
+[13Dec2024 02:30:36.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was killed
+[13Dec2024 02:30:38.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to ezekillah]
+[13Dec2024 02:30:48.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _GROZNY_ lost connection: Disconnected
+[13Dec2024 02:30:48.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ left the game
+[13Dec2024 02:30:53.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GralMarcosPerez: Teleported GralMarcosPerez to ezekillah]
+[13Dec2024 02:31:00.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Teleported BlackSirius9304 to ezekillah]
