@@ -2812,6 +2812,7 @@
       "minecraft:forest": "2024-12-10 01:45:16 +0000",
       "minecraft:deep_cold_ocean": "2024-12-10 03:19:29 +0000",
       "minecraft:frozen_ocean": "2024-12-10 02:17:52 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-13 02:40:58 +0000",
       "minecraft:snowy_beach": "2024-12-10 02:17:34 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-13 02:36:19 +0000",
       "minecraft:plains": "2024-12-10 01:44:38 +0000"
@@ -4277,6 +4278,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 02:47:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 02:47:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 02:47:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 02:47:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 02:47:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 02:47:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 02:47:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 02:47:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 02:47:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 02:47:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 02:47:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 02:47:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-13 02:26:07 +0000"
@@ -4577,6 +4650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-13 02:37:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_javelin": {
     "criteria": {
       "has_wood": "2024-12-13 02:14:00 +0000"
@@ -4586,6 +4665,12 @@
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-13 02:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-13 02:37:43 +0000"
     },
     "done": true
   },
@@ -4646,6 +4731,12 @@
   "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-13 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:48:15 +0000"
     },
     "done": true
   },
@@ -4718,6 +4809,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-13 02:22:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:48:15 +0000"
     },
     "done": true
   },
@@ -4997,6 +5094,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-13 02:37:43 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_warped_chair": {
     "criteria": {
       "has_warped_planks": "2024-12-13 02:26:15 +0000"
@@ -5087,6 +5190,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-13 02:48:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/leather_longbow": {
     "criteria": {
       "has_leather": "2024-12-13 02:26:07 +0000"
@@ -5156,6 +5265,12 @@
   "spartanweaponry:recipes/wooden_lance": {
     "criteria": {
       "has_wood": "2024-12-13 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-13 02:37:43 +0000"
     },
     "done": true
   },
@@ -5297,6 +5412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-13 02:43:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_pike": {
     "criteria": {
       "has_wood": "2024-12-13 02:14:00 +0000"
@@ -5321,9 +5442,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-13 02:37:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_scythe": {
     "criteria": {
       "has_diamond": "2024-12-13 02:26:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:48:15 +0000"
     },
     "done": true
   },
@@ -5384,6 +5517,12 @@
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2024-12-13 02:13:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:milk": "2024-12-13 02:48:15 +0000"
     },
     "done": true
   },
@@ -5786,6 +5925,12 @@
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-13 02:13:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-12-13 02:37:43 +0000"
     },
     "done": true
   },

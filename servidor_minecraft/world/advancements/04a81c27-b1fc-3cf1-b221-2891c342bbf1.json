@@ -2720,10 +2720,12 @@
       "minecraft:beach": "2024-12-13 01:51:23 +0000",
       "minecraft:river": "2024-12-13 02:32:02 +0000",
       "minecraft:snowy_plains": "2024-12-13 02:11:48 +0000",
+      "minecraft:snowy_taiga": "2024-12-13 02:40:21 +0000",
       "minecraft:cold_ocean": "2024-12-13 01:51:37 +0000",
       "minecraft:forest": "2024-12-13 01:58:23 +0000",
       "minecraft:deep_cold_ocean": "2024-12-13 01:58:06 +0000",
       "minecraft:frozen_ocean": "2024-12-13 02:11:04 +0000",
+      "minecraft:snowy_beach": "2024-12-13 02:44:14 +0000",
       "minecraft:plains": "2024-12-13 02:00:13 +0000"
     },
     "done": false
@@ -3006,73 +3008,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 02:37:37 +0000"
+      "log_spam_fixer": "2024-12-13 02:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 02:37:37 +0000"
+      "log_spam_fixer": "2024-12-13 02:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 02:37:37 +0000"
+      "log_spam_fixer": "2024-12-13 02:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 02:37:37 +0000"
+      "log_spam_fixer": "2024-12-13 02:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 02:37:37 +0000"
+      "log_spam_fixer": "2024-12-13 02:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 02:37:37 +0000"
+      "log_spam_fixer": "2024-12-13 02:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 02:37:37 +0000"
+      "log_spam_fixer": "2024-12-13 02:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 02:37:37 +0000"
+      "log_spam_fixer": "2024-12-13 02:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 02:37:37 +0000"
+      "log_spam_fixer": "2024-12-13 02:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 02:37:37 +0000"
+      "log_spam_fixer": "2024-12-13 02:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 02:37:37 +0000"
+      "log_spam_fixer": "2024-12-13 02:47:41 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 02:37:37 +0000"
+      "log_spam_fixer": "2024-12-13 02:47:41 +0000"
     },
     "done": false
   },
@@ -3088,9 +3090,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_rapier": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-13 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_halberd": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -3148,6 +3168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2024-12-13 02:08:06 +0000"
@@ -3163,6 +3189,12 @@
   "valhelsia_furniture:recipes/decorations/white_mangrove_chair": {
     "criteria": {
       "has_white_wool": "2024-12-13 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -3196,6 +3228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2024-12-13 02:08:06 +0000"
@@ -3211,6 +3249,12 @@
   "spartanweaponry:recipes/wooden_spear": {
     "criteria": {
       "has_wood": "2024-12-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -3238,6 +3282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2024-12-13 02:08:17 +0000"
@@ -3262,6 +3312,18 @@
     },
     "done": true
   },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/golden_ticket_pass": {
+    "criteria": {
+      "ticket_material": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-13 02:08:06 +0000"
@@ -3277,6 +3339,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2024-12-13 02:33:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_lance": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -3370,6 +3438,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_battle_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-13 02:41:10 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_chair": {
     "criteria": {
       "has_white_wool": "2024-12-13 02:32:56 +0000"
@@ -3379,6 +3459,12 @@
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2024-12-13 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -3454,6 +3540,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_saber": {
     "criteria": {
       "has_wood": "2024-12-13 02:08:17 +0000"
@@ -3475,6 +3567,12 @@
   "valhelsia_furniture:recipes/decorations/orange_oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-12-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_pike": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -3508,6 +3606,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:41:35 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_dark_oak_chair": {
     "criteria": {
       "has_white_wool": "2024-12-13 02:32:56 +0000"
@@ -3526,6 +3630,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-13 02:41:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-13 02:23:46 +0000"
@@ -3535,6 +3657,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-13 02:33:21 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/ticket_pass": {
+    "criteria": {
+      "ticket_material": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -3598,6 +3726,12 @@
     },
     "done": true
   },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/master_ticket": {
+    "criteria": {
+      "ticket_material": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2024-12-13 02:23:02 +0000"
@@ -3607,6 +3741,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-13 02:23:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:48:05 +0000"
     },
     "done": true
   },
@@ -3624,6 +3764,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-13 02:41:08 +0000",
       "opened_chest": "2024-12-13 02:33:38 +0000"
     },
     "done": false
@@ -3718,6 +3859,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_longsword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-13 02:14:08 +0000"
@@ -3730,15 +3877,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_scythe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-13 02:33:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-13 02:41:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-12-13 02:33:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_glaive": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -3757,6 +3922,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-13 02:23:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/medium_quiver_brace": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -3808,6 +3979,12 @@
     },
     "done": true
   },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/golden_master_ticket": {
+    "criteria": {
+      "ticket_material": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_parrying_dagger": {
     "criteria": {
       "has_wood": "2024-12-13 02:08:17 +0000"
@@ -3823,6 +4000,12 @@
   "spartanweaponry:recipes/wooden_rapier": {
     "criteria": {
       "has_wood": "2024-12-13 02:08:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-13 02:41:08 +0000"
     },
     "done": true
   },
@@ -3922,6 +4105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-13 02:14:08 +0000"
@@ -3952,9 +4141,27 @@
     },
     "done": true
   },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-13 02:07:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_warhammer": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -3973,6 +4180,12 @@
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2024-12-13 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_longbow": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -4126,9 +4339,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_flanged_mace": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_warped_chair": {
     "criteria": {
       "has_white_wool": "2024-12-13 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-12-13 02:41:10 +0000"
     },
     "done": true
   },
@@ -4147,6 +4372,18 @@
   "valhelsia_furniture:recipes/decorations/brown_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-13 02:33:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2024-12-13 02:48:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_heavy_crossbow": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -4189,6 +4426,12 @@
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2024-12-13 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -4276,6 +4519,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-13 02:41:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2024-12-13 02:48:05 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_birch_chair": {
     "criteria": {
       "has_white_wool": "2024-12-13 02:32:56 +0000"
@@ -4285,6 +4540,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-13 02:33:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -4345,6 +4606,12 @@
   "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-13 02:14:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_battleaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -4450,6 +4717,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_throwing_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-13 02:33:39 +0000"
@@ -4462,6 +4735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-13 02:33:21 +0000"
@@ -4471,6 +4750,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-13 02:33:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -4528,9 +4813,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2024-12-13 02:41:10 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_spruce_planks": "2024-12-13 02:14:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_saber": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -4561,6 +4858,18 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-13 02:22:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:48:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_greatsword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -4618,6 +4927,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_quarterstaff": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_fabric_desk_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-13 02:32:56 +0000"
@@ -4663,6 +4978,12 @@
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2024-12-13 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:milk": "2024-12-13 02:48:05 +0000"
     },
     "done": true
   },
@@ -4723,6 +5044,12 @@
   "valhelsia_furniture:recipes/decorations/green_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-13 02:14:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_javelin": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -4798,6 +5125,12 @@
     },
     "done": true
   },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/golden_ticket": {
+    "criteria": {
+      "ticket_material": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "sawmill:recipes/sawmill": {
     "criteria": {
       "has_sticks": "2024-12-13 02:08:06 +0000"
@@ -4828,6 +5161,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_parrying_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/gold_chain": {
+    "criteria": {
+      "has_items": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_boomerang": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-13 02:14:08 +0000"
@@ -4849,6 +5200,12 @@
   "valhelsia_furniture:recipes/decorations/white_acacia_chair": {
     "criteria": {
       "has_white_wool": "2024-12-13 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -4948,6 +5305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-13 02:41:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/handle_from_wool": {
     "criteria": {
       "has_stick": "2024-12-13 02:08:06 +0000"
@@ -4957,6 +5320,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-13 02:33:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -5152,6 +5521,12 @@
     },
     "done": true
   },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/ticket": {
+    "criteria": {
+      "ticket_material": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-12-13 02:08:17 +0000"
@@ -5161,6 +5536,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-13 02:32:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_katana": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -5200,6 +5581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-12-13 02:41:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-12-13 02:33:21 +0000"
@@ -5227,6 +5614,12 @@
   "spartanweaponry:recipes/stone_pike": {
     "criteria": {
       "has_cobblestone": "2024-12-13 02:09:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_tomahawk": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -5326,6 +5719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-13 02:08:06 +0000"
@@ -5335,6 +5734,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-13 02:35:53 +0000",
+      "cooked_beef": "2024-12-13 02:42:59 +0000",
       "apple": "2024-12-13 02:22:21 +0000",
       "mutton": "2024-12-13 02:33:12 +0000"
     },
@@ -5349,6 +5749,12 @@
   "spartanweaponry:recipes/stone_halberd": {
     "criteria": {
       "has_cobblestone": "2024-12-13 02:09:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -5373,6 +5779,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-13 02:14:08 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },
@@ -5403,6 +5815,12 @@
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2024-12-13 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 02:41:09 +0000"
     },
     "done": true
   },

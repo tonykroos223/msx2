@@ -4851,3 +4851,152 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 02:41:15.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez has made the advancement [Barrel Booty]
 [13Dec2024 02:41:22.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE moved too quickly! 1.133192229507074,8.39154355927188,-8.83936715220375
 [13Dec2024 02:41:41.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[13Dec2024 02:41:43.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Spectator Mode]
+[13Dec2024 02:41:43.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _GROZNY_ moved wrongly!
+[13Dec2024 02:41:46.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[13Dec2024 02:42:08.161] [Server thread/INFO] [cuffed/]: BlackSirius9304 is interacting!
+[13Dec2024 02:42:42.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditnaturalEntity['Bandit'/82598, l='ServerLevel[world]', x=-273.33, y=63.00, z=460.87] died: Bandit was slain by _GROZNY_
+[13Dec2024 02:42:47.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HalloF5> es tu casa?
+[13Dec2024 02:42:53.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TRECETRECETRECE> vente hallo
+[13Dec2024 02:42:58.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditnaturalEntity['Bandit'/82597, l='ServerLevel[world]', x=-272.52, y=63.00, z=459.10] died: Bandit was slain by _GROZNY_
+[13Dec2024 02:43:02.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TRECETRECETRECE> el gordo este tiene un lugar pa los femboys
+[13Dec2024 02:43:09.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TRECETRECETRECE> tremendo
+[13Dec2024 02:43:14.125] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:43:14.397] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:43:14.545] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:43:14.696] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:43:14.847] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:43:14.897] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:43:15.697] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:43:31.664] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:43:46.347] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:43:51.653] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/85542, l='ServerLevel[world]', x=48.87, y=77.50, z=415.39] died, message: 'Butcher was slain by HalloF5'
+[13Dec2024 02:44:05.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Spectator Mode]
+[13Dec2024 02:44:53.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HalloF5 moved too quickly! 4.46272448094291,1.6419854316190339,-8.932399358838552
+[13Dec2024 02:45:35.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to GralMarcosPerez]
+[13Dec2024 02:45:39.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HalloF5: Teleported HalloF5 to TRECETRECETRECE]
+[13Dec2024 02:46:13.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[13Dec2024 02:46:22.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HalloF5 moved too quickly! 0.6486748524949917,-8.345656637145368,-5.915073141067182
+[13Dec2024 02:46:39.602] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:46:39.793] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:46:58.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Killed HalloF5]
+[13Dec2024 02:47:06.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HalloF5: Killed ezekillah]
+[13Dec2024 02:47:09.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to HalloF5]
+[13Dec2024 02:47:16.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Killed HalloF5]
+[13Dec2024 02:47:19.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HalloF5: Killed ezekillah]
+[13Dec2024 02:47:21.740] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:47:21.920] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:47:22.171] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:47:22.376] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:47:23.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Killed HalloF5]
+[13Dec2024 02:47:25.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HalloF5: Killed ezekillah]
+[13Dec2024 02:47:32.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TRECETRECETRECE> si se siguen matando ban
+[13Dec2024 02:47:36.039] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:47:36.240] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:47:36.421] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:47:36.627] [Server thread/INFO] [cuffed/]: HalloF5 is interacting!
+[13Dec2024 02:47:56.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[13Dec2024 02:48:10.548] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/CompressType
+[13Dec2024 02:48:23.789] [Netty Epoll Server IO #5/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 85
+java.lang.NullPointerException: null
+[13Dec2024 02:48:23.789] [Netty Epoll Server IO #3/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 85
+java.lang.NullPointerException: null
+[13Dec2024 02:48:23.790] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSetEquipmentPacket caused an error above, printing name & data
+[13Dec2024 02:48:23.789] [Netty Epoll Server IO #6/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 85
+java.lang.NullPointerException: null
+[13Dec2024 02:48:23.791] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSetEquipmentPacket caused an error above, printing name & data
+[13Dec2024 02:48:23.790] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSetEquipmentPacket caused an error above, printing name & data
+[13Dec2024 02:48:23.790] [Netty Epoll Server IO #2/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 85
+java.lang.NullPointerException: null
+[13Dec2024 02:48:23.794] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSetEquipmentPacket caused an error above, printing name & data
+[13Dec2024 02:48:23.814] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133198_": 78642,
+  "f_133199_": [
+    "(MAINHAND, 1 the_bossdexium)"
+  ]
+}
+[13Dec2024 02:48:23.817] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133198_": 78642,
+  "f_133199_": [
+    "(MAINHAND, 1 the_bossdexium)"
+  ]
+}
+[13Dec2024 02:48:23.817] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133198_": 78642,
+  "f_133199_": [
+    "(MAINHAND, 1 the_bossdexium)"
+  ]
+}
+[13Dec2024 02:48:23.818] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133198_": 78642,
+  "f_133199_": [
+    "(MAINHAND, 1 the_bossdexium)"
+  ]
+}
+[13Dec2024 02:48:23.819] [Netty Epoll Server IO #3/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 85
+java.lang.NullPointerException: null
+[13Dec2024 02:48:23.819] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSetEquipmentPacket caused an error above, printing name & data
+[13Dec2024 02:48:23.825] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133198_": 78642,
+  "f_133199_": [
+    "(MAINHAND, 1 the_bossdexium)"
+  ]
+}
+[13Dec2024 02:48:23.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException
+[13Dec2024 02:48:23.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez left the game
+[13Dec2024 02:48:23.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException
+[13Dec2024 02:48:23.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE left the game
+[13Dec2024 02:48:23.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException
+[13Dec2024 02:48:23.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
+[13Dec2024 02:48:23.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlackSirius9304 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException
+[13Dec2024 02:48:23.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 left the game
+[13Dec2024 02:48:23.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HalloF5 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException
+[13Dec2024 02:48:23.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HalloF5 left the game
+[13Dec2024 02:48:28.307] [Server thread/INFO] [AutoModpack/]: ezekillah has installed AutoModpack.
+[13Dec2024 02:48:30.574] [Server thread/INFO] [AutoModpack/]: BlackSirius9304 has installed AutoModpack.
+[13Dec2024 02:48:31.622] [Server thread/INFO] [AutoModpack/]: TRECETRECETRECE has installed AutoModpack.
+[13Dec2024 02:48:31.888] [Netty Epoll Server IO #5/INFO] [AutoModpack/]: BlackSirius9304 has installed whole modpack
+[13Dec2024 02:48:33.602] [Netty Epoll Server IO #1/INFO] [AutoModpack/]: ezekillah has installed whole modpack
+[13Dec2024 02:48:34.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BlackSirius9304[/127.100.181.15:35519] logged in with entity id 88182 at (-281.59076005218077, 0.09662345249299295, 381.55526341602575)
+[13Dec2024 02:48:34.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 joined the game
+[13Dec2024 02:48:34.542] [Server thread/INFO] [Jade/]: Syncing config to BlackSirius9304 (2debe0cf-24cd-38d6-be36-2cdc2c79530d)
+[13Dec2024 02:48:35.582] [Netty Epoll Server IO #7/INFO] [AutoModpack/]: TRECETRECETRECE has installed whole modpack
+[13Dec2024 02:48:36.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ezekillah[/127.165.32.75:43927] logged in with entity id 88246 at (-267.574055540033, 63.0, 396.30000001192093)
+[13Dec2024 02:48:36.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah joined the game
+[13Dec2024 02:48:36.233] [Server thread/INFO] [Jade/]: Syncing config to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[13Dec2024 02:48:37.794] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to BlackSirius9304 (2debe0cf-24cd-38d6-be36-2cdc2c79530d)
+[13Dec2024 02:48:38.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRECETRECETRECE[/127.202.206.192:60035] logged in with entity id 88251 at (-277.08801079973665, 67.88046038174052, 380.7926523607782)
+[13Dec2024 02:48:38.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE joined the game
+[13Dec2024 02:48:38.209] [Server thread/INFO] [Jade/]: Syncing config to TRECETRECETRECE (723c0b61-1d01-371c-be4b-0b6817ec3f00)
+[13Dec2024 02:48:39.504] [Server thread/INFO] [AutoModpack/]: HalloF5 has installed AutoModpack.
+[13Dec2024 02:48:41.592] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[13Dec2024 02:48:44.807] [Netty Epoll Server IO #2/INFO] [AutoModpack/]: HalloF5 has installed whole modpack
+[13Dec2024 02:48:47.672] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to TRECETRECETRECE (723c0b61-1d01-371c-be4b-0b6817ec3f00)
+[13Dec2024 02:48:48.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HalloF5[/127.24.240.253:56029] logged in with entity id 88267 at (-279.10038991132257, 67.66635854985769, 382.781444060357)
+[13Dec2024 02:48:48.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HalloF5 joined the game
+[13Dec2024 02:48:48.361] [Server thread/INFO] [Jade/]: Syncing config to HalloF5 (12113662-9426-3f89-8fcf-f1c63b7fb32d)
+[13Dec2024 02:49:01.467] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to HalloF5 (12113662-9426-3f89-8fcf-f1c63b7fb32d)
+[13Dec2024 02:50:01.589] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23ec2638[id=<null>,name=GralMarcosPerez,properties={},legacy=false] (/127.212.248.26:42689) lost connection: Timed out
+[13Dec2024 02:50:34.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Set own game mode to Creative Mode]
+[13Dec2024 02:50:44.397] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[13Dec2024 02:50:50.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HalloF5> pa que comas
+[13Dec2024 02:50:51.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Killed HalloF5]
+[13Dec2024 02:51:01.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HalloF5 was killed
+[13Dec2024 02:51:01.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Killed HalloF5]
+[13Dec2024 02:51:02.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HalloF5> pa que comas-
+[13Dec2024 02:51:12.840] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@654837e8[id=<null>,name=GralMarcosPerez,properties={},legacy=false] (/127.212.248.26:40361) lost connection: Timed out
+[13Dec2024 02:51:15.361] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[13Dec2024 02:51:18.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HalloF5: Teleported HalloF5 to TRECETRECETRECE]
+[13Dec2024 02:51:28.952] [Server thread/INFO] [AutoModpack/]: GralMarcosPerez has installed AutoModpack.
+[13Dec2024 02:51:35.364] [Netty Epoll Server IO #4/INFO] [AutoModpack/]: GralMarcosPerez has installed whole modpack
+[13Dec2024 02:51:38.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GralMarcosPerez[/127.212.248.26:35047] logged in with entity id 89128 at (-279.94340096586467, 65.0, 380.0979470494071)
+[13Dec2024 02:51:38.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez joined the game
+[13Dec2024 02:51:38.489] [Server thread/INFO] [Jade/]: Syncing config to GralMarcosPerez (1b978ca6-6067-3143-9f84-9a4e505b6253)
+[13Dec2024 02:51:51.527] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to GralMarcosPerez (1b978ca6-6067-3143-9f84-9a4e505b6253)
+[13Dec2024 02:51:55.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez lost connection: Disconnected
+[13Dec2024 02:51:55.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez left the game
