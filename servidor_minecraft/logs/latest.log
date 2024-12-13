@@ -5386,3 +5386,19 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 03:14:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by Dark spirit
 [13Dec2024 03:17:18.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Set own game mode to Survival Mode]
 [13Dec2024 03:20:56.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to BlackSirius9304]
+[13Dec2024 03:24:01.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _GROZNY_ moved too quickly! 10.679479402702306,0.0,-0.668032485471997
+[13Dec2024 03:24:18.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Set own game mode to Mining]
+[13Dec2024 03:25:08.010] [Server thread/INFO] [cuffed/]: _GROZNY_ is interacting!
+[13Dec2024 03:25:10.871] [Server thread/INFO] [cuffed/]: _GROZNY_ is interacting!
+[13Dec2024 03:25:11.774] [Server thread/INFO] [cuffed/]: _GROZNY_ is interacting!
+[13Dec2024 03:26:05.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Teleported BlackSirius9304 to _GROZNY_]
+[13Dec2024 03:26:39.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlackSirius9304 lost connection: Disconnected
+[13Dec2024 03:26:39.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 left the game
+[13Dec2024 03:26:56.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ has made the advancement [Pic-A-Nic Basket?]
+[13Dec2024 03:28:42.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_GROZNY_: Set own game mode to Survival Mode]
+[13Dec2024 03:28:47.147] [Server thread/INFO] [cuffed/]: _GROZNY_ is interacting!
+[13Dec2024 03:28:48.986] [Server thread/INFO] [cuffed/]: _GROZNY_ is interacting!
+[13Dec2024 03:28:49.536] [Server thread/INFO] [cuffed/]: _GROZNY_ is interacting!
+[13Dec2024 03:29:23.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_GROZNY_: Set own game mode to Creative Mode]
+[13Dec2024 03:33:16.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _GROZNY_ lost connection: Timed out
+[13Dec2024 03:33:16.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ left the game

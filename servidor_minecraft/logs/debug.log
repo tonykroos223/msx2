@@ -23148,3 +23148,53 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 03:20:56.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to BlackSirius9304]
 [13Dec2024 03:22:41.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 03:22:41.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 03:24:01.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _GROZNY_ moved too quickly! 10.679479402702306,0.0,-0.668032485471997
+[13Dec2024 03:24:03.484] [Server thread/DEBUG] [ModernFix/]: Structure iter_rpg:generic_dungeon4 is being run through DFU (hash 74cc8a4c82872aff7e6bc181b07d9906cf74b346634bad33fa94929d869d612e), this will cause launch time delays
+[13Dec2024 03:24:18.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Set own game mode to Mining]
+[13Dec2024 03:24:41.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[13Dec2024 03:25:08.010] [Server thread/INFO] [cuffed/]: _GROZNY_ is interacting!
+[13Dec2024 03:25:10.871] [Server thread/INFO] [cuffed/]: _GROZNY_ is interacting!
+[13Dec2024 03:25:11.774] [Server thread/INFO] [cuffed/]: _GROZNY_ is interacting!
+[13Dec2024 03:25:16.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:25:28.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:05.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Teleported BlackSirius9304 to _GROZNY_]
+[13Dec2024 03:26:18.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[13Dec2024 03:26:18.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/top
+[13Dec2024 03:26:37.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:37.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:38.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:39.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BlackSirius9304 lost connection: Disconnected
+[13Dec2024 03:26:39.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 left the game
+[13Dec2024 03:26:40.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:43.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:44.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:44.685] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:45.186] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:50.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:51.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:51.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:56.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:56.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ has made the advancement [Pic-A-Nic Basket?]
+[13Dec2024 03:26:56.484] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:56.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:58.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:59.284] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:26:59.784] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:27:32.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins_rock5
+[13Dec2024 03:27:33.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:pumpkin_ruin_three
+[13Dec2024 03:27:35.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_farmer
+[13Dec2024 03:27:41.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 03:27:41.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 03:28:23.735] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:28:24.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:28:24.633] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:28:26.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:28:42.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_GROZNY_: Set own game mode to Survival Mode]
+[13Dec2024 03:28:47.147] [Server thread/INFO] [cuffed/]: _GROZNY_ is interacting!
+[13Dec2024 03:28:48.986] [Server thread/INFO] [cuffed/]: _GROZNY_ is interacting!
+[13Dec2024 03:28:49.536] [Server thread/INFO] [cuffed/]: _GROZNY_ is interacting!
+[13Dec2024 03:29:23.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_GROZNY_: Set own game mode to Creative Mode]
+[13Dec2024 03:32:41.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 03:32:41.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 03:33:16.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _GROZNY_ lost connection: Timed out
+[13Dec2024 03:33:16.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _GROZNY_ left the game
