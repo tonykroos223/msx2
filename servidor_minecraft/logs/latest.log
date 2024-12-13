@@ -4084,3 +4084,224 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 01:48:53.519] [Server thread/INFO] [AutoModpack/]: GralMarcosPerez has installed AutoModpack.
 [13Dec2024 01:48:54.885] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76759856[id=<null>,name=GralMarcosPerez,properties={},legacy=false] (/127.212.248.26:52667) lost connection: Disconnected
 [13Dec2024 01:49:23.702] [Server thread/INFO] [AutoModpack/]: GralMarcosPerez has installed AutoModpack.
+[13Dec2024 01:49:34.610] [Netty Epoll Server IO #5/INFO] [AutoModpack/]: GralMarcosPerez has installed whole modpack
+[13Dec2024 01:49:38.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GralMarcosPerez[/127.212.248.26:55747] logged in with entity id 5531 at (801.4870750549765, 85.47810122515446, 85.03051493270524)
+[13Dec2024 01:49:38.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez joined the game
+[13Dec2024 01:49:38.279] [Server thread/INFO] [Jade/]: Syncing config to GralMarcosPerez (1b978ca6-6067-3143-9f84-9a4e505b6253)
+[13Dec2024 01:50:00.230] [Netty Epoll Server IO #1/WARN] [AutoModpack/]: _GROZNY_ has not installed AutoModpack.
+[13Dec2024 01:50:00.241] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16bf1d3c[id=<null>,name=_GROZNY_,properties={},legacy=false] (/127.232.202.116:40135) lost connection: AutoModpack mod for forge modloader is required to play on this server!
+[13Dec2024 01:50:07.797] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to GralMarcosPerez (1b978ca6-6067-3143-9f84-9a4e505b6253)
+[13Dec2024 01:50:31.177] [Netty Epoll Server IO #2/WARN] [AutoModpack/]: _GROZNY_ has not installed AutoModpack.
+[13Dec2024 01:50:31.189] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@550559a9[id=<null>,name=_GROZNY_,properties={},legacy=false] (/127.232.202.116:58491) lost connection: AutoModpack mod for forge modloader is required to play on this server!
+[13Dec2024 01:50:53.178] [Netty Epoll Server IO #4/WARN] [AutoModpack/]: _GROZNY_ has not installed AutoModpack.
+[13Dec2024 01:50:53.194] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76f83495[id=<null>,name=_GROZNY_,properties={},legacy=false] (/127.232.202.116:47547) lost connection: AutoModpack mod for forge modloader is required to play on this server!
+[13Dec2024 01:50:54.113] [Server thread/INFO] [AutoModpack/]: ezekillah has installed AutoModpack.
+[13Dec2024 01:50:56.830] [Netty Epoll Server IO #5/INFO] [AutoModpack/]: ezekillah has installed whole modpack
+[13Dec2024 01:50:59.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ezekillah[/127.165.32.75:49421] logged in with entity id 6139 at (-6.896503435515041, 87.0, 6.786206582720351)
+[13Dec2024 01:50:59.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah joined the game
+[13Dec2024 01:50:59.405] [Server thread/INFO] [Jade/]: Syncing config to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[13Dec2024 01:51:05.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[13Dec2024 01:51:10.024] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[13Dec2024 01:51:16.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[13Dec2024 01:51:22.791] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[13Dec2024 01:51:23.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to TRECETRECETRECE]
+[13Dec2024 01:51:25.487] [Netty Epoll Server IO #3/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 85
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:631) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$KeyIterator.next(Object2ObjectOpenHashMap.java:1034) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130079_(FriendlyByteBuf.java:588) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.FriendlyByteBuf.writeItemStack(FriendlyByteBuf.java:646) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130055_(FriendlyByteBuf.java:625) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEquipmentPacket.m_5779_(ClientboundSetEquipmentPacket.java:49) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.m_243087_(Connection.java:224) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:213) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[13Dec2024 01:51:25.487] [Netty Epoll Server IO #5/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 85
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:631) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$KeyIterator.next(Object2ObjectOpenHashMap.java:1034) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130079_(FriendlyByteBuf.java:588) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.FriendlyByteBuf.writeItemStack(FriendlyByteBuf.java:646) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130055_(FriendlyByteBuf.java:625) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSetEquipmentPacket.m_5779_(ClientboundSetEquipmentPacket.java:49) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.m_243087_(Connection.java:224) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:213) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[13Dec2024 01:51:25.490] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSetEquipmentPacket caused an error above, printing name & data
+[13Dec2024 01:51:25.490] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSetEquipmentPacket caused an error above, printing name & data
+[13Dec2024 01:51:25.535] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133198_": 6139,
+  "f_133199_": [
+    "(MAINHAND, 1 the_bossdexium)"
+  ]
+}
+[13Dec2024 01:51:25.541] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133198_": 6139,
+  "f_133199_": [
+    "(MAINHAND, 1 the_bossdexium)"
+  ]
+}
+[13Dec2024 01:51:25.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+[13Dec2024 01:51:25.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE left the game
+[13Dec2024 01:51:25.544] [Netty Epoll Server IO #5/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x0000789b6736caf0.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mdb3a36a$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mdb3a36a$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:406) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[13Dec2024 01:51:25.547] [Netty Epoll Server IO #3/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x0000789b6736caf0.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mdb3a36a$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mdb3a36a$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23550!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:406) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[13Dec2024 01:51:25.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+[13Dec2024 01:51:25.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez left the game
+[13Dec2024 01:51:42.664] [Server thread/INFO] [AutoModpack/]: GralMarcosPerez has installed AutoModpack.
+[13Dec2024 01:51:49.462] [Netty Epoll Server IO #3/INFO] [AutoModpack/]: GralMarcosPerez has installed whole modpack
+[13Dec2024 01:51:49.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah fell from a high place
+[13Dec2024 01:51:52.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GralMarcosPerez[/127.212.248.26:34019] logged in with entity id 7032 at (867.3918821385955, 75.19124205110292, 110.12326856934935)
+[13Dec2024 01:51:52.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez joined the game
+[13Dec2024 01:51:52.552] [Server thread/INFO] [Jade/]: Syncing config to GralMarcosPerez (1b978ca6-6067-3143-9f84-9a4e505b6253)
+[13Dec2024 01:51:52.878] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (240 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=240, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[13Dec2024 01:52:08.272] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to GralMarcosPerez (1b978ca6-6067-3143-9f84-9a4e505b6253)
+[13Dec2024 01:52:11.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Teleported ezekillah to GralMarcosPerez]
+[13Dec2024 01:52:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Creative Mode]
+[13Dec2024 01:52:58.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Disconnected
+[13Dec2024 01:52:58.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
+[13Dec2024 01:53:23.335] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[13Dec2024 01:53:23.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Shieldman'/7141, l='ServerLevel[world]', x=819.15, y=62.82, z=62.27] died: Shieldman was blown up by Skeleton Creeper
+[13Dec2024 01:53:34.237] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4768614d[id=<null>,name=TRECETRECETRECE,properties={},legacy=false] (/127.202.206.192:35465) lost connection: Timed out
+[13Dec2024 01:53:52.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Shieldman'/7068, l='ServerLevel[world]', x=827.43, y=71.00, z=69.86] died: Shieldman was slain by Zombie
+[13Dec2024 01:54:16.547] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[13Dec2024 01:54:16.552] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[13Dec2024 01:54:33.136] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35344bcd[id=<null>,name=TRECETRECETRECE,properties={},legacy=false] (/127.202.206.192:33683) lost connection: Disconnected
+[13Dec2024 01:56:11.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez moved too quickly! 9.041815259251962E-4,-50.776448286839894,1.3026777715197113E-4
+[13Dec2024 01:56:13.896] [Server thread/INFO] [AutoModpack/]: _GROZNY_ has installed AutoModpack.
+[13Dec2024 01:56:14.687] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21f01e95[id=<null>,name=_GROZNY_,properties={},legacy=false] (/127.232.202.116:37599) lost connection: Disconnected
+[13Dec2024 01:56:34.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez moved too quickly! -4.565008499639589E-4,-18.815696401326207,-8.558788410510942E-4
+[13Dec2024 01:57:35.916] [Server thread/INFO] [AutoModpack/]: TRECETRECETRECE has installed AutoModpack.
+[13Dec2024 01:57:39.397] [Netty Epoll Server IO #3/INFO] [AutoModpack/]: TRECETRECETRECE has installed whole modpack
+[13Dec2024 01:57:41.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRECETRECETRECE[/127.202.206.192:51479] logged in with entity id 13066 at (871.6133591327434, 92.0, 99.85842985284992)
+[13Dec2024 01:57:42.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE joined the game
+[13Dec2024 01:57:42.113] [Server thread/INFO] [Jade/]: Syncing config to TRECETRECETRECE (723c0b61-1d01-371c-be4b-0b6817ec3f00)
+[13Dec2024 01:57:44.914] [Server thread/INFO] [AutoModpack/]: ezekillah has installed AutoModpack.
+[13Dec2024 01:57:47.799] [Netty Epoll Server IO #6/INFO] [AutoModpack/]: ezekillah has installed whole modpack
+[13Dec2024 01:57:50.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ezekillah[/127.165.32.75:39277] logged in with entity id 13217 at (902.9227297913455, 78.0, 89.69025445292522)
+[13Dec2024 01:57:50.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah joined the game
+[13Dec2024 01:57:50.451] [Server thread/INFO] [Jade/]: Syncing config to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[13Dec2024 01:57:58.342] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to TRECETRECETRECE (723c0b61-1d01-371c-be4b-0b6817ec3f00)
+[13Dec2024 01:58:02.293] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to ezekillah (04a81c27-b1fc-3cf1-b221-2891c342bbf1)
+[13Dec2024 01:58:09.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditnaturalEntity['Bandit'/13355, l='ServerLevel[world]', x=879.56, y=63.00, z=102.39] died: Bandit was slain by GralMarcosPerez
+[13Dec2024 01:58:28.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set the time to 1000]
+[13Dec2024 01:59:49.714] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/CrabEntity$CrabSize
+[13Dec2024 01:59:49.725] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/animation/Transformation$Type
+[13Dec2024 01:59:53.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[13Dec2024 02:00:15.950] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:00:17.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah has made the advancement [Alex's Mobs]
+[13Dec2024 02:00:18.407] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[13Dec2024 02:00:32.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to GralMarcosPerez]
