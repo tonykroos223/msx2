@@ -1,3645 +1,2786 @@
 {
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_light_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/cyan": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/orange": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:technical/armor/leggings": {
     "criteria": {
-      "empty": "2024-12-08 21:52:48 +0000"
+      "empty": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_netherite_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_diamond_from_block": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "takesapillage:root": {
     "criteria": {
-      "always": "2024-12-08 21:52:48 +0000"
+      "always": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/light_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/black": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/cyan": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/jungle": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_diamond": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/magenta": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_emerald_from_block": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/cherry": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_orange": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_netherite_from_coin": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/white": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/white": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/hopper_upgrade": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/mint_coin_netherite": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_netherite_to_wallet_nether_star": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "infinity_cave:mechanics/weapons/sonic_bow/tick": {
     "criteria": {
-      "requirement": "2024-12-08 21:52:48 +0000"
+      "requirement": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/events/christmas": {
+    "criteria": {
+      "event": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/acacia": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/cyan": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/crimson": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/atm": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_netherite": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_diamond_to_wallet_nether_star": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/events/chocolate_coins": {
+    "criteria": {
+      "has_coins": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_iron_from_block": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-08 21:52:48 +0000"
+      "unlock_right_away": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_light_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/bamboo": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_emerald_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/white": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
-      "has_eggs": "2024-12-08 21:52:48 +0000"
+      "has_eggs": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/light_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/events/chocolate_coins_fallback": {
+    "criteria": {
+      "has_coins": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "astikorcarts:recipes/supply_cart": {
     "criteria": {
-      "has_wheel": "2024-12-08 21:52:48 +0000"
+      "has_wheel": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/cyan": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/cyan": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2024-12-08 21:52:48 +0000"
+      "custom_test_name": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/warped": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_copper_from_block": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_leather_wallet_towallet_iron": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_chocolate_diamond_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/cash_register": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/light_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/birch": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_emerald": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/mint_coin_gold": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "seadwellers:adv_root": {
     "criteria": {
-      "adv_root": "2024-12-08 21:52:48 +0000"
+      "adv_root": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/warped": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/dark_oak": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/black": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_cyan": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_chocolate_gold_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_gold": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/oak": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_emerald_to_wallet_diamond": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/bamboo": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/light_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_emerald": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/speed_upgrade_1": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/speed_upgrade_2": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/speed_upgrade_3": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/speed_upgrade_4": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/speed_upgrade_5": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/dark_oak": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/oak": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_netherite": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/mangrove": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "incendium:technical/new_player": {
     "criteria": {
-      "requirement": "2024-12-08 21:52:48 +0000"
+      "requirement": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_nether_star": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2024-12-08 21:52:48 +0000"
+      "tick": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_iron_from_coin": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/display_case": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/bamboo": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_copper_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_emerald_from_coin": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_gold_from_coin": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_diamond_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/portable_atm_swap": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_diamond_from_block": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_chocolate_copper_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/cyan": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "astikorcarts:recipes/plow": {
     "criteria": {
-      "has_wheel": "2024-12-08 21:52:48 +0000"
+      "has_wheel": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_chocolate_iron_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_diamond": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_diamond": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/magenta": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/decorations/coin_jar/blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2024-12-08 21:52:48 +0000"
+      "WDA": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/black": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_chocolate_diamond_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_copper": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_orange": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/crimson": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "infinity_cave:technical/armor/helmet": {
     "criteria": {
-      "empty": "2024-12-08 21:52:48 +0000"
+      "empty": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_diamond": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_netherite": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_chocolate_netherite_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/mint_coin_diamond": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/oak": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/warped": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_gold": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_gold": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_iron_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/item_trader_interface": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "infinity_cave:technical/armor/boots": {
     "criteria": {
-      "empty": "2024-12-08 21:52:48 +0000"
+      "empty": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "iter_rpg:iter_root": {
     "criteria": {
-      "iter_root_0": "2024-12-08 21:52:48 +0000"
+      "iter_root_0": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_bank_upgrade": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/light_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_chocolate_copper_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/magenta": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "infinity_cave:mechanics/altar/tick": {
     "criteria": {
-      "requirement": "2024-12-08 21:52:48 +0000"
+      "requirement": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/orange": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_iron_from_block": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/orange": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/dark_oak": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "betterdungeons:root": {
     "criteria": {
-      "always": "2024-12-08 21:52:48 +0000"
+      "always": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "infinity_cave:load": {
+  "incendium:technical/holy_wrath": {
     "criteria": {
-      "requirement": "2024-12-08 21:52:48 +0000"
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "orcz:orczchallenge": {
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/light_blue": {
     "criteria": {
-      "orczchallenge": "2024-12-08 21:52:48 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "bossominium:loot_bosses_a": {
+  "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_gold_from_coin": {
     "criteria": {
-      "loot_bosses_a": "2024-12-08 21:52:48 +0000"
+      "money": "2024-12-13 01:46:55 +0000",
+      "coin": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "lootr:root": {
+  "lightmanscurrency:recipes/misc/coins/coinpile_copper_from_coin": {
     "criteria": {
-      "always_true": "2024-12-08 21:52:48 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "infinity_cave:mechanics/weapons/torpedo_harpoon/tick": {
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/white": {
     "criteria": {
-      "requirement": "2024-12-08 21:52:48 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "betterdeserttemples:root": {
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/light_gray": {
     "criteria": {
-      "always": "2024-12-08 21:52:48 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "cataclysm:root": {
+  "incendium:technical/on_block": {
     "criteria": {
-      "custom_test_name": "2024-12-08 21:52:48 +0000"
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
+    },
+    "done": false
+  },
+  "realmrpg_quests:root": {
+    "criteria": {
+      "root_0": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "astikorcarts:recipes/animal_cart": {
+  "lightmanscurrency:recipes/misc/traders/bookshelf/cherry": {
     "criteria": {
-      "has_wheel": "2024-12-08 21:52:48 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/root": {
+  "lightmanscurrency:recipes/misc/coin_chest": {
     "criteria": {
-      "seeds": "2024-12-08 21:52:48 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "soulslikeuniverse:soulslikeuniverse": {
+  "lightmanscurrency:recipes/misc/wallet/wallet_netherite": {
     "criteria": {
-      "soulslikeuniverse": "2024-12-08 21:52:48 +0000"
+      "coin": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "infinity_cave:technical/armor/chestplate": {
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/gray": {
     "criteria": {
-      "empty": "2024-12-08 21:52:48 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 21:52:49 +0000"
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
     },
     "done": false
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_copper_from_coin": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_gold": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_diamond": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/warped": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_gold_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/light_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/acacia": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/terminal": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_emerald_from_block": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:load": {
+    "criteria": {
+      "requirement": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_black": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/white": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_exchange_upgrade": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_diamond_from_coin": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_emerald_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_emerald": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/terminal_swap": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/orange": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/black": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/black": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "orcz:orczchallenge": {
+    "criteria": {
+      "orczchallenge": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/trading_core": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/birch": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/white": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/jungle": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/cherry": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_chocolate_emerald_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/washing": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/black": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/spruce": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/light_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_netherite_from_coin": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_netherite": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/magenta": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/slot_machine": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/mint_coin_iron": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_magenta": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_chocolate_gold_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/cyan": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_iron": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/black": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/copy_template": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/magenta": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_iron": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/light_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/washing": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/black": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/portable_gem_terminal_swap": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_gold_from_block": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/jungle": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_magenta": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/bamboo": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/crimson": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/mangrove": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_iron_from_coin": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_netherite_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_copper_from_block": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/orange": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_diamond_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_copper": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_magnet_upgrade_1": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_magnet_upgrade_2": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/orange": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_magnet_upgrade_3": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_magnet_upgrade_4": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/cherry": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/coin_chest_security_upgrade": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "bossominium:loot_bosses_a": {
+    "criteria": {
+      "loot_bosses_a": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/spruce": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/light_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_copper_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:mechanics/weapons/torpedo_harpoon/tick": {
+    "criteria": {
+      "requirement": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/armor_display": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/white": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/paygate": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/root": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_iron_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/birch": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/black": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/cyan": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/light_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/pink": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/acacia": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/orange": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_emerald": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/magenta": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/freezer/cyan": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_cyan": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/atm_swap": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_chocolate_netherite_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/tax_block": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/offer_upgrade_6": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/offer_upgrade_5": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/offer_upgrade_2": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/offer_upgrade_1": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/offer_upgrade_4": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/offer_upgrade_3": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/magenta": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_black": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/orange": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 21:52:49 +0000"
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
     },
     "done": false
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/black": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/acacia": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_diamond_to_wallet_netherite": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_nether_star": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/crimson": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/cyan": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/wallet_emerald": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf2/mangrove": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/auction_stand/spruce": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
+    },
+    "done": false
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 21:52:49 +0000"
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
     },
     "done": false
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_green": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/brown": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_emerald_from_coin": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/white": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/shelf/oak": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/red": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/ticket_kiosk": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coinblock_chocolate_iron_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_nether_star": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/magenta": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/gem_terminal": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coins/coin_chocolate_emerald_from_pile": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/yellow": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/decorations/coin_jar/piggy_bank": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/item_capacity_upgrade_3": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/item_capacity_upgrade_4": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/item_capacity_upgrade_1": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/item_capacity_upgrade_2": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "soulslikeuniverse:soulslikeuniverse": {
+    "criteria": {
+      "soulslikeuniverse": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/coinmint": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/upgrades/create_template": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_emerald_to_wallet_nether_star": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/vending_machine/dye_blue": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:technical/armor/chestplate": {
+    "criteria": {
+      "empty": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/orange": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/purple": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:currency/myfirstpenny": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/gem_terminal_swap": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/lime": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/magenta": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/network/item_network_trader_2": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/network/item_network_trader_3": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/network/item_network_trader_4": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/network/item_network_trader_1": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/magenta": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/bookshelf/dark_oak": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/coin_mint/coin_mint/mint_coin_emerald": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/orange": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/light_gray": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/traders/card_display/acacia/white": {
+    "criteria": {
+      "money": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_emerald_to_wallet_netherite": {
+    "criteria": {
+      "coin": "2024-12-13 01:46:55 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
-      "log_spam_fixer": "2024-12-08 21:52:49 +0000"
+      "log_spam_fixer": "2024-12-13 01:46:56 +0000"
     },
     "done": false
   },
-  "minecraft:adventure/root": {
+  "lightmanscurrency:recipes/misc/auction_stand/jungle": {
     "criteria": {
-      "killed_something": "2024-12-08 21:53:03 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/feather_block": {
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/black": {
     "criteria": {
-      "has_feather": "2024-12-08 21:53:04 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/bolt": {
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/black": {
     "criteria": {
-      "has_feather": "2024-12-08 21:53:04 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/copper_arrow": {
+  "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_netherite_from_block": {
     "criteria": {
-      "has_feather": "2024-12-08 21:53:04 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/copper_bolt": {
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/light_blue": {
     "criteria": {
-      "has_feather": "2024-12-08 21:53:04 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "lightmanscurrency:recipes/misc/coins/coinpile_diamond_from_coin": {
     "criteria": {
-      "has_feather": "2024-12-08 21:53:04 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/diamond_bolt": {
+  "lightmanscurrency:recipes/decorations/coin_jar/sus_jar": {
     "criteria": {
-      "has_feather": "2024-12-08 21:53:04 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/iron_arrow": {
+  "lightmanscurrency:recipes/misc/wallet/wallet_leather": {
     "criteria": {
-      "has_feather": "2024-12-08 21:53:04 +0000"
+      "coin": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_arrow": {
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/green": {
     "criteria": {
-      "has_feather": "2024-12-08 21:53:04 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/diamond_arrow": {
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/blue": {
     "criteria": {
-      "has_feather": "2024-12-08 21:53:04 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "infinity_cave:technical/hit_match/entity_hurt_player": {
+  "lightmanscurrency:recipes/misc/coins/coinblock_gold_from_pile": {
     "criteria": {
-      "requirement": "2024-12-08 21:53:24 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "lightmanscurrency:recipes/misc/traders/shelf/spruce": {
     "criteria": {
-      "consumed_item": "2024-12-08 21:53:59 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/root": {
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/pink": {
     "criteria": {
-      "useitem": "2024-12-08 21:54:04 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "lootr:social": {
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/orange": {
     "criteria": {
-      "opened_barrel": "2024-12-08 22:12:01 +0000",
-      "opened_chest": "2024-12-08 21:56:33 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
-    "done": false
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2024-12-08 21:56:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-08 21:56:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-08 21:56:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-08 21:56:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-08 21:56:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-12-08 21:56:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2024-12-08 21:56:37 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_javelin": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/iron_tower_shield": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/spring_launcher": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_blue": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_lime": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/lock_block": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_heavy_crossbow": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_gray": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/shears": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/cage": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_warhammer": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cooking_pot": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_parrying_dagger": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bomb": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_rapier": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_battleaxe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_dagger": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_orange": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_purple": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_red": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bubble_blower": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_battle_hammer": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_spear": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_saber": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/iron_knife": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_magenta": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_leggings": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_quarterstaff": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_halberd": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_flanged_mace": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_boomerang": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/faucet": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_katana": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_pike": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_pink": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_white": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/iron_basic_shield": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_tomahawk": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_glaive": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_longsword": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_lance": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_brown": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/goblet": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_throwing_knife": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "sawmill:recipes/sawmill": {
-    "criteria": {
-      "has_iron": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_sword": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_pickaxe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/iron_gate": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/shield": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/iron_bars": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_black": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_green": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_longbow": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_greatsword": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_cyan": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_scythe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pulley": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "rechiseled:recipes/misc/chisel": {
-    "criteria": {
-      "recipe_condition": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_yellow": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_door": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-08 21:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-08 21:57:25 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/bamboo_galley": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/transportation/echo_boat": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/spruce_cog": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/acacia_cog": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/transportation/bloom_boat": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/jungle_cog": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/dark_oak_brigg": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/birch_galley": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/oak_drakkar": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/mangrove_brigg": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/jungle_brigg": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/spruce_galley": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/birch_cog": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/mangrove_drakkar": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/misc/sail": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/acacia_galley": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/jungle_galley": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/dark_oak_galley": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/bamboo_brigg": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/spruce_drakkar": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/oak_brigg": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/bamboo_cog": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/oak_cog": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/oak_galley": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/acacia_brigg": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/mangrove_galley": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/dark_oak_cog": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/birch_drakkar": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/dark_oak_drakkar": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/jungle_drakkar": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/birch_brigg": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/acacia_drakkar": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/cherry_galley": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/cherry_brigg": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/spruce_brigg": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/mangrove_cog": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/cherry_cog": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-08 21:59:49 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2024-12-08 21:59:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2024-12-09 00:41:47 +0000",
-      "minecraft:birch_forest": "2024-12-08 22:14:01 +0000",
-      "minecraft:beach": "2024-12-08 22:46:53 +0000",
-      "minecraft:river": "2024-12-08 21:59:57 +0000",
-      "minecraft:cold_ocean": "2024-12-08 22:52:25 +0000",
-      "minecraft:forest": "2024-12-08 23:03:15 +0000",
-      "minecraft:deep_cold_ocean": "2024-12-08 23:04:45 +0000",
-      "minecraft:deep_frozen_ocean": "2024-12-09 00:49:08 +0000",
-      "minecraft:ocean": "2024-12-08 22:47:03 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-08 22:34:36 +0000"
-    },
-    "done": false
-  },
-  "spartanweaponry:recipes/wooden_club": {
-    "criteria": {
-      "has_wood_log": "2024-12-08 22:01:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-08 22:01:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-08 22:01:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-12-08 22:01:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/crank": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_orange": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_magenta": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/pole_from_leather": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub_cross_brace": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/handle_from_leather": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_pink": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/timber_frame": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/slingshot": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/timber_brace": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_black": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_green": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_purple": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_white": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/timber_cross_brace": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_brown": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_gray": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/flint_knife": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/pole_from_wool": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_light_blue": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub_brace": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_blue": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub_frame": {
-    "criteria": {
-      "forge:rods/wooden": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/handle_from_wool": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_cyan": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_yellow": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_light_gray": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/pole_from_string": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_red": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/simple_handle": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cutting_board": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flags/flag_lime": {
-    "criteria": {
-      "has_stick": "2024-12-08 22:01:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain_sticky": {
-    "criteria": {
-      "has_item": "2024-12-08 22:02:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "apple": "2024-12-08 22:03:11 +0000",
-      "potato": "2024-12-08 22:16:43 +0000",
-      "bread": "2024-12-08 22:03:24 +0000",
-      "golden_apple": "2024-12-08 22:19:19 +0000",
-      "golden_carrot": "2024-12-09 00:07:38 +0000",
-      "carrot": "2024-12-08 23:48:43 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-08 22:03:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-08 22:03:45 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_scythe": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_spear": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/wooden_basic_shield": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_dark_oak": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_saber": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_javelin": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/white_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_quarterstaff": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_warhammer": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "astikorcarts:recipes/wheel": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_greatsword": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_parrying_dagger": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_rapier": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_boomerang": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/turn_table": {
-    "criteria": {
-      "minecraft:planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_throwing_knife": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/clock_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_flanged_mace": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/dark_oak_desk": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_longbow": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_glaive": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_lance": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/dark_oak_desk_drawer": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_longsword": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/wooden_tower_shield": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bed_from_feather_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_pike": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_halberd": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/earplugs": {
-    "criteria": {
-      "has_item": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/speaker_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_katana": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_battleaxe": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_battle_hammer": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/notice_board": {
-    "criteria": {
-      "minecraft:planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_dagger": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/dark_oak_table": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_heavy_crossbow": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_tomahawk": {
-    "criteria": {
-      "has_wood": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/hay_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_dark_oak_chair": {
-    "criteria": {
-      "has_dark_oak_planks": "2024-12-08 22:05:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-12-08 22:05:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/cestus": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/leather_longbow": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/blindfold": {
-    "criteria": {
-      "has_item": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bellows": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/leather_heavy_crossbow": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/quiver_compartment": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2024-12-08 22:06:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2024-12-08 22:11:59 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2024-12-08 22:12:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-08 22:12:02 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-08 22:12:02 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce_soul": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-08 22:12:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2024-12-08 22:12:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_boots": "2024-12-08 22:12:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_boots": "2024-12-08 22:12:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-08 22:13:14 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/spruce_desk_drawer": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/spruce_table": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/spruce_desk": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_spruce": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/white_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_chair": {
-    "criteria": {
-      "has_spruce_planks": "2024-12-08 22:14:45 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2024-12-08 22:15:20 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_glaive": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_longsword": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_katana": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_battle_hammer": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_throwing_knife": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_boomerang": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_tomahawk": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_battleaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_spear": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_rapier": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_saber": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_scythe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_greatsword": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_parrying_dagger": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/checker": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/stone_basic_shield": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_lance": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/stone_tower_shield": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_quarterstaff": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_flanged_mace": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_javelin": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_pike": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_warhammer": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_dagger": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/stone_halberd": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-08 22:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-08 22:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_stool": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/grease_ball": {
-    "criteria": {
-      "has_meat": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_stool": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_fabric_desk_lamp": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_stool": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_stool": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_birch_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_stool": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_crimson_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_curtain": {
-    "criteria": {
-      "has_item": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_cherry_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_crimson_stool": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_meal": {
-    "criteria": {
-      "has_item": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_oak_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_jungle_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_warped_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_mangrove_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_gray": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_crimson_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_mangrove_stool": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_mangrove_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_jungle_stool": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_jungle_chair": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_stool": {
-    "criteria": {
-      "has_gray_wool": "2024-12-08 22:18:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-08 22:18:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2024-12-08 22:18:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-08 22:18:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-08 22:18:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-08 22:18:21 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flower_box": {
-    "criteria": {
-      "has_dirt": "2024-12-08 22:28:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2024-12-09 00:48:13 +0000",
-      "minecraft:skeleton": "2024-12-08 22:35:21 +0000",
-      "minecraft:vindicator": "2024-12-09 00:40:30 +0000",
-      "minecraft:creeper": "2024-12-08 23:04:20 +0000",
-      "minecraft:stray": "2024-12-08 23:04:58 +0000",
-      "minecraft:zombie": "2024-12-08 22:29:51 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2024-12-08 22:29:51 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_rapier": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_halberd": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_dagger": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_lance": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_battle_hammer": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/golden_knife": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_pike": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_longsword": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_scythe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_glaive": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/medium_quiver_brace": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/golden_tower_shield": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_warhammer": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_longbow": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_flanged_mace": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_heavy_crossbow": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/hourglass": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_spear": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_battleaxe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_throwing_knife": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/gold_trapdoor": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_saber": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_greatsword": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_quarterstaff": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_javelin": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_parrying_dagger": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "netherdungeons:recipes/crafting/gold_chain": {
-    "criteria": {
-      "has_items": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_boomerang": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/golden_basic_shield": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/key": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_katana": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/golden_tomahawk": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/gold_door": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-08 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-08 22:31:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-08 22:31:39 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/netherite_bolt": {
-    "criteria": {
-      "has_heavy_crossbow": "2024-12-08 22:32:55 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:heavy_crossbow": {
-    "criteria": {
-      "has_heavy_crossbow": "2024-12-08 22:32:55 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/small_bolt_quiver": {
-    "criteria": {
-      "has_bolt": "2024-12-08 22:32:59 +0000"
-    },
-    "done": true
-  },
-  "hopo:minecraft/adventure/locate_all_underwater_structures": {
-    "criteria": {
-      "locate_shipwreck": "2024-12-08 22:33:19 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2024-12-08 22:35:21 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2024-12-08 22:41:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-08 22:43:32 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/explosive_charge": {
-    "criteria": {
-      "has_gunpowder": "2024-12-08 22:43:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-12-08 22:43:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2024-12-08 23:04:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2024-12-08 23:04:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2024-12-08 23:04:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2024-12-08 23:04:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2024-12-08 23:04:47 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/daub": {
-    "criteria": {
-      "supplementaries:straw": "2024-12-08 23:04:47 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/small_arrow_quiver": {
-    "criteria": {
-      "has_arrow": "2024-12-08 23:04:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2024-12-08 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-08 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-08 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2024-12-08 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-08 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2024-12-08 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2024-12-08 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-08 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-08 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-08 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2024-12-08 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-12-08 23:09:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2024-12-08 23:09:21 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sack": {
-    "criteria": {
-      "has_string": "2024-12-08 23:09:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2024-12-08 23:09:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2024-12-08 23:09:21 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/handle_from_string": {
-    "criteria": {
-      "has_string": "2024-12-08 23:09:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2024-12-08 23:09:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2024-12-08 23:09:21 +0000"
-    },
-    "done": true
-  },
-  "soulslikeuniverse:dragonslayerarmourhunter": {
-    "criteria": {
-      "dragonslayerarmourhunter": "2024-12-08 23:09:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-08 23:09:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2024-12-08 23:09:33 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2024-12-08 23:10:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2024-12-08 23:13:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2024-12-08 23:13:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_ice_dragon": "2024-12-08 23:13:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-08 23:13:59 +0000"
-    },
     "done": true
   },
-  "farmersdelight:recipes/cooking/chicken_soup": {
+  "lightmanscurrency:recipes/misc/traders/card_display/spruce/brown": {
     "criteria": {
-      "has_any_ingredient": "2024-12-08 23:13:59 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
+  "lightmanscurrency:recipes/misc/traders/freezer/orange": {
     "criteria": {
-      "has_any_ingredient": "2024-12-08 23:13:59 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fried_rice": {
+  "lightmanscurrency:recipes/misc/portable_terminal_swap": {
     "criteria": {
-      "has_any_ingredient": "2024-12-08 23:13:59 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "lightmanscurrency:recipes/misc/ticket_station": {
     "criteria": {
-      "has_carrot": "2024-12-08 23:13:59 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "lightmanscurrency:recipes/misc/traders/shelf/mangrove": {
     "criteria": {
-      "has_smelts_to_glass": "2024-12-08 23:54:52 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/cyan": {
     "criteria": {
-      "has_sand": "2024-12-08 23:54:52 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/red": {
     "criteria": {
-      "has_salmon": "2024-12-08 23:55:55 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/cyan": {
     "criteria": {
-      "has_salmon": "2024-12-08 23:55:55 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fish_stew": {
+  "lightmanscurrency:recipes/misc/wallet/wallet_iron": {
     "criteria": {
-      "has_any_ingredient": "2024-12-08 23:55:55 +0000"
+      "coin": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "lightmanscurrency:recipes/misc/traders/card_display/jungle/gray": {
     "criteria": {
-      "has_salmon": "2024-12-08 23:55:55 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "lightmanscurrency:recipes/misc/traders/card_display/oak/white": {
     "criteria": {
-      "has_salmon": "2024-12-08 23:55:55 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/horse_feed": {
+  "lightmanscurrency:recipes/misc/traders/vending_machine_large": {
     "criteria": {
-      "has_golden_carrot": "2024-12-09 00:05:07 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "lightmanscurrency:recipes/misc/coins/coinpile_netherite_from_block": {
     "criteria": {
-      "has_logs": "2024-12-09 00:08:09 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "lightmanscurrency:recipes/misc/upgrades/network_upgrade": {
     "criteria": {
-      "has_log": "2024-12-09 00:08:09 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rainbow_jelly": {
+  "lightmanscurrency:recipes/misc/traders/card_display/cherry/magenta": {
     "criteria": {
-      "gustmaker": "2024-12-09 00:28:16 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/maraca": {
+  "lightmanscurrency:recipes/misc/traders/card_display/bamboo/magenta": {
     "criteria": {
-      "maraca": "2024-12-09 00:30:49 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_troll": {
+  "lightmanscurrency:recipes/misc/wallet/wallet_nether_star": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-09 00:37:29 +0000"
+      "coin": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "lightmanscurrency:recipes/misc/traders/card_display/birch/purple": {
     "criteria": {
-      "has_emerald": "2024-12-09 00:40:49 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
+  "lightmanscurrency:recipes/misc/traders/card_display/crimson/white": {
     "criteria": {
-      "has_glowstone": "2024-12-09 00:40:56 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+  "lightmanscurrency:recipes/misc/coins/coinpile_gold_from_block": {
     "criteria": {
-      "has_any_ingredient": "2024-12-09 00:40:57 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "lightmanscurrency:recipes/coin_mint/coin_mint/mint_coin_copper": {
     "criteria": {
-      "has_ink_sac": "2024-12-09 00:40:57 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/netherite_arrow": {
+  "lightmanscurrency:recipes/misc/traders/card_display/warped/yellow": {
     "criteria": {
-      "has_bow": "2024-12-09 00:41:50 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "lightmanscurrency:recipes/misc/traders/card_display/mangrove/white": {
     "criteria": {
-      "has_bow": "2024-12-09 00:41:50 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/food/ambrosia": {
+  "lightmanscurrency:recipes/misc/auction_stand/birch": {
     "criteria": {
-      "has_item": "2024-12-09 00:42:28 +0000"
+      "money": "2024-12-13 01:46:55 +0000"
     },
     "done": true
   },
