@@ -2779,6 +2779,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_carrot": "2024-12-13 03:02:14 +0000",
       "enchanted_golden_apple": "2024-12-10 03:11:27 +0000"
     },
     "done": false
@@ -5758,6 +5759,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-13 03:04:34 +0000",
       "opened_chest": "2024-12-13 02:33:37 +0000"
     },
     "done": false
@@ -6002,6 +6004,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-13 03:02:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2024-12-13 03:01:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-13 02:49:51 +0000"
@@ -6041,6 +6055,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-13 02:49:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-13 03:05:51 +0000"
     },
     "done": true
   },
@@ -6092,6 +6112,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-13 03:04:34 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-13 02:49:51 +0000"
@@ -6101,6 +6127,18 @@
   "valhelsia_furniture:recipes/decorations/black_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-13 02:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-13 03:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-13 03:02:45 +0000"
     },
     "done": true
   },
@@ -6266,6 +6304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-13 03:02:45 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/acacia_desk_drawer": {
     "criteria": {
       "has_acacia_planks": "2024-12-13 02:49:51 +0000"
@@ -6299,6 +6343,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-12-13 02:49:51 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_get_voidquartz": {
+    "criteria": {
+      "iter_get_voidquartz_0": "2024-12-13 03:03:27 +0000"
     },
     "done": true
   },
