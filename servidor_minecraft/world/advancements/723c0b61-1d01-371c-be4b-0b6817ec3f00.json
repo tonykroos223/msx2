@@ -2801,15 +2801,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-13 02:32:36 +0000",
       "minecraft:frozen_river": "2024-12-10 02:17:46 +0000",
+      "minecraft:windswept_hills": "2024-12-13 02:35:06 +0000",
       "minecraft:beach": "2024-12-10 01:45:39 +0000",
       "minecraft:river": "2024-12-10 01:44:56 +0000",
       "minecraft:snowy_plains": "2024-12-10 01:45:49 +0000",
+      "minecraft:snowy_taiga": "2024-12-13 02:33:05 +0000",
       "minecraft:cold_ocean": "2024-12-10 02:50:37 +0000",
       "minecraft:forest": "2024-12-10 01:45:16 +0000",
       "minecraft:deep_cold_ocean": "2024-12-10 03:19:29 +0000",
       "minecraft:frozen_ocean": "2024-12-10 02:17:52 +0000",
       "minecraft:snowy_beach": "2024-12-10 02:17:34 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-13 02:36:19 +0000",
       "minecraft:plains": "2024-12-10 01:44:38 +0000"
     },
     "done": false
@@ -4315,6 +4319,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:35:49 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2024-12-13 02:05:18 +0000"
@@ -4429,6 +4439,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-12-13 02:35:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_warped_chair": {
     "criteria": {
       "has_warped_planks": "2024-12-13 02:26:15 +0000"
@@ -4438,6 +4454,12 @@
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2024-12-13 02:26:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:35:49 +0000"
     },
     "done": true
   },
@@ -5251,6 +5273,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:35:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-13 02:26:08 +0000"
@@ -5419,6 +5447,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:35:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2024-12-13 02:26:07 +0000"
@@ -5551,6 +5585,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:35:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-13 02:14:00 +0000"
@@ -5620,6 +5660,12 @@
   "valhelsia_furniture:recipes/decorations/white_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-13 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-13 02:35:49 +0000"
     },
     "done": true
   },
@@ -5764,6 +5810,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-13 02:26:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 02:35:49 +0000"
     },
     "done": true
   },
