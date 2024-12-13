@@ -22070,3 +22070,526 @@ LazyPacketData[ChangeTab:1]
 [13Dec2024 02:51:51.527] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to GralMarcosPerez (1b978ca6-6067-3143-9f84-9a4e505b6253)
 [13Dec2024 02:51:55.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez lost connection: Disconnected
 [13Dec2024 02:51:55.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez left the game
+[13Dec2024 02:52:25.450] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:1]
+[13Dec2024 02:52:25.864] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:0]
+[13Dec2024 02:52:26.370] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:2,TradeIndex:0]
+[13Dec2024 02:52:39.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_GROZNY_: Teleported _GROZNY_ to ezekillah]
+[13Dec2024 02:52:41.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 02:52:41.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 02:52:43.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:44.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:45.345] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:45.685] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:45.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:46.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:47.325] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:47.877] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:1]
+[13Dec2024 02:52:48.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:48.336] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:10]
+[13Dec2024 02:52:48.988] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:0]
+[13Dec2024 02:52:49.669] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:2,TradeIndex:0,StartingSlot:-1]
+[13Dec2024 02:52:50.524] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:50.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:51.105] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Setting price on the server as 1e
+[13Dec2024 02:52:51.338] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:51.987] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:52.678] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:52:54.365] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Setting price on the server as 2e
+[13Dec2024 02:52:54.788] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Setting price on the server as 3e
+[13Dec2024 02:52:56.455] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Setting price on the server as 4e
+[13Dec2024 02:52:56.640] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Setting price on the server as 5e
+[13Dec2024 02:53:04.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:04.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:05.800] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:05.892] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:06.428] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:10.392] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:12]
+[13Dec2024 02:53:10.923] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:11]
+[13Dec2024 02:53:11.343] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:10]
+[13Dec2024 02:53:11.769] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:1]
+[13Dec2024 02:53:12.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Creative Mode]
+[13Dec2024 02:53:14.789] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:14.793] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:15.239] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:16.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:17.453] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:18.191] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:20.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:20.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:25.552] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:28.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:28.826] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:29.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ezekillah: Set own game mode to Survival Mode]
+[13Dec2024 02:53:33.800] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade
+[13Dec2024 02:53:33.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:35.124] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:36.641] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:38.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:39.843] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:40.440] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:41.141] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:41.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:42.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:42.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:43.437] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:44.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 has made the advancement [Suit Up]
+[13Dec2024 02:53:44.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:46.538] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:47.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:53:50.007] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:54:09.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HalloF5 moved too quickly! -7.146225186772085,6.333758917020475,-3.345245738826634
+[13Dec2024 02:54:12.374] [Server thread/INFO] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader block was broken by legal means!
+[13Dec2024 02:54:17.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HalloF5> pobre groz
+[13Dec2024 02:54:24.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HalloF5> le va para el culo
+[13Dec2024 02:54:43.645] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[13Dec2024 02:54:45.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HalloF5 moved too quickly! -5.77590686641048,2.739599722106405,-8.512876568363197
+[13Dec2024 02:54:48.424] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:2,TradeIndex:0,StartingSlot:-1]
+[13Dec2024 02:54:49.638] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Setting price on the server as 1e
+[13Dec2024 02:54:56.589] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Setting price on the server as Empty
+[13Dec2024 02:54:56.999] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Setting price on the server as 1g
+[13Dec2024 02:54:58.215] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:1]
+[13Dec2024 02:54:58.674] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:0]
+[13Dec2024 02:54:59.988] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:2,TradeIndex:1]
+[13Dec2024 02:55:01.049] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Setting price on the server as 1g
+[13Dec2024 02:55:01.190] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Setting price on the server as 2g
+[13Dec2024 02:55:04.590] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:1]
+[13Dec2024 02:55:05.769] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:0]
+[13Dec2024 02:55:06.791] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:2,TradeIndex:2,StartingSlot:-1]
+[13Dec2024 02:55:09.527] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Setting price on the server as 1e
+[13Dec2024 02:55:11.436] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:0]
+[13Dec2024 02:55:12.374] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:2,TradeIndex:3,StartingSlot:-1]
+[13Dec2024 02:55:12.974] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Setting price on the server as 1e
+[13Dec2024 02:55:13.716] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:1]
+[13Dec2024 02:55:19.491] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:0]
+[13Dec2024 02:55:22.608] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:1]
+[13Dec2024 02:55:24.765] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:0]
+[13Dec2024 02:55:25.676] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 02:55:26.099] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:1]
+[13Dec2024 02:55:26.992] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:0]
+[13Dec2024 02:55:33.538] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:1]
+[13Dec2024 02:55:51.449] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:1]
+[13Dec2024 02:55:56.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:55:56.691] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:10]
+[13Dec2024 02:55:56.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:55:57.039] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Handling Change Tab message on the server
+LazyPacketData[ChangeTab:1]
+[13Dec2024 02:55:57.987] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 02:56:06.210] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/ruined_portal' has T3 level chest loot. Adding coins to the spawned loot.
+[13Dec2024 02:56:06.210] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 10x lightmanscurrency:coin_iron to the chest loot.
+[13Dec2024 02:56:06.210] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 5x lightmanscurrency:coin_gold to the chest loot.
+[13Dec2024 02:56:06.210] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 8x lightmanscurrency:coin_gold to the chest loot.
+[13Dec2024 02:56:21.041] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 02:56:22.495] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 02:56:33.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Set own game mode to Survival Mode]
+[13Dec2024 02:56:34.957] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 02:56:35.209] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 02:56:36.575] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 02:56:36.742] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 02:56:36.910] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 02:56:52.604] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 02:57:21.429] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade
+[13Dec2024 02:57:21.607] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade
+[13Dec2024 02:57:21.855] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade
+[13Dec2024 02:57:22.026] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade
+[13Dec2024 02:57:23.227] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade
+[13Dec2024 02:57:23.395] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade
+[13Dec2024 02:57:23.578] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade
+[13Dec2024 02:57:23.692] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade
+[13Dec2024 02:57:23.874] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade
+[13Dec2024 02:57:35.899] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 47 messages to dispatch.
+[13Dec2024 02:57:36.109] [Server thread/INFO] [AutoModpack/]: GralMarcosPerez has installed AutoModpack.
+[13Dec2024 02:57:41.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 02:57:41.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 02:57:42.010] [Netty Epoll Server IO #0/INFO] [AutoModpack/]: GralMarcosPerez has installed whole modpack
+[13Dec2024 02:57:42.081] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[13Dec2024 02:57:42.094] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[13Dec2024 02:57:42.108] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[13Dec2024 02:57:42.123] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 3
+[13Dec2024 02:57:42.140] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 4
+[13Dec2024 02:57:42.153] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 5
+[13Dec2024 02:57:42.188] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 6
+[13Dec2024 02:57:42.237] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 7
+[13Dec2024 02:57:42.287] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 8
+[13Dec2024 02:57:42.339] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry cuffed:restraints' to 'fml:handshake' sequence 9
+[13Dec2024 02:57:42.387] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 10
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, easyanvils, supermartijn642configlib, horseman, playeranimator, hammerlib, valhelsia_furniture, stalwart_dungeons, mr_dungeons_andtavernsancientcityoverhaul, modernfix, netherite_horse_armor, yungsapi, blocky_siege, medievalend, balm, cadmus, swampier_swamps, betterfortresses, cloth_config, sawmill, iter_rpg, embeddium, rubidium, w2w2, explorify, bossominium, w2pets, supermartijn642corelib, yungsbridges, mr_tidal_towns, philipsruins, improvableskills, curios, workers, yungsextras, mr_dungeons_andtaverns, bettervillage, noisium, onlylooking, indestructible, mr_limesplatus_ending, shinyhorses, bettermineshafts, playerrevive, enchantinginfuser, recruits, betterjungletemples, radium, kiwi, puffish_skills, mowziesmobs, puzzlesapi, rechiseled, abridged, jei, horsestonks, automodpack, visualworkbench, universalbonemeal, graveyard, libraryferret, goblintraders, caelus, realmrpg_skeletons, passablefoliage, epicfight, refm, wom, fastasyncworldsave, integrated_api, iceandfireartifacts, relda, lightmanscurrency, glitchcore, sereneseasons, starlight, beefix, catalogue, fusion, mr_dungeons_andtavernsswamphutrework, puzzlesaccessapi, forge, armorstatues, dungeons_arise, tectonic, smoothchunk, forgeconfigscreens, awesomedungeonnether, jet_and_elias_armors, justenoughbreeding, spectrelib, ksyxis, astikorcarts, kotlinforforge, soulslikeuniverse, xaerominimap, gravestone, bocchium, leavemybarsalone, library_of_exile, fasterdonkeys, structory_towers, lootr, puzzleslib, mns, immersive_melodies, efm_compat, lazrslib, cristellib, treechop, notenoughcrashes, kuma_api, taxva, geckolib, crittersandcompanions, craftable_slimeball, shifu_epic_fight_skill_recipe, infinity_cave, naturalist, betteroceanmonuments, connectivity, incendium, sophisticatedcore, xaeroworldmap, citadel, alexsmobs, iceandfire, mixinextras, sophisticatedbackpacks, relics, takesapillage, medieval_buildings, ramcompat, fpsreducer, farmersdelight, supplementaries, cuffed, endrem, sweety_horse_armor_tweaks, chunky, horsestatsmod, lionfishapi, cataclysm, despawn_tweaker, collective, cerbons_api, seadwellers, endreborn, betterstrongholds, resourcefullib, spartanweaponry, deeperdarker, architectury, nerb, justhammers, animal_feeding_trough, mermod, cupboard, horsescanswim, framework, smallships, puffish_attributes, t_and_t, tradingpost, mr_craftable_horseitems, villagesandpillages, riskofrain_mobs, limitedchunks, octolib, mss, easymagic, realmrpg_demons, callablehorses, brute_force_rendering_culling, argonauts, waystones, structory, horseinboat, comforts, artifacts, alternate_current, configured, default_skill_trees, icterine, magistuarmory, slavicarmory, antiquelegacy, magistuarmoryaddon, mr_lukis_grandcapitals, dungeoncrawl, betterdeserttemples, hopour, orcz, farsight_view, continents, bosses_of_mass_destruction, terralith, morevanillashields, tlskincape, friendsandfoes, craftingtweaks, zillagersweararmor, minecraft, tht, horsecombatcontrols, onlyhammersandexcavators, barebackhorseriding, moonlight, netherdungeons, taxcp, mixinsquared, jade, hoporp, creativecore, efm_ex, spartanshields, brutalbosses, mes, nullscape, doespotatotick, mvs, ferritecore, rarcompat, expandability, valhelsia_core, realmrpg_quests]
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'relda:relda' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'workers:default' : Version test of '1.0.0' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horsecombatcontrols:main' : Version test of '3.2.1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rarcompat:network' : Version test of '1.0' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'crittersandcompanions:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iter_rpg:iter_rpg' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jet_and_elias_armors:jet_and_elias_armors' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'realmrpg_quests:realmrpg_quests' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'realmrpg_skeletons:realmrpg_skeletons' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'astikorcarts:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Version test of '1.0' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hammerlib:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deeperdarker:deeperdarker_network' : Version test of '1.0' from client : ACCEPTED
+[13Dec2024 02:57:42.431] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epicfight:network_manager' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bossominium:bossominium' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tht:tht' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'soulslikeuniverse:soulslikeuniverse' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tradingpost:1' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kiwi:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'armorstatues:1' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzlesapi:iteminteractions' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'friendsandfoes:networking' : Version test of '3.0.6' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sweety_horse_armor_tweaks:sweety_horse_armor_tweaks' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rechiseled:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:packets' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lightmanscurrency:network' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'callablehorses:callablehorseschannel' : Version test of '1.3.0.1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cadmus:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1.1.8' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puffish_skills:skill_click' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easyanvils:1' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'shifu_epic_fight_skill_recipe:shifu_epic_fight_skill_recipe' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:default' : Version test of '1.0.0' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'recruits:default' : Version test of '1.0.0' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftable_slimeball:craftable_slimeball' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_im:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forgeconfigscreens:play' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Version test of '7' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enchantinginfuser:1' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sawmill:channel' : Version test of '0' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cuffed:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'stalwart_dungeons:stalwart_dungeons' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'seadwellers:seadwellers' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'orcz:orcz' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzlesapi:limitlesscontainers' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'swampier_swamps:net' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.432] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftingtweaks:network' : Version test of '1.0' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'taxva:taxva' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'w2w2:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzlesapi:statues' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'library_of_exile:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'realmrpg_demons:realmrpg_demons' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'brutalbosses:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horseman:packets' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blocky_siege:blocky_siege' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'argonauts:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[13Dec2024 02:57:42.433] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[13Dec2024 02:57:42.438] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry hammerlib:level_actions' to 'fml:handshake' sequence 11
+[13Dec2024 02:57:42.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[13Dec2024 02:57:42.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:42.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:42.449] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[13Dec2024 02:57:42.449] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:42.449] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:42.486] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 12
+[13Dec2024 02:57:42.538] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 13
+[13Dec2024 02:57:42.587] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry lightmanscurrency:ejection_data' to 'fml:handshake' sequence 14
+[13Dec2024 02:57:42.637] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 15
+[13Dec2024 02:57:42.687] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill' to 'fml:handshake' sequence 16
+[13Dec2024 02:57:42.738] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 17
+[13Dec2024 02:57:42.788] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 18
+[13Dec2024 02:57:42.838] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 19
+[13Dec2024 02:57:42.888] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 20
+[13Dec2024 02:57:42.937] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill_data_keys' to 'fml:handshake' sequence 21
+[13Dec2024 02:57:42.988] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 22
+[13Dec2024 02:57:43.037] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 23
+[13Dec2024 02:57:43.088] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 24
+[13Dec2024 02:57:43.139] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 25
+[13Dec2024 02:57:43.189] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:conditions' to 'fml:handshake' sequence 26
+[13Dec2024 02:57:43.239] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry hammerlib:obj_sources' to 'fml:handshake' sequence 27
+[13Dec2024 02:57:43.288] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 28
+[13Dec2024 02:57:43.337] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 29
+[13Dec2024 02:57:43.361] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[13Dec2024 02:57:43.361] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.361] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.365] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[13Dec2024 02:57:43.365] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.365] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.367] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[13Dec2024 02:57:43.367] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.367] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.369] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[13Dec2024 02:57:43.369] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.369] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.371] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[13Dec2024 02:57:43.371] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.371] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.372] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[13Dec2024 02:57:43.372] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.372] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.375] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[13Dec2024 02:57:43.375] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.375] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.377] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[13Dec2024 02:57:43.377] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.377] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.379] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[13Dec2024 02:57:43.379] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.379] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.387] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config recruits-server.toml' to 'fml:handshake' sequence 30
+[13Dec2024 02:57:43.401] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[13Dec2024 02:57:43.401] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.401] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.438] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config horsecombatcontrols-server.toml' to 'fml:handshake' sequence 31
+[13Dec2024 02:57:43.438] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[13Dec2024 02:57:43.438] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.438] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.438] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[13Dec2024 02:57:43.438] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.438] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.438] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[13Dec2024 02:57:43.438] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[13Dec2024 02:57:43.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.486] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mermod-server.toml' to 'fml:handshake' sequence 32
+[13Dec2024 02:57:43.566] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config riskofrain_mobs-server.toml' to 'fml:handshake' sequence 33
+[13Dec2024 02:57:43.588] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easyanvils-server.toml' to 'fml:handshake' sequence 34
+[13Dec2024 02:57:43.609] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[13Dec2024 02:57:43.609] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.609] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.615] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[13Dec2024 02:57:43.615] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.615] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.617] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[13Dec2024 02:57:43.617] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.617] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.619] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[13Dec2024 02:57:43.619] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.619] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.619] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[13Dec2024 02:57:43.619] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.619] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.638] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 35
+[13Dec2024 02:57:43.687] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 36
+[13Dec2024 02:57:43.738] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 37
+[13Dec2024 02:57:43.803] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 38
+[13Dec2024 02:57:43.838] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config enchantinginfuser-server.toml' to 'fml:handshake' sequence 39
+[13Dec2024 02:57:43.888] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config universalbonemeal-server.toml' to 'fml:handshake' sequence 40
+[13Dec2024 02:57:43.936] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tradingpost-server.toml' to 'fml:handshake' sequence 41
+[13Dec2024 02:57:43.945] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[13Dec2024 02:57:43.945] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.945] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[13Dec2024 02:57:43.986] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config puzzlesapi-iteminteractions-server.toml' to 'fml:handshake' sequence 42
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:43.986] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.040] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config morevanillashields-server.toml' to 'fml:handshake' sequence 43
+[13Dec2024 02:57:44.088] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 44
+[13Dec2024 02:57:44.140] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cuffed-server.toml' to 'fml:handshake' sequence 45
+[13Dec2024 02:57:44.189] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easymagic-server.toml' to 'fml:handshake' sequence 46
+[13Dec2024 02:57:44.571] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[13Dec2024 02:57:44.571] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.571] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.618] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.627] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[13Dec2024 02:57:44.627] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.627] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.629] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[13Dec2024 02:57:44.629] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.629] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.652] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[13Dec2024 02:57:44.652] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.652] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.653] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 42
+[13Dec2024 02:57:44.653] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.653] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.655] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 43
+[13Dec2024 02:57:44.655] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 43 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.655] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.657] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 44
+[13Dec2024 02:57:44.657] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 44 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.657] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.660] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 45
+[13Dec2024 02:57:44.660] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 45 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.660] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.662] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 46
+[13Dec2024 02:57:44.662] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 46 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 02:57:44.663] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 02:57:44.686] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[13Dec2024 02:57:44.752] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GralMarcosPerez[/127.212.248.26:53855] logged in with entity id 90701 at (-279.4955604725366, 65.0, 380.1571546609868)
+[13Dec2024 02:57:44.752] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@118ad2d0 into net.minecraft.network.Connection@217a541f
+[13Dec2024 02:57:44.752] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 349 classes
+[13Dec2024 02:57:44.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez joined the game
+[13Dec2024 02:57:44.835] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: PlayerLoggedInEvent was called!
+[13Dec2024 02:57:44.840] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Saved Ejection Data:
+{Item:{Count:1b,id:"lightmanscurrency:card_display_spruce_white",tag:{StoredTrader:3L}},Split:0b,TraderID:3L,type:"lightmanscurrency:trader"}
+[13Dec2024 02:57:44.840] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Saved Ejection Data:
+{Item:{Count:1b,id:"lightmanscurrency:card_display_spruce_white",tag:{StoredTrader:4L}},Split:0b,TraderID:4L,type:"lightmanscurrency:trader"}
+[13Dec2024 02:57:44.840] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Saved Ejection Data:
+{Item:{Count:1b,id:"lightmanscurrency:card_display_spruce_white",tag:{StoredTrader:5L}},Split:0b,TraderID:5L,type:"lightmanscurrency:trader"}
+[13Dec2024 02:57:44.840] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Saved Ejection Data:
+{Item:{Count:1b,id:"lightmanscurrency:card_display_spruce_white",tag:{StoredTrader:6L}},Split:0b,TraderID:6L,type:"lightmanscurrency:trader"}
+[13Dec2024 02:57:44.841] [Server thread/INFO] [Jade/]: Syncing config to GralMarcosPerez (1b978ca6-6067-3143-9f84-9a4e505b6253)
+[13Dec2024 02:58:17.990] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to GralMarcosPerez (1b978ca6-6067-3143-9f84-9a4e505b6253)
+[13Dec2024 02:58:32.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set the time to 1000]
+[13Dec2024 02:59:11.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HalloF5 moved too quickly! 5.3255986327266385,-7.1174650224988625,-5.8786057587857385
+[13Dec2024 02:59:21.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HalloF5 moved too quickly! 10.277469302818162,0.11451637811525472,-0.7383632806650553
+[13Dec2024 03:00:17.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HalloF5 lost connection: Timed out
+[13Dec2024 03:00:17.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HalloF5 left the game
+[13Dec2024 03:00:36.959] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:39.204] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:39.899] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:40.072] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:40.745] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:41.646] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:44.659] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:46.065] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:47.046] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:47.312] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:47.753] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:52.219] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:52.600] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:52.752] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:52.902] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:53.069] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:55.772] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:58.824] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:59.375] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:59.608] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:00:59.948] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:01:00.158] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:01:00.502] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:01:00.809] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:01:07.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:01:16.025] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:01:16.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:01:17.595] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:01:18.392] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:01:18.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditnaturalEntity['Bandit'/90972, l='ServerLevel[world]', x=-214.30, y=65.00, z=428.28] died: Bandit was slain by GralMarcosPerez
+[13Dec2024 03:01:29.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BlackSirius9304 fell from a high place
+[13Dec2024 03:01:40.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:10.653] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 03:02:10.857] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 03:02:11.063] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 03:02:13.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:19.302] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 03:02:19.500] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 03:02:27.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:28.147] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:29.745] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:30.501] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:30.510] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:31.213] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 03:02:31.418] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
+[13Dec2024 03:02:31.995] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:32.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:32.647] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:33.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:33.349] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:34.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:34.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:34.802] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Dec2024 03:02:35.508] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
