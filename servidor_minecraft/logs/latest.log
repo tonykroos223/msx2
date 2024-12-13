@@ -5378,3 +5378,11 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 03:10:39.271] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
 [13Dec2024 03:10:39.471] [Server thread/INFO] [cuffed/]: ezekillah is interacting!
 [13Dec2024 03:11:10.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_GROZNY_: Set own game mode to Creative Mode]
+[13Dec2024 03:13:52.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez was kicked for floating too long!
+[13Dec2024 03:13:52.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez lost connection: Flying is not enabled on this server
+[13Dec2024 03:13:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez left the game
+[13Dec2024 03:14:03.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Disconnected
+[13Dec2024 03:14:03.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
+[13Dec2024 03:14:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by Dark spirit
+[13Dec2024 03:17:18.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Set own game mode to Survival Mode]
+[13Dec2024 03:20:56.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to BlackSirius9304]

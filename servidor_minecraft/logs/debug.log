@@ -23131,3 +23131,20 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [13Dec2024 03:12:09.645] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [13Dec2024 03:12:41.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 03:12:41.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 03:13:52.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez was kicked for floating too long!
+[13Dec2024 03:13:52.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GralMarcosPerez lost connection: Flying is not enabled on this server
+[13Dec2024 03:13:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GralMarcosPerez left the game
+[13Dec2024 03:14:03.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ezekillah lost connection: Disconnected
+[13Dec2024 03:14:03.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah left the game
+[13Dec2024 03:14:03.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ezekillah was slain by Dark spirit
+[13Dec2024 03:17:18.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BlackSirius9304: Set own game mode to Survival Mode]
+[13Dec2024 03:17:38.147] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: You can no longer afford this trade
+[13Dec2024 03:17:41.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 03:17:41.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 03:17:56.114] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:17:56.641] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:17:57.096] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:17:57.349] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Trader is out of stock
+[13Dec2024 03:20:56.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to BlackSirius9304]
+[13Dec2024 03:22:41.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 03:22:41.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
