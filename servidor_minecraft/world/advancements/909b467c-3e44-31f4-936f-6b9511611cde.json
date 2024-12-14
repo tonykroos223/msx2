@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_rapier": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 21:34:27 +0000"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2024-12-14 21:42:09 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coin_netherite_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -74,6 +86,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/oak/brown": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
     },
     "done": true
   },
@@ -146,6 +164,12 @@
   "lightmanscurrency:recipes/misc/traders/shelf/jungle": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2024-12-14 21:39:50 +0000"
     },
     "done": true
   },
@@ -626,6 +650,12 @@
   "lightmanscurrency:recipes/misc/traders/shelf2/bamboo": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
     },
     "done": true
   },
@@ -1187,6 +1217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-14 21:10:21 +0000"
@@ -1361,6 +1397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coin_copper_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1402,6 +1444,12 @@
       "opened_chest": "2024-12-14 21:22:08 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
   },
   "lightmanscurrency:recipes/misc/coins/coinpile_diamond_from_block": {
     "criteria": {
@@ -1619,6 +1667,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2024-12-14 21:41:34 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/black": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1652,6 +1712,12 @@
   "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_light_gray": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
     },
     "done": true
   },
@@ -2009,6 +2075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-14 21:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
@@ -2054,6 +2126,12 @@
   "spartanweaponry:recipes/golden_longbow": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
     },
     "done": true
   },
@@ -2766,6 +2844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-14 21:10:42 +0000"
@@ -2907,6 +2991,12 @@
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2024-12-14 21:14:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-14 21:46:14 +0000"
     },
     "done": true
   },
@@ -3108,6 +3198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/birch/black": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -3117,6 +3213,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/spruce/green": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
     },
     "done": true
   },
@@ -3171,6 +3273,12 @@
   "lightmanscurrency:recipes/misc/traders/shelf/bamboo": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
     },
     "done": true
   },
@@ -3372,6 +3480,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-14 21:01:42 +0000"
@@ -3474,6 +3594,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_brigg": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
@@ -3522,6 +3648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_katana": {
     "criteria": {
       "has_wood": "2024-12-14 21:10:21 +0000"
@@ -3543,6 +3675,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-14 21:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
     },
     "done": true
   },
@@ -3696,6 +3834,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/mangrove/pink": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -3819,6 +3963,12 @@
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-12-14 21:41:34 +0000"
     },
     "done": true
   },
@@ -3990,6 +4140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/bookshelf/acacia": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -4152,6 +4308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/brown": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -4248,6 +4410,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2024-12-14 21:42:03 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_nether_star": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
@@ -4290,9 +4458,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coin_chocolate_emerald_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-14 21:39:51 +0000"
     },
     "done": true
   },
@@ -4782,6 +4962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2024-12-14 21:26:22 +0000",
@@ -4951,6 +5137,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/jungle/gray": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
     },
     "done": true
   },
