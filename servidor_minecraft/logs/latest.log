@@ -4096,3 +4096,31 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 21:10:58.576] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
 [14Dec2024 21:11:01.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Pic-A-Nic Basket?]
 [14Dec2024 21:11:10.358] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/lion/graveyard/entities/CorruptedIllager$State
+[14Dec2024 21:12:15.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to 688.500000, 84.500000, -307.500000]
+[14Dec2024 21:12:25.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Getting an Upgrade]
+[14Dec2024 21:12:29.471] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[14Dec2024 21:12:29.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TRECETRECETRECE> 689 76 -302
+[14Dec2024 21:12:52.924] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[14Dec2024 21:13:28.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Close Quarters]
+[14Dec2024 21:13:43.565] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[14Dec2024 21:14:13.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Hunt and Gather]
+[14Dec2024 21:15:18.124] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MushroomCow['Gowl the Mad'/13163, l='ServerLevel[world]', x=684.45, y=80.00, z=-307.50] died: Gowl the Mad was slain by TRECETRECETRECE
+[14Dec2024 21:17:00.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[14Dec2024 21:17:06.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Incendium]
+[14Dec2024 21:17:06.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [We Need to Go Deeper]
+[14Dec2024 21:17:06.709] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[14Dec2024 21:17:06.863] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[14Dec2024 21:17:07.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Those Were the Days]
+[14Dec2024 21:17:30.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas was slain by Shieldman
+[14Dec2024 21:18:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Suit Up]
+[14Dec2024 21:18:47.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Acquire Hardware]
+[14Dec2024 21:19:19.368] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 21:19:22.818] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 21:19:27.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas fell from a high place
+[14Dec2024 21:20:40.319] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:20:40.466] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:20:40.617] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:20:40.668] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:20:41.166] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:22:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement ['X' Marks the Spot]
+[14Dec2024 21:22:11.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Safe Haven]

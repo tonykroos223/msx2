@@ -1,7 +1,19 @@
 {
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_light_blue": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -53,9 +65,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_scythe": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_diamond_from_block": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_glaive": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -74,6 +98,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/cherry/light_blue": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -104,6 +134,12 @@
   "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_diamond": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_longsword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -155,6 +191,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_gray": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -185,6 +227,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-14 21:17:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-14 21:17:06 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/lime": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -203,15 +257,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_katana": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_orange": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/acacia/brown": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_magenta": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/warped/white": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_battle_hammer": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -245,6 +323,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_spear": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/birch/red": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -257,9 +341,27 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:currency/events/christmas": {
     "criteria": {
       "event": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -275,6 +377,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_throwing_knife": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/cyan": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -284,6 +392,24 @@
   "lightmanscurrency:recipes/misc/traders/shelf/crimson": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -359,9 +485,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-14 21:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-14 21:10:25 +0000"
     },
     "done": true
   },
@@ -377,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coin_emerald_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -386,6 +530,12 @@
   "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_red": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -437,9 +587,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 21:15:08 +0000"
     },
     "done": true
   },
@@ -479,15 +641,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/warped/green": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/bookshelf/warped": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -533,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/mangrove/lime": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -551,6 +737,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_saber": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/acacia/light_blue": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -560,6 +758,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/spruce/yellow": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_javelin": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -590,6 +794,12 @@
   "lightmanscurrency:recipes/misc/traders/shelf/warped": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -644,6 +854,12 @@
   "lightmanscurrency:recipes/misc/traders/bookshelf/bamboo": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_quarterstaff": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -707,6 +923,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/bookshelf/oak": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -728,6 +950,24 @@
   "lightmanscurrency:recipes/misc/traders/card_display/acacia/pink": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_boomerang": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -764,6 +1004,12 @@
   "lightmanscurrency:recipes/misc/traders/vending_machine/dye_red": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2024-12-14 21:10:17 +0000"
     },
     "done": true
   },
@@ -839,6 +1085,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/yellow_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coinpile_diamond_from_block": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -854,6 +1106,12 @@
   "lightmanscurrency:recipes/misc/coins/coinblock_chocolate_copper_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -875,9 +1133,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_warhammer": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-14 21:15:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coin_chocolate_iron_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_tomahawk": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -911,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/magenta": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -929,15 +1223,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_purple": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-14 21:01:42 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/wheel": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -959,6 +1271,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_light_gray": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -974,6 +1298,12 @@
   "lightmanscurrency:recipes/misc/wallet/wallet_copper": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -1007,6 +1337,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_greatsword": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-14 21:10:17 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/bookshelf/crimson": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1022,6 +1364,18 @@
   "infinity_cave:technical/armor/helmet": {
     "criteria": {
       "empty": "2024-12-14 21:01:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_parrying_dagger": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_rapier": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -1043,6 +1397,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_diamond": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
@@ -1052,6 +1412,24 @@
   "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_netherite": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_battleaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -1085,15 +1463,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/light_gray": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_boomerang": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/wallet/wallet_gold": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -1145,9 +1541,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_throwing_knife": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/oak/red": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -1160,6 +1574,12 @@
   "lightmanscurrency:recipes/misc/traders/vending_machine/dye_green": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -1187,6 +1607,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-14 21:12:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/birch/pink": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1196,6 +1628,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/spruce/light_blue": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -1211,9 +1649,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_flanged_mace": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:mechanics/altar/tick": {
     "criteria": {
       "requirement": "2024-12-14 21:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 21:10:17 +0000"
     },
     "done": true
   },
@@ -1229,9 +1679,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/cherry/purple": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -1253,9 +1715,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/warped/gray": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_green": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -1296,6 +1788,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_rapier": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/bookshelf/cherry": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1311,6 +1809,12 @@
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -1398,6 +1902,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_purple": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coin_gold_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1434,6 +1950,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:load": {
     "criteria": {
       "requirement": "2024-12-14 21:01:42 +0000"
@@ -1458,6 +1986,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/birch/light_gray": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1467,6 +2001,12 @@
   "lightmanscurrency:recipes/misc/upgrades/coin_chest_exchange_upgrade": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -1488,15 +2028,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_longbow": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coinblock_emerald_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_emerald": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_saber": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -1509,6 +2067,18 @@
   "lightmanscurrency:recipes/misc/traders/card_display/spruce/orange": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_scythe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -1542,6 +2112,24 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_greatsword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_glaive": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/freezer/gray": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1572,6 +2160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/birch/white": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1581,6 +2175,12 @@
   "infinity_cave:technical/hit_match/entity_hurt_player": {
     "criteria": {
       "requirement": "2024-12-14 21:08:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -1614,6 +2214,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coinblock_chocolate_emerald_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1632,6 +2244,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_lance": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_gray": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/large_vending_machine/washing": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1647,6 +2283,12 @@
   "lightmanscurrency:recipes/misc/traders/bookshelf/spruce": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -1680,6 +2322,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2024-12-14 21:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_netherite_from_coin": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1698,6 +2352,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/mangrove/magenta": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1707,6 +2367,18 @@
   "lightmanscurrency:recipes/misc/traders/slot_machine": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-14 21:17:06 +0000"
     },
     "done": true
   },
@@ -1740,6 +2412,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_longsword": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_iron": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
@@ -1752,15 +2430,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_parrying_dagger": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/oak/black": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
     },
     "done": true
   },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/upgrades/copy_template": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -1773,6 +2475,12 @@
   "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_iron": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -1806,6 +2514,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_gold_from_block": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1815,6 +2529,12 @@
   "lightmanscurrency:recipes/misc/traders/bookshelf/jungle": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -1836,9 +2556,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_pike": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/shelf2/crimson": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -1938,9 +2670,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-12-14 21:15:27 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/upgrades/coin_chest_security_upgrade": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_halberd": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -1962,6 +2718,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/light_blue": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1980,6 +2742,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:mechanics/weapons/torpedo_harpoon/tick": {
     "criteria": {
       "requirement": "2024-12-14 21:01:42 +0000"
@@ -1995,6 +2763,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/spruce/white": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -2019,6 +2793,12 @@
   "smallships:recipes/transportation/acacia_brigg": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -2049,6 +2829,18 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_katana": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -2124,6 +2916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-14 21:01:42 +0000"
@@ -2142,9 +2940,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_battleaxe": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/pink": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -2163,6 +2973,12 @@
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -2187,6 +3003,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/orange": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "sawmill:recipes/sawmill": {
+    "criteria": {
+      "has_sticks": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -2220,6 +3042,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_battle_hammer": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_cyan": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -2235,6 +3063,24 @@
   "lightmanscurrency:recipes/misc/atm_swap": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-14 21:12:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_blue": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -2304,6 +3150,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/jungle/blue": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -2327,6 +3179,12 @@
       "log_spam_fixer": "2024-12-14 21:01:43 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:recipes/stone_lance": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
   },
   "lightmanscurrency:recipes/misc/traders/card_display/bamboo/black": {
     "criteria": {
@@ -2358,6 +3216,36 @@
     },
     "done": true
   },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_quarterstaff": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/auction_stand/crimson": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -2367,6 +3255,18 @@
   "lightmanscurrency:recipes/misc/traders/card_display/mangrove/cyan": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -2484,9 +3384,33 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-14 21:17:06 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/acacia/red": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_desk_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_dagger": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -2508,9 +3432,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/oak/magenta": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-14 21:11:01 +0000"
     },
     "done": true
   },
@@ -2523,6 +3459,12 @@
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -2550,6 +3492,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-14 21:12:25 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/cherry/yellow": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -2565,6 +3519,12 @@
   "lightmanscurrency:recipes/decorations/coin_jar/piggy_bank": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -2610,6 +3570,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_flanged_mace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/upgrades/create_template": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -2625,6 +3591,12 @@
   "lightmanscurrency:recipes/misc/traders/vending_machine/dye_blue": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -2649,6 +3621,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/mangrove/purple": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -2724,6 +3702,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_light_gray": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_javelin": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_heavy_crossbow": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/acacia/light_gray": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -2748,6 +3744,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/auction_stand/jungle": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -2757,6 +3759,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/black": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-14 21:10:21 +0000"
     },
     "done": true
   },
@@ -2802,6 +3810,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_pike": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/wallet/wallet_leather": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
@@ -2826,9 +3840,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/pole_from_string": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/shelf/spruce": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -2838,11 +3864,43 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_warhammer": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2024-12-14 21:03:13 +0000"
+      "minecraft:beach": "2024-12-14 21:16:41 +0000",
+      "minecraft:river": "2024-12-14 21:03:13 +0000",
+      "minecraft:forest": "2024-12-14 21:15:06 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:recipes/wooden_tomahawk": {
+    "criteria": {
+      "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-14 21:17:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/simple_handle": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
   },
   "lightmanscurrency:recipes/misc/traders/card_display/jungle/orange": {
     "criteria": {
@@ -2868,15 +3926,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/ticket_station": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_dagger": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/shelf/mangrove": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
@@ -2889,6 +3965,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/cherry/red": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_halberd": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
     },
     "done": true
   },
@@ -2928,6 +4010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/upgrades/network_upgrade": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -2952,9 +4040,21 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-14 21:10:24 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/wallet/wallet_nether_star": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-14 21:10:17 +0000"
     },
     "done": true
   },
@@ -2991,6 +4091,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_lime": {
+    "criteria": {
+      "has_stick": "2024-12-14 21:10:18 +0000"
     },
     "done": true
   },
