@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-14 22:16:11 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/blue": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -914,6 +920,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-14 21:56:22 +0000",
+      "minecraft:skeleton": "2024-12-14 22:14:27 +0000",
+      "minecraft:spider": "2024-12-14 22:12:02 +0000",
       "minecraft:zombie": "2024-12-14 21:54:07 +0000",
       "minecraft:drowned": "2024-12-14 22:07:56 +0000"
     },
@@ -5196,6 +5204,12 @@
   "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_green": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-14 22:12:03 +0000"
     },
     "done": true
   },

@@ -16386,3 +16386,255 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 22:12:02.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [14Dec2024 22:12:02.809] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [14Dec2024 22:12:05.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:13.011] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:13.015] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:13.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:13.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:13.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:13.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:13.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:22.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 22:14:22.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 22:14:26.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:26.212] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:27.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:29.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:30.463] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:31.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:53.467] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:53.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:53.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:53.947] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:54.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:54.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:54.370] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:54.467] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:55.016] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:55.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:55.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:55.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:55.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:55.649] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:55.768] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:55.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:56.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:56.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:56.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:56.468] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:57.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:58.512] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:14:59.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:15:15.715] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:15:15.845] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:15:16.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:15:18.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:15:23.007] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:15:24.358] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:15:25.057] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:15:38.815] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:38.964] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:39.065] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:39.213] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:39.343] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:44.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Spectator Mode]
+[14Dec2024 22:15:46.460] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:51.214] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:51.364] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:51.446] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:51.596] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:51.696] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:51.847] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:51.897] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:51.998] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:52.148] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:15:57.463] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:16:11.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has completed the challenge [Free Willy]
+[14Dec2024 22:16:29.010] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:16:29.211] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:16:39.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:16:40.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:16:40.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:16:41.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:16:41.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:16:41.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:16:41.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditnaturalEntity['Bandit'/49804, l='ServerLevel[world]', x=1184.84, y=65.00, z=-276.73] died: Bandit was slain by Gregas
+[14Dec2024 22:16:41.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:16:41.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:00.410] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:00.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:00.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:01.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:01.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:02.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:03.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:35.862] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:36.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:42.211] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:42.212] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:42.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:43.409] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:46.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[14Dec2024 22:17:48.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:51.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:51.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:51.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:52.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:52.410] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:52.411] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:52.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:17:57.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to Gregas]
+[14Dec2024 22:18:11.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported Gregas to TRECETRECETRECE]
+[14Dec2024 22:18:14.209] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:18:15.787] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:18:17.476] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:18:19.535] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:18:25.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[14Dec2024 22:18:29.409] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:18:30.009] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:18:36.999] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:18:37.459] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:18:37.809] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:18:37.960] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:18:38.743] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:18:46.789] [Worker-Main-9/DEBUG] [ModernFix/]: Structure philipsruins:small_ruin_stone_ruin_house is being run through DFU (hash 3e7c594eac825b4c5481e1cc6e409beb0d40c98b972a03d7d3e109641ce8cf4c), this will cause launch time delays
+[14Dec2024 22:18:47.026] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin17
+[14Dec2024 22:18:47.975] [Worker-Main-3/DEBUG] [ModernFix/]: Structure philipsruins:ruin_guardian_statue is being run through DFU (hash 3908a540a4c5d7069d61b5b191c929490977f29fe9e7af838178a3a2d3797237), this will cause launch time delays
+[14Dec2024 22:18:48.848] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[14Dec2024 22:18:48.966] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[14Dec2024 22:18:49.001] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[14Dec2024 22:18:49.045] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[14Dec2024 22:18:49.112] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[14Dec2024 22:18:49.151] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[14Dec2024 22:18:50.773] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[14Dec2024 22:18:52.714] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[14Dec2024 22:18:52.727] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[14Dec2024 22:18:52.755] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[14Dec2024 22:18:52.774] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[14Dec2024 22:18:52.788] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3
+[14Dec2024 22:18:52.812] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[14Dec2024 22:18:52.829] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[14Dec2024 22:18:52.863] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[14Dec2024 22:18:52.890] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[14Dec2024 22:18:52.912] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[14Dec2024 22:18:52.926] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[14Dec2024 22:18:52.951] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[14Dec2024 22:18:52.966] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[14Dec2024 22:18:52.979] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[14Dec2024 22:18:53.017] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[14Dec2024 22:18:53.037] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[14Dec2024 22:18:53.069] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[14Dec2024 22:18:53.090] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[14Dec2024 22:18:53.123] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[14Dec2024 22:18:53.142] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[14Dec2024 22:18:53.208] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=1545, y=-17, z=15} at Sarcophagus with:graveyard:chests/crypt_loot
+[14Dec2024 22:18:54.646] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_start
+[14Dec2024 22:18:57.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of seadwellers:columns
+[14Dec2024 22:18:57.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of seadwellers:pillars
+[14Dec2024 22:18:58.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of seadwellers:mine
+[14Dec2024 22:19:00.144] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/stone_bee
+[14Dec2024 22:19:01.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of seadwellers:bath
+[14Dec2024 22:19:03.105] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[14Dec2024 22:19:03.839] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[14Dec2024 22:19:03.853] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[14Dec2024 22:19:05.199] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=1640, y=48, z=-216} at Chest with:minecraft:chests/underwater_ruin_small
+[14Dec2024 22:19:12.111] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[14Dec2024 22:19:17.284] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of swampier_swamps:village/swamp/town_centers/meeting_point_3
+[14Dec2024 22:19:22.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 22:19:22.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 22:19:24.768] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:19:25.539] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[14Dec2024 22:19:31.434] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:19:32.518] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:19:32.571] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:19:32.740] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:19:33.521] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:19:34.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:19:35.666] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:19:35.740] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:19:36.666] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:19:37.500] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:19:37.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:19:37.701] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:19:37.930] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:19:38.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:19:44.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5320325083329323
+[14Dec2024 22:19:44.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.39047232576042745
+[14Dec2024 22:19:44.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.4000457636074657
+[14Dec2024 22:19:44.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.7894277222674333
+[14Dec2024 22:19:44.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.39901587583929654
+[14Dec2024 22:19:44.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.7872332730200284
+[14Dec2024 22:19:44.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 1.1634051916990558
+[14Dec2024 22:19:55.946] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:08.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:12.011] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:13.246] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:13.749] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:15.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:15.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Sea? Not a Problem]
+[14Dec2024 22:20:15.900] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:20.245] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:20.398] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:20.495] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:20.646] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:21.310] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:22.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:24.444] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:25.742] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:27.744] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:27.894] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:20:31.049] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:20:37.008] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:21:07.165] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=1394, y=37, z=312} at Chest with:minecraft:chests/ruined_portal
+[14Dec2024 22:21:07.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[14Dec2024 22:21:10.410] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:21:12.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:21:12.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:21:12.400] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:21:12.618] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:21:13.416] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:21:13.700] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:21:27.706] [Server thread/DEBUG] [ModernFix/]: Structure iter_rpg:simple_dungeon3 is being run through DFU (hash 604b7db11171a683b55cab7170a933c90526bc9a929a1e7060fb333a1fb152e7), this will cause launch time delays
+[14Dec2024 22:22:08.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported Gregas to TRECETRECETRECE]
+[14Dec2024 22:22:13.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas was slain by Sea Serpent
+[14Dec2024 22:22:24.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported Gregas to TRECETRECETRECE]
+[14Dec2024 22:22:29.465] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:31.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:31.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:39.758] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:40.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:40.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:40.909] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:41.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:42.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:42.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:43.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:43.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:43.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:51.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:51.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:51.808] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:52.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:52.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:52.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:52.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:53.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:53.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:53.857] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:53.858] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:54.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:56.108] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:56.207] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:56.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:56.410] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:56.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:57.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:22:58.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has completed the challenge [Exorcism]
+[14Dec2024 22:22:58.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has completed the challenge [Exorcism]
+[14Dec2024 22:23:28.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:23:29.219] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:23:29.607] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:23:29.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:23:32.462] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:23:32.958] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:23:32.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Sea? Not a Problem]
+[14Dec2024 22:23:32.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
