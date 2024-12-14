@@ -4200,3 +4200,44 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 22:00:34.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has completed the challenge [Serious Dedication]
 [14Dec2024 22:00:46.214] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [14Dec2024 22:02:48.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Barrel Booty]
+[14Dec2024 22:03:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Close Quarters]
+[14Dec2024 22:04:06.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Gave 1 [Goat Horn] to TRECETRECETRECE]
+[14Dec2024 22:04:10.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Gave 1 [Goat Horn] to TRECETRECETRECE]
+[14Dec2024 22:04:41.763] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:04:41.861] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:05:46.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[14Dec2024 22:06:36.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cog (vehicle of TRECETRECETRECE) moved wrongly! 0.3240931808060168
+[14Dec2024 22:06:44.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Creative Mode]
+[14Dec2024 22:06:59.366] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:01.092] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:01.265] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:02.174] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:03.760] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:07:03.911] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:05.864] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:07.365] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:09.511] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:20.917] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:22.462] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:22.665] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:24.112] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:26.714] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:07:35.062] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:07:36.614] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:38.212] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:39.316] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:41.414] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:07:52.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Set own game mode to Survival Mode]
+[14Dec2024 22:07:56.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/42121, l='ServerLevel[world]', x=1256.60, y=55.50, z=-416.57] died: Sargent the Soaked was slain by Gregas
+[14Dec2024 22:08:01.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Applied effect Saturation to TRECETRECETRECE]
+[14Dec2024 22:08:12.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Removed every effect from TRECETRECETRECE]
+[14Dec2024 22:08:21.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Amateur Archaeologist]
+[14Dec2024 22:09:17.060] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:09:54.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.25295601726361383
+[14Dec2024 22:10:12.864] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:10:36.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditnaturalEntity['Bandit'/45050, l='ServerLevel[world]', x=1235.30, y=62.56, z=-389.23] died: Bandit was slain by TRECETRECETRECE
+[14Dec2024 22:10:51.909] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:11:00.660] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 22:11:04.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.5243449539900666
+[14Dec2024 22:11:04.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Drakkar (vehicle of TRECETRECETRECE) moved wrongly! 0.986963072529079
+[14Dec2024 22:11:08.800] [Server thread/INFO] [cuffed/]: Gregas is interacting!

@@ -4281,7 +4281,8 @@
   },
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
-      "locate_underwater_small_ruins": "2024-12-13 02:00:06 +0000"
+      "locate_underwater_small_ruins": "2024-12-13 02:00:06 +0000",
+      "locate_ruin_cold": "2024-12-14 22:05:37 +0000"
     },
     "done": false
   },
@@ -6151,6 +6152,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-14 22:07:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 21:36:56 +0000"
@@ -6196,6 +6203,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 21:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-14 22:03:55 +0000"
     },
     "done": true
   },
@@ -6685,6 +6698,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 22:08:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2024-12-14 21:13:32 +0000"
@@ -6712,6 +6731,12 @@
   "supplementaries:recipes/bubble_blower": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 21:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-14 22:07:42 +0000"
     },
     "done": true
   },
@@ -6967,6 +6992,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 22:03:55 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-14 21:46:02 +0000"
@@ -7171,6 +7202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-14 22:07:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-14 21:46:02 +0000"
@@ -7300,6 +7337,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 21:36:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-14 22:08:53 +0000"
     },
     "done": true
   },
@@ -7525,6 +7568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-14 22:07:42 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_hammer": {
     "criteria": {
       "has_material": "2024-12-14 21:18:47 +0000"
@@ -7717,6 +7766,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 22:08:53 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-14 21:46:02 +0000"
@@ -7729,6 +7784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-14 22:03:55 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 21:18:47 +0000"
@@ -7738,6 +7799,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 21:18:47 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-14 22:08:21 +0000"
     },
     "done": true
   },
@@ -7793,6 +7860,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-14 21:57:47 +0000",
       "cooked_mutton": "2024-12-14 21:38:33 +0000",
+      "cooked_beef": "2024-12-14 22:00:20 +0000",
       "bread": "2024-12-14 21:44:57 +0000",
       "golden_apple": "2024-12-14 21:57:18 +0000"
     },
@@ -7801,6 +7869,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-12-14 21:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-14 22:03:55 +0000"
     },
     "done": true
   },
@@ -7825,6 +7899,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-14 21:20:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-14 22:08:53 +0000"
     },
     "done": true
   },
