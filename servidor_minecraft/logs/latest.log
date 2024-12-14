@@ -4152,3 +4152,25 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 21:31:39.114] [Server thread/INFO] [cuffed/]: Gregas is interacting!
 [14Dec2024 21:31:42.399] [Server thread/INFO] [cuffed/]: Gregas is interacting!
 [14Dec2024 21:32:05.867] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:34:06.264] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:34:11.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Amateur Archaeologist]
+[14Dec2024 21:35:46.567] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[14Dec2024 21:35:59.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Sweet Dreams]
+[14Dec2024 21:36:51.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Removed every effect from TRECETRECETRECE]
+[14Dec2024 21:37:36.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas was slain by Castle guard
+[14Dec2024 21:38:08.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas was slain by Castle guard
+[14Dec2024 21:38:18.936] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:38:46.835] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:38:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [What a Deal!]
+[14Dec2024 21:38:49.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Suit Up]
+[14Dec2024 21:39:00.293] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:39:00.643] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:39:07.659] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[14Dec2024 21:39:51.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Disme A Dozen]
+[14Dec2024 21:41:14.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to Gregas]
+[14Dec2024 21:41:34.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Safe Haven]
+[14Dec2024 21:41:40.960] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:42:03.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Call For Adventure]
+[14Dec2024 21:42:07.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3835ms or 76 ticks behind
+[14Dec2024 21:42:07.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE moved too quickly! 7.194348433706637,-1.6667882330920065,7.11944639035579
+[14Dec2024 21:42:41.415] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!

@@ -15684,3 +15684,180 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 21:31:39.114] [Server thread/INFO] [cuffed/]: Gregas is interacting!
 [14Dec2024 21:31:42.399] [Server thread/INFO] [cuffed/]: Gregas is interacting!
 [14Dec2024 21:32:05.867] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:33:42.463] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:42.468] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:42.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:42.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:43.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:43.814] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:43.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:44.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:44.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:44.369] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:44.460] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:44.463] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:44.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:33:44.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:34:06.264] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:34:09.259] [Server thread/DEBUG] [mixin/]: Mixing WearableArtifactCurioMixin from rarcompat.mixins.json into artifacts.forge.curio.WearableArtifactCurio
+[14Dec2024 21:34:09.259] [Server thread/DEBUG] [mixin/]: rarcompat.mixins.json:WearableArtifactCurioMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[14Dec2024 21:34:11.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Amateur Archaeologist]
+[14Dec2024 21:34:18.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 21:34:18.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 21:34:20.644] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
+[14Dec2024 21:34:20.644] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 3x lightmanscurrency:coin_iron to the chest loot.
+[14Dec2024 21:34:20.644] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 4x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:34:20.644] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 8x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:34:20.644] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 6x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:34:20.644] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 4x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:34:20.644] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_iron to the chest loot.
+[14Dec2024 21:34:20.644] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 21:34:20.644] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 21:34:43.689] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
+[14Dec2024 21:34:43.689] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 6x lightmanscurrency:coin_iron to the chest loot.
+[14Dec2024 21:34:43.689] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 8x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:34:43.689] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 5x lightmanscurrency:coin_iron to the chest loot.
+[14Dec2024 21:34:43.689] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 2x lightmanscurrency:coin_chocolate_iron to the chest loot.
+[14Dec2024 21:34:43.689] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 21:35:09.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:10.511] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:11.111] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:11.310] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:11.362] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:11.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:11.964] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:12.911] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:13.310] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:13.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:13.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:13.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:13.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:13.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:14.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:14.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:14.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:14.512] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:14.515] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:15.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:15.213] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:18.511] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:18.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:18.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:19.460] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:21.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:21.163] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:25.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:25.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:25.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:25.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:25.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:26.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:26.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:26.211] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:26.362] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:26.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:34.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:42.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:42.213] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:42.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:42.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:42.910] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:43.563] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:43.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:43.909] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:43.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:43.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:43.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:43.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:43.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:44.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:44.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:45.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:45.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:45.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:45.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:45.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:45.862] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:46.567] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[14Dec2024 21:35:46.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:46.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:47.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:48.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:35:59.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Sweet Dreams]
+[14Dec2024 21:36:42.987] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:36:43.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:36:43.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:36:44.409] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:36:51.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Removed every effect from TRECETRECETRECE]
+[14Dec2024 21:36:56.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:36:56.593] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:36:56.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:37:08.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:37:09.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:37:09.328] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:37:09.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:37:09.995] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:37:17.369] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:37:21.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:37:28.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:37:29.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:37:36.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas was slain by Castle guard
+[14Dec2024 21:37:48.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:38:08.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas was slain by Castle guard
+[14Dec2024 21:38:18.936] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:38:46.835] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:38:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [What a Deal!]
+[14Dec2024 21:38:49.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Suit Up]
+[14Dec2024 21:39:00.293] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:39:00.643] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:39:07.659] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[14Dec2024 21:39:18.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 21:39:18.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 21:39:51.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Disme A Dozen]
+[14Dec2024 21:39:53.211] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:40:46.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:41:14.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to Gregas]
+[14Dec2024 21:41:34.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Safe Haven]
+[14Dec2024 21:41:40.960] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:42:03.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Call For Adventure]
+[14Dec2024 21:42:03.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[14Dec2024 21:42:03.864] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/temple/desert_ruins_temple_exit_lower is being run through DFU (hash c36aad065b64630677fd0c8c447fa0ff133e12c799e8f708ecd785a1f1538eed), this will cause launch time delays
+[14Dec2024 21:42:03.886] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/temple/desert_ruins_temple_exit is being run through DFU (hash 7b024e08d2e2d67af2faac164f0ac96a1da86f1b38ef2c29485f4b665f776431), this will cause launch time delays
+[14Dec2024 21:42:03.903] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/mob/desert_ruins_mob_creeper is being run through DFU (hash 09c6a24aa58ec1d26c01e405ce1815fd6a408cb552feeb06461311838cced4e0), this will cause launch time delays
+[14Dec2024 21:42:03.945] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/mob/desert_ruins_mob_skeleton is being run through DFU (hash e8c7eb73c24f98f097564816a587b7cc05328a5b96ff68f7b452e30fd9343ff7), this will cause launch time delays
+[14Dec2024 21:42:03.946] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/temple/desert_ruins_temple_exit_corner is being run through DFU (hash 951195eb775b73ede9b990be8f13e431e0f12375c962cc325e3e321efc1c9bd0), this will cause launch time delays
+[14Dec2024 21:42:03.949] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/temple/desert_ruins_temple_exit_corner_lower is being run through DFU (hash 609752101d66492d4980b96e17aa1e913142acc254b6ae05c7b374bc70a3421a), this will cause launch time delays
+[14Dec2024 21:42:03.951] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/mob/desert_ruins_mob_husk is being run through DFU (hash d01cac557552e2f97a7f8ccff399585704ed2bec6a878d1bcd70b967d3af7b68), this will cause launch time delays
+[14Dec2024 21:42:03.952] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/path/desert_ruins_path9 is being run through DFU (hash 4451802fa92afc4dc56cf2d7441e79525282518fedb5c91c345573b20b26f7d0), this will cause launch time delays
+[14Dec2024 21:42:03.974] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/path/desert_ruins_path6 is being run through DFU (hash 063be4f30bb6ba9acdfeca70f239be217f2f75d3c98e33db2c89aa54ad9f1771), this will cause launch time delays
+[14Dec2024 21:42:03.995] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/path/desert_ruins_path7 is being run through DFU (hash ac3fd8281ee5146ef110dc6c4e9eb62c2afb688629557c7d5d07c93991c995ef), this will cause launch time delays
+[14Dec2024 21:42:04.077] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_16 is being run through DFU (hash 421edeb974182f3c99c9cdba0eab040b01dc4469213713a4810bc02f853515bb), this will cause launch time delays
+[14Dec2024 21:42:04.082] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/path/desert_ruins_path5 is being run through DFU (hash 71ee795091c8032f063242a5ca9bd4a1d92ade65375637a832d42466877e888b), this will cause launch time delays
+[14Dec2024 21:42:04.102] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/path/desert_ruins_path4 is being run through DFU (hash ef31cd0432e98a43ab0999f474e67ed6f6cc3a8070c513b8dfa3c2d1f79e89d9), this will cause launch time delays
+[14Dec2024 21:42:04.123] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/path/desert_ruins_path8 is being run through DFU (hash ea280a9135cbe7c7281a21fe7a9ed1894bb08a6bf3e69c2fc03dd16a306e1b36), this will cause launch time delays
+[14Dec2024 21:42:04.180] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_15 is being run through DFU (hash 15d7aabf462ebf049bb8ba9a299aa97a7c4017ae51e73f8aada7c326ea4dd2da), this will cause launch time delays
+[14Dec2024 21:42:04.221] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_4 is being run through DFU (hash 565bd00dae8478381cefc387213bf6dcc809be28e765f2b9406b35e7cec74eb9), this will cause launch time delays
+[14Dec2024 21:42:04.239] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_5 is being run through DFU (hash 382402bb236efbc28f9ab88cf148634a532af235ab360f23c13bf79376934247), this will cause launch time delays
+[14Dec2024 21:42:04.244] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_9 is being run through DFU (hash 05f6e5a2173cd8333ce5f99acbb2dc14ff79103abcb773d823fca647db568190), this will cause launch time delays
+[14Dec2024 21:42:04.247] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_3 is being run through DFU (hash 0f83a60ccfc5c16ae41e7de7b64844f469a6d5cfdf78c8a684bb24cf6e2d4549), this will cause launch time delays
+[14Dec2024 21:42:04.249] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_11 is being run through DFU (hash db3af6eda53df5b5e510972ed879d7583567cfe97d39c76991a2f42f6d718557), this will cause launch time delays
+[14Dec2024 21:42:04.250] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_lantern1 is being run through DFU (hash 9aba8375b5659f87468c8eae9db26d3ffa9bb7733ff007e9b79fb3c6c6b72e5b), this will cause launch time delays
+[14Dec2024 21:42:04.251] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_14 is being run through DFU (hash 0a65b4523e6118be00ff046e918b68130742f46daecebac0f4a130925d9ffb5d), this will cause launch time delays
+[14Dec2024 21:42:04.253] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_7 is being run through DFU (hash d204fd2b699283c9dbfd51327aa11481cee2273f97dd36e697e7f0d75b581f0f), this will cause launch time delays
+[14Dec2024 21:42:04.255] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_13 is being run through DFU (hash 7aa1da3326199a5c77a3051ce5536a33eb1ef5f7d57da5df4650bacff998832a), this will cause launch time delays
+[14Dec2024 21:42:04.257] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_12 is being run through DFU (hash 7acd6540452ee6244573c5e333fa0ae173c2116d9e700fbddd61cabe08d88de0), this will cause launch time delays
+[14Dec2024 21:42:04.259] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_1 is being run through DFU (hash 58cc4f3adff00540f39b151b97544708f052539d471d67bf1fa8469ede245ae8), this will cause launch time delays
+[14Dec2024 21:42:04.260] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_10 is being run through DFU (hash 359bb0bad0b895abc07b8b0a2e31d63c355758afe8772a557888b60ebd3f4c6f), this will cause launch time delays
+[14Dec2024 21:42:04.263] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_6 is being run through DFU (hash f679f2e8e5aa6378d0f5afcd007eea354c770a9084c43ffb224bf3a0c3e166ed), this will cause launch time delays
+[14Dec2024 21:42:04.267] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_2 is being run through DFU (hash 778e5777b14b2208033a320a1a7f4e08f7dd405a42314c1945f7198067e8037e), this will cause launch time delays
+[14Dec2024 21:42:04.269] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_8 is being run through DFU (hash 10d30baf88c3e210f8a75322de78ebf14627d95cf2cf39e1074745f470a3f705), this will cause launch time delays
+[14Dec2024 21:42:04.270] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_lantern3 is being run through DFU (hash 9e1c3f3c29d7fd3d1cf9c23a3e9a2fa059fa4e002e8cb038af8ed89053dfbe21), this will cause launch time delays
+[14Dec2024 21:42:04.271] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_lantern2 is being run through DFU (hash 4f947aa1c455a29771df7b1db6f08921488acefacf6d9b64a4417d51a21d7755), this will cause launch time delays
+[14Dec2024 21:42:04.301] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/path/desert_ruins_path3 is being run through DFU (hash 45d82dd3de5dd5e98c59a939783aeb6752065fb39e920dc15b4ff2166de04fbf), this will cause launch time delays
+[14Dec2024 21:42:04.302] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/path/desert_ruins_path2 is being run through DFU (hash c41b676b236e1fdeeb1de4b18f71ca481ded03905e4171ece5997b55796971ca), this will cause launch time delays
+[14Dec2024 21:42:04.303] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/path/desert_ruins_path1 is being run through DFU (hash 0dd30c9ea7b066e6459bd93f6ed1cd5e6921a0fa5f0a60030c8eda6409313d79), this will cause launch time delays
+[14Dec2024 21:42:04.304] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:desert_ruin/house/desert_ruins_house_17 is being run through DFU (hash 10e32caed6bb8bd826814525e75a070497fbef3d6811567a5ab8ea684a306e59), this will cause launch time delays
+[14Dec2024 21:42:07.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3835ms or 76 ticks behind
+[14Dec2024 21:42:07.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRECETRECETRECE moved too quickly! 7.194348433706637,-1.6667882330920065,7.11944639035579
+[14Dec2024 21:42:41.415] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 21:42:54.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_ruin6
