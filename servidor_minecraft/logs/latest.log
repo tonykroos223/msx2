@@ -4124,3 +4124,31 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 21:20:41.166] [Server thread/INFO] [cuffed/]: Gregas is interacting!
 [14Dec2024 21:22:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement ['X' Marks the Spot]
 [14Dec2024 21:22:11.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Safe Haven]
+[14Dec2024 21:22:55.065] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:23:05.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRECETRECETRECE has made the advancement [Call For Adventure]
+[14Dec2024 21:23:05.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[14Dec2024 21:23:10.586] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[14Dec2024 21:23:10.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5291ms or 105 ticks behind
+[14Dec2024 21:23:10.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gregas moved too quickly! 0.0733018408673729,5.5813359922251635,8.568648615212695
+[14Dec2024 21:24:15.924] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/18678, l='ServerLevel[world]', x=114.03, y=63.00, z=260.86] died: Bandit was slain by Gregas
+[14Dec2024 21:25:12.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas froze to death
+[14Dec2024 21:27:04.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRECETRECETRECE: Teleported TRECETRECETRECE to 683.500000, 76.500000, -324.500000]
+[14Dec2024 21:27:16.957] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[14Dec2024 21:27:43.217] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:27:43.369] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:27:43.451] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:27:43.498] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:27:45.314] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:27:45.399] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:28:02.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TRECETRECETRECE> 689 76 -302
+[14Dec2024 21:28:51.464] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[14Dec2024 21:29:05.872] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[14Dec2024 21:29:06.050] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:29:24.625] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER
+[14Dec2024 21:29:24.626] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[14Dec2024 21:29:46.923] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:30:52.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [It's Tradin' Time!]
+[14Dec2024 21:31:36.568] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/talhanation/smallships/client/model/sail/SailModel$Color
+[14Dec2024 21:31:39.114] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:31:42.399] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:32:05.867] [Server thread/INFO] [cuffed/]: Gregas is interacting!
