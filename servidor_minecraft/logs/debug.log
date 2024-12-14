@@ -15936,3 +15936,331 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 21:53:20.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [14Dec2024 21:53:21.357] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [14Dec2024 21:53:21.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:22.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:22.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:22.510] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:22.510] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:22.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:23.171] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:23.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:23.212] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:23.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:23.910] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:24.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:24.510] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:32.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:32.707] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:33.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:33.807] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:33.809] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:53:34.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:05.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:05.758] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:06.409] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:07.110] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:54:07.112] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Zombie did not drop coins, as it was spawned by a spawner.
+[14Dec2024 21:54:07.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Monster Hunter]
+[14Dec2024 21:54:09.584] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
+[14Dec2024 21:54:09.584] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:54:09.584] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_iron to the chest loot.
+[14Dec2024 21:54:09.584] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:54:13.433] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
+[14Dec2024 21:54:13.433] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 10x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:54:13.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Acquire Hardware]
+[14Dec2024 21:54:15.527] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
+[14Dec2024 21:54:15.527] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 2x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:54:15.527] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:54:15.527] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 6x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:54:15.527] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 3x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:54:15.527] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:54:15.527] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 21:54:15.527] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 21:54:15.527] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 2x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 21:54:15.527] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 2x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 21:54:19.566] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
+[14Dec2024 21:54:19.566] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 3x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:54:19.566] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 8x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:54:19.566] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 5x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:54:19.566] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 2x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:54:19.566] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_iron to the chest loot.
+[14Dec2024 21:54:19.566] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 21:54:19.566] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 21:54:22.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 21:54:22.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 21:55:03.475] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:04.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:05.132] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:05.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:08.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:09.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:09.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/34647, l='ServerLevel[world]', x=855.08, y=69.00, z=-455.16] died: Bandit was slain by Gregas
+[14Dec2024 21:55:52.909] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:53.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:53.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:54.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:55.959] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:55:56.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:01.858] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:01.907] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:01.960] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:02.007] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:02.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:02.809] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:03.057] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:03.058] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:03.409] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:03.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:03.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:04.056] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:04.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:04.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:05.410] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:05.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:06.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:06.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:06.162] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RogueEntity['Rogue Bandit'/34650, l='ServerLevel[world]', x=892.37, y=71.00, z=-401.03] died: Rogue Bandit was slain by TRECETRECETRECE
+[14Dec2024 21:56:06.909] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:07.009] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:07.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:07.710] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:09.809] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:10.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:10.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:10.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/34648, l='ServerLevel[world]', x=889.54, y=71.00, z=-400.15] died: Bandit was slain by Gregas
+[14Dec2024 21:56:10.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:10.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:12.108] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:13.758] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:13.808] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:15.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:15.879] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:15.879] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:16.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:17.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:19.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:20.307] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:21.307] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:21.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:22.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:22.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:22.580] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:22.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:24.408] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:24.660] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:25.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:25.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:25.263] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:27.322] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:35.108] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:35.158] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:35.208] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:35.259] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:35.307] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:35.357] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:35.408] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:35.459] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:35.509] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:35.557] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:35.609] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[14Dec2024 21:56:46.959] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:47.008] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:47.110] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:47.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:47.963] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:47.964] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:48.607] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:48.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/34646, l='ServerLevel[world]', x=847.05, y=75.56, z=-400.28] died: Bandit was slain by TRECETRECETRECE
+[14Dec2024 21:56:48.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:49.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:49.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:49.658] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:50.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:50.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:50.456] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:51.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:51.559] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:51.956] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:52.107] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:52.714] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:53.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:57.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:58.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:58.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:58.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:56:59.108] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:01.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:01.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:01.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/34649, l='ServerLevel[world]', x=840.28, y=77.00, z=-430.16] died: Bandit was slain by Gregas
+[14Dec2024 21:57:02.058] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:02.208] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:03.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:04.058] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:05.808] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:07.657] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:08.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:08.557] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:09.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:09.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BanditCaptainEntity['Bandit Captain'/34638, l='ServerLevel[world]', x=830.14, y=77.00, z=-399.56] died: Bandit Captain was slain by TRECETRECETRECE
+[14Dec2024 21:57:19.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:20.008] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:20.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:20.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:21.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:22.120] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:22.123] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:57:22.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:22.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:22.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:22.676] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:22.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:22.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:23.163] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:57:32.729] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 21:57:32.958] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 21:57:43.272] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
+[14Dec2024 21:57:43.272] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 4x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:57:43.272] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_copper to the chest loot.
+[14Dec2024 21:57:43.272] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 7x lightmanscurrency:coin_iron to the chest loot.
+[14Dec2024 21:57:43.272] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 6x lightmanscurrency:coin_iron to the chest loot.
+[14Dec2024 21:57:43.272] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 5x lightmanscurrency:coin_iron to the chest loot.
+[14Dec2024 21:57:43.272] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_copper to the chest loot.
+[14Dec2024 21:57:43.272] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_iron to the chest loot.
+[14Dec2024 21:57:43.272] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_iron to the chest loot.
+[14Dec2024 21:57:43.272] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 2x lightmanscurrency:coin_chocolate_iron to the chest loot.
+[14Dec2024 21:57:43.272] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 21:57:46.229] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 21:57:48.438] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
+[14Dec2024 21:57:48.438] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_copper to the chest loot.
+[14Dec2024 21:57:48.438] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 9x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:57:48.438] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 6x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:57:48.439] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 3x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 21:57:48.439] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 21:57:48.439] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 21:58:27.618] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:58:43.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4b
+[14Dec2024 21:58:45.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:58:57.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:58:57.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:58:59.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:58:59.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[14Dec2024 21:59:02.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:02.578] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:03.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:03.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:03.366] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:03.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:03.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:04.727] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:04.729] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:05.418] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:05.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:06.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:06.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:06.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:06.667] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:07.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:07.727] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:07.729] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:20.877] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:20.879] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:21.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:21.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:22.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:22.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 21:59:22.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 21:59:22.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:23.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:23.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:24.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:24.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:25.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:25.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:25.666] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:25.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:26.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:26.326] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:27.016] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:27.018] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:27.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:27.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:28.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:28.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:28.975] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:28.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:29.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:29.522] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:30.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:30.726] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:30.825] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:30.975] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:31.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:31.227] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:31.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:31.468] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:39.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ocean_ruin2
+[14Dec2024 21:59:46.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:46.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:48.163] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:48.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:51.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:51.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 21:59:57.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 21:59:57.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:05.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:05.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:05.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:05.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:06.263] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:06.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:06.866] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:06.868] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:07.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:07.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:08.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:08.177] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:08.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:09.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:09.216] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:09.771] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:09.773] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:13.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:13.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:14.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:14.773] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:15.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:15.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:16.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:23.162] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:27.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:27.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:28.874] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:28.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:29.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:29.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:32.218] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:32.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:33.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[14Dec2024 22:00:33.277] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
+[14Dec2024 22:00:33.277] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 3x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 22:00:33.277] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 9x lightmanscurrency:coin_copper to the chest loot.
+[14Dec2024 22:00:33.277] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 2x lightmanscurrency:coin_iron to the chest loot.
+[14Dec2024 22:00:33.277] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_iron to the chest loot.
+[14Dec2024 22:00:33.277] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 22:00:33.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/34645, l='ServerLevel[world]', x=845.50, y=75.94, z=-405.43] died: Corvin the Rotten was slain by Gregas
+[14Dec2024 22:00:33.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[14Dec2024 22:00:34.035] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:00:34.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has completed the challenge [Serious Dedication]
+[14Dec2024 22:00:46.213] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Loot table 'minecraft:chests/simple_dungeon' has T3 level chest loot. Adding coins to the spawned loot.
+[14Dec2024 22:00:46.214] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_copper to the chest loot.
+[14Dec2024 22:00:46.214] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 7x lightmanscurrency:coin_iron to the chest loot.
+[14Dec2024 22:00:46.214] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 8x lightmanscurrency:coin_copper to the chest loot.
+[14Dec2024 22:00:46.214] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 7x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 22:00:46.214] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 2x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 22:00:46.214] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 9x lightmanscurrency:coin_gold to the chest loot.
+[14Dec2024 22:00:46.214] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_copper to the chest loot.
+[14Dec2024 22:00:46.214] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_copper to the chest loot.
+[14Dec2024 22:00:46.214] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 22:00:46.214] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 2x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 22:00:46.214] [Server thread/DEBUG] [io.github.lightman314.lightmanscurrency.LightmansCurrency/]: Adding 1x lightmanscurrency:coin_chocolate_gold to the chest loot.
+[14Dec2024 22:00:46.214] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[14Dec2024 22:02:48.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Barrel Booty]

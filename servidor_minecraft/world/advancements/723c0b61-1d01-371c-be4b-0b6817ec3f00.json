@@ -6175,6 +6175,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-12-14 21:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-14 21:19:55 +0000"
@@ -6274,6 +6280,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 21:51:35 +0000"
     },
     "done": true
   },
@@ -6481,6 +6493,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 21:51:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 21:36:56 +0000"
@@ -6502,6 +6520,12 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-14 21:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-14 21:52:38 +0000"
     },
     "done": true
   },
@@ -6793,6 +6817,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_cherry_chair": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 21:51:35 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-14 21:46:02 +0000"
@@ -6862,6 +6892,12 @@
   "valhelsia_furniture:recipes/decorations/brown_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-14 21:46:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 21:51:35 +0000"
     },
     "done": true
   },
@@ -7174,6 +7210,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 21:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-14 21:52:38 +0000"
     },
     "done": true
   },
@@ -7597,6 +7639,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 21:51:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-14 21:12:59 +0000"
@@ -7642,6 +7690,12 @@
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 21:18:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 21:51:35 +0000"
     },
     "done": true
   },
@@ -7717,6 +7771,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_dark_oak_chair": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 21:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 21:51:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2024-12-14 21:15:24 +0000"
@@ -7725,8 +7791,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-14 21:57:47 +0000",
       "cooked_mutton": "2024-12-14 21:38:33 +0000",
-      "bread": "2024-12-14 21:44:57 +0000"
+      "bread": "2024-12-14 21:44:57 +0000",
+      "golden_apple": "2024-12-14 21:57:18 +0000"
     },
     "done": false
   },

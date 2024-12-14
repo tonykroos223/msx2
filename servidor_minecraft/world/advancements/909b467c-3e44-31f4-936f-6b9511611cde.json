@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_javelin": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:technical/armor/leggings": {
     "criteria": {
       "empty": "2024-12-14 21:01:42 +0000"
@@ -62,6 +68,12 @@
   "lightmanscurrency:recipes/misc/coins/coin_netherite_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_tower_shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -281,6 +293,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/purple": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -326,6 +344,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/green": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_blue": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -407,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 21:34:27 +0000"
@@ -422,6 +452,12 @@
   "infinity_cave:mechanics/weapons/sonic_bow/tick": {
     "criteria": {
       "requirement": "2024-12-14 21:01:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-14 21:54:04 +0000"
     },
     "done": true
   },
@@ -446,6 +482,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_lime": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -503,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 21:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 21:34:27 +0000"
@@ -545,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 21:29:02 +0000"
@@ -560,6 +614,12 @@
   "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
     "criteria": {
       "has_hay_block": "2024-12-14 21:25:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_heavy_crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -584,6 +644,18 @@
   "lightmanscurrency:currency/events/chocolate_coins": {
     "criteria": {
       "has_coins": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-14 21:54:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -623,6 +695,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_gray": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-14 21:10:21 +0000"
@@ -659,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-14 21:10:21 +0000"
@@ -692,6 +776,12 @@
   "lightmanscurrency:recipes/misc/traders/freezer/purple": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -773,15 +863,40 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-12-14 21:56:22 +0000",
+      "minecraft:zombie": "2024-12-14 21:54:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-14 21:15:08 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:currency/events/chocolate_coins_fallback": {
     "criteria": {
       "has_coins": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
     },
     "done": true
   },
@@ -809,6 +924,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_warhammer": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/cyan": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -824,6 +951,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-14 21:50:04 +0000"
     },
     "done": true
   },
@@ -857,6 +990,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/bookshelf/warped": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -875,9 +1014,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_parrying_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2024-12-14 21:50:04 +0000"
     },
     "done": true
   },
@@ -890,6 +1041,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/bamboo/yellow": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -965,6 +1122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-14 21:50:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-14 21:26:52 +0000"
@@ -1025,9 +1188,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-14 21:26:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_rapier": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -1052,6 +1227,12 @@
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-12-14 21:22:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battleaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -1130,6 +1311,12 @@
   "lightmanscurrency:recipes/misc/traders/bookshelf/bamboo": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -1379,6 +1566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/warped/brown": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1424,6 +1617,12 @@
   "lightmanscurrency:recipes/misc/coins/coin_diamond_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2024-12-14 21:54:03 +0000"
     },
     "done": true
   },
@@ -1481,6 +1680,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_orange": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/acacia/cyan": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1490,6 +1695,12 @@
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
     },
     "done": true
   },
@@ -1517,9 +1728,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_purple": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -1556,6 +1779,12 @@
   "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_diamond": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
     },
     "done": true
   },
@@ -1652,6 +1881,12 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -1763,6 +1998,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_red": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/freezer/red": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -1781,9 +2022,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 21:54:03 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/bookshelf/crimson": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bubble_blower": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -1847,6 +2106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 21:54:04 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_gold_to_wallet_netherite": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
@@ -1874,6 +2139,12 @@
   "lightmanscurrency:recipes/misc/coins/coinblock_chocolate_netherite_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
     },
     "done": true
   },
@@ -1928,6 +2199,12 @@
   "spartanweaponry:recipes/wooden_boomerang": {
     "criteria": {
       "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
     },
     "done": true
   },
@@ -2087,6 +2364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-14 21:12:10 +0000"
@@ -2120,6 +2403,12 @@
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battle_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -2213,6 +2502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-12-14 21:50:04 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/auction_stand/dark_oak": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -2228,6 +2523,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_spear": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -2295,6 +2596,24 @@
   "realmrpg_quests:root": {
     "criteria": {
       "root_0": "2024-12-14 21:01:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_saber": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 21:57:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 21:54:04 +0000"
     },
     "done": true
   },
@@ -2370,6 +2689,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2024-12-14 21:01:43 +0000"
@@ -2394,6 +2719,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/cherry/light_gray": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -2415,6 +2746,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/dark_oak/yellow": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-14 21:50:04 +0000"
     },
     "done": true
   },
@@ -2568,6 +2905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coinpile_chocolate_diamond_from_coin": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -2610,6 +2953,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 21:54:07 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_iron_to_wallet_emerald": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
@@ -2637,6 +2986,12 @@
   "lightmanscurrency:recipes/misc/terminal_swap": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -2715,6 +3070,12 @@
   "spartanweaponry:recipes/wooden_glaive": {
     "criteria": {
       "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 21:54:04 +0000"
     },
     "done": true
   },
@@ -2814,6 +3175,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/shelf2/cherry": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -2847,6 +3220,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 21:46:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_quarterstaff": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -2928,6 +3307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2024-12-14 21:10:18 +0000"
@@ -2952,6 +3337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 21:54:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-14 21:10:18 +0000"
@@ -2964,15 +3355,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_halberd": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/spruce/pink": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 21:54:04 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/purple": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_flanged_mace": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -3000,6 +3415,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-14 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_boomerang": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-12-14 21:10:21 +0000"
@@ -3024,9 +3451,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "forge:rods/wooden": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-14 21:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -3039,6 +3484,12 @@
   "lightmanscurrency:recipes/misc/traders/slot_machine": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_katana": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -3084,6 +3535,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_pike": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2024-12-14 21:03:22 +0000"
@@ -3105,6 +3562,12 @@
   "lightmanscurrency:recipes/misc/wallet/upgrade_wallet_copper_to_wallet_iron": {
     "criteria": {
       "coin": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_pink": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -3210,9 +3673,27 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/spruce/green": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-14 21:50:04 +0000"
     },
     "done": true
   },
@@ -3225,6 +3706,12 @@
   "lightmanscurrency:recipes/misc/portable_gem_terminal_swap": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-14 21:54:03 +0000"
     },
     "done": true
   },
@@ -3267,6 +3754,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-14 21:24:16 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_basic_shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -3366,6 +3859,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_tomahawk": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/coin_mint/coin_mint/melt_coin_copper": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -3402,6 +3901,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_glaive": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/mangrove/light_gray": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -3435,6 +3946,12 @@
   "spartanweaponry:recipes/combat/pole_from_wool": {
     "criteria": {
       "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_longsword": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -3513,6 +4030,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/crimson/light_blue": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -3654,9 +4177,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_katana": {
     "criteria": {
       "has_wood": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_lance": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -3708,6 +4243,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 21:57:54 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/acacia/blue": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -3756,6 +4297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 21:54:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_javelin": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 21:34:27 +0000"
@@ -3786,6 +4333,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2024-12-14 21:50:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-14 21:20:20 +0000"
@@ -3795,6 +4348,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-14 21:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
     },
     "done": true
   },
@@ -3828,6 +4387,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_brown": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/goblet": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/jungle/light_blue": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -3846,6 +4417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
@@ -3855,6 +4432,12 @@
   "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_throwing_knife": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -3900,6 +4483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/acacia/purple": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -3915,6 +4504,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/jungle/magenta": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -3975,6 +4570,12 @@
   "lightmanscurrency:recipes/misc/coins/coin_chocolate_netherite_from_pile": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/iron_gate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -4056,6 +4657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/large_vending_machine/dye_black": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -4098,6 +4705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2024-12-14 21:01:43 +0000"
@@ -4113,6 +4726,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-14 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -4182,6 +4801,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_hammer": {
+    "criteria": {
+      "has_material": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_quarterstaff": {
     "criteria": {
       "has_cobblestone": "2024-12-14 21:10:42 +0000"
@@ -4197,6 +4822,12 @@
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
     },
     "done": true
   },
@@ -4344,6 +4975,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_green": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/shelf/oak": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -4353,6 +4990,12 @@
   "smallships:recipes/transportation/jungle_drakkar": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 21:54:04 +0000"
     },
     "done": true
   },
@@ -4482,6 +5125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/birch/lime": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -4503,6 +5152,12 @@
   "smallships:recipes/transportation/acacia_drakkar": {
     "criteria": {
       "in_water": "2024-12-14 21:03:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_longbow": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -4551,6 +5206,12 @@
   "lightmanscurrency:recipes/misc/traders/vending_machine/dye_lime": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_greatsword": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -4641,6 +5302,12 @@
   "lightmanscurrency:recipes/misc/traders/card_display/acacia/orange": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -4794,6 +5461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/traders/card_display/acacia/white": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -4833,6 +5506,12 @@
   "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-14 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-14 21:50:04 +0000"
     },
     "done": true
   },
@@ -4884,6 +5563,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-14 21:54:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_pike": {
     "criteria": {
       "has_cobblestone": "2024-12-14 21:10:42 +0000"
@@ -4920,9 +5605,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/pole_from_string": {
     "criteria": {
       "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -4935,6 +5632,12 @@
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2024-12-14 21:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -4956,9 +5659,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_scythe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2024-12-14 21:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-14 21:54:07 +0000"
     },
     "done": true
   },
@@ -5045,6 +5760,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-14 21:10:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 21:54:04 +0000"
     },
     "done": true
   },
@@ -5158,6 +5879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 21:57:54 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coinpile_netherite_from_block": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -5194,6 +5921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-14 21:50:04 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/upgrades/network_upgrade": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
@@ -5224,9 +5957,21 @@
     },
     "done": true
   },
+  "rechiseled:recipes/misc/chisel": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-14 21:10:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
     },
     "done": true
   },
@@ -5260,9 +6005,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-14 21:54:13 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/misc/coins/coinpile_gold_from_block": {
     "criteria": {
       "money": "2024-12-14 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-14 21:52:28 +0000"
     },
     "done": true
   },

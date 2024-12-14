@@ -4184,3 +4184,19 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [14Dec2024 21:47:38.331] [Server thread/INFO] [cuffed/]: Gregas is interacting!
 [14Dec2024 21:47:51.738] [Server thread/INFO] [cuffed/]: Gregas is interacting!
 [14Dec2024 21:47:52.983] [Server thread/INFO] [cuffed/]: Gregas is interacting!
+[14Dec2024 21:54:07.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Monster Hunter]
+[14Dec2024 21:54:13.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Acquire Hardware]
+[14Dec2024 21:55:09.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/34647, l='ServerLevel[world]', x=855.08, y=69.00, z=-455.16] died: Bandit was slain by Gregas
+[14Dec2024 21:56:06.162] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RogueEntity['Rogue Bandit'/34650, l='ServerLevel[world]', x=892.37, y=71.00, z=-401.03] died: Rogue Bandit was slain by TRECETRECETRECE
+[14Dec2024 21:56:10.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/34648, l='ServerLevel[world]', x=889.54, y=71.00, z=-400.15] died: Bandit was slain by Gregas
+[14Dec2024 21:56:48.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/34646, l='ServerLevel[world]', x=847.05, y=75.56, z=-400.28] died: Bandit was slain by TRECETRECETRECE
+[14Dec2024 21:57:01.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/34649, l='ServerLevel[world]', x=840.28, y=77.00, z=-430.16] died: Bandit was slain by Gregas
+[14Dec2024 21:57:09.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BanditCaptainEntity['Bandit Captain'/34638, l='ServerLevel[world]', x=830.14, y=77.00, z=-399.56] died: Bandit Captain was slain by TRECETRECETRECE
+[14Dec2024 21:57:32.729] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 21:57:32.958] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 21:57:46.229] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:00:33.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/34645, l='ServerLevel[world]', x=845.50, y=75.94, z=-405.43] died: Corvin the Rotten was slain by Gregas
+[14Dec2024 22:00:34.035] [Server thread/INFO] [cuffed/]: TRECETRECETRECE is interacting!
+[14Dec2024 22:00:34.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has completed the challenge [Serious Dedication]
+[14Dec2024 22:00:46.214] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[14Dec2024 22:02:48.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gregas has made the advancement [Barrel Booty]
